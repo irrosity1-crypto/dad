@@ -23,8 +23,8 @@ jobs:
   briefing:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
         with:
           node-version: 24
       - run: npm install --no-audit --no-fund
@@ -36,6 +36,7 @@ jobs:
         run: |
           git config user.name "dad-news-bot"
           git config user.email "dad-news-bot@users.noreply.github.com"
+          mkdir -p briefings
           git add briefings
           if git diff --cached --quiet; then
             echo "Nothing new."
