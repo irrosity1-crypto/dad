@@ -24,9 +24,14 @@ const els = {
 
 // ---------- settings ----------
 
+const isGeminiKey = (key) => /^(AIza|AQ\.)\S{20,}$/.test(key);
+
 function loadSettings() {
   try {
-    return { ...DEFAULTS, ...JSON.parse(localStorage.getItem(STORE_KEY) || '{}') };
+    const saved = { ...DEFAULTS, ...JSON.parse(localStorage.getItem(STORE_KEY) || '{}') };
+    // A Claude key saved before the switch to Gemini won't work, so ask for a new one.
+    if (!isGeminiKey(saved.apiKey)) saved.apiKey = '';
+    return saved;
   } catch {
     return { ...DEFAULTS };
   }
@@ -686,7 +691,7 @@ els.test.addEventListener('click', () => {
 
 els.save.addEventListener('click', async () => {
   const key = els.key.value.trim();
-  if (!/^(AIza|AQ\.)\S{20,}$/.test(key)) {
+  if (!isGeminiKey(key)) {
     els.setupMsg.textContent = 'That does not look like a Gemini API key. It should start with AIza or AQ.';
     return;
   }
