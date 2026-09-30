@@ -2,7 +2,7 @@ name: News briefing
 
 on:
   schedule:
-    # Checks every hour; the script only calls Claude when a reading time in
+    # Checks every hour; the script only calls Gemini when a reading time in
     # schedule.json is less than about an hour away.
     - cron: "7 * * * *"
   workflow_dispatch:
@@ -27,10 +27,9 @@ jobs:
       - uses: actions/setup-node@v5
         with:
           node-version: 24
-      - run: npm install --no-audit --no-fund
       - run: node scripts/briefing.mjs
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           FORCE: ${{ inputs.force }}
       - name: Save briefing
         run: |

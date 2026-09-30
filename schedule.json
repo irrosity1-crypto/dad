@@ -1,6 +1,5 @@
 {
   "timezone": "Africa/Accra",
   "times": ["06:30", "09:00", "12:30", "17:00", "20:30"],
-  "language": "English",
-  "monthlyBudgetUSD": 8
+  "language": "English"
 }

@@ -4,8 +4,5 @@
   "type": "module",
   "scripts": {
     "briefing": "node scripts/briefing.mjs"
-  },
-  "dependencies": {
-    "@anthropic-ai/sdk": "^0.128.0"
   }
 }

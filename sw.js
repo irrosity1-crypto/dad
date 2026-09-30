@@ -1,7 +1,7 @@
 // Network first, so updates pushed to GitHub show up right away;
 // the cached copy is only used when the phone is offline.
-const CACHE = 'dadnews-v2';
-const SHELL = ['./', 'index.html', 'app.js', 'vendor/anthropic.mjs', 'manifest.webmanifest', 'icons/icon-192.png'];
+const CACHE = 'dadnews-v3';
+const SHELL = ['./', 'index.html', 'app.js', 'manifest.webmanifest', 'icons/icon-192.png'];
 
 self.addEventListener('install', (event) => {
   event.waitUntil(caches.open(CACHE).then((cache) => cache.addAll(SHELL)));

@@ -1,54 +1,25 @@
-import Anthropic from './vendor/anthropic.mjs';
-
-// Web search is limited to these outlets. Subdomains are included automatically.
-const TRUSTED_SITES = [
-  'myjoyonline.com',
-  'graphic.com.gh',
-  'citinewsroom.com',
-  '3news.com',
-  'starrfm.com.gh',
-  'theghanareport.com',
-  'gna.org.gh',
-  'ghanaweb.com',
-  'reuters.com',
-  'apnews.com',
-  'bbc.com',
-  'bbc.co.uk',
-  'aljazeera.com',
-  'dw.com',
-  'npr.org',
-  'theguardian.com',
-  'france24.com',
-  'cnn.com',
-  'africanews.com',
-  'cbc.ca',
-  'abc.net.au',
-  'news.un.org',
-];
-
 const LANGUAGE_NAMES = {
   'en-US': 'English', 'en-GB': 'British English', 'fr-FR': 'French', 'es-ES': 'Spanish',
   'pt-PT': 'Portuguese', 'de-DE': 'German', 'ar-SA': 'Arabic', 'sw-KE': 'Swahili',
 };
 
 const STORE_KEY = 'dadnews.settings';
-const DEFAULTS = { apiKey: '', model: 'claude-sonnet-5', lang: 'en-US', rate: 1, monthlyLimit: 15 };
-// Older turns are dropped so follow-up questions stay cheap.
+const DEFAULTS = { apiKey: '', lang: 'en-US', rate: 1 };
+// Older turns are dropped so follow-up questions stay small.
 const MAX_HISTORY_MESSAGES = 6;
 
-// USD per million tokens, plus $10 per 1,000 web searches.
-const PRICES = {
-  'claude-sonnet-5': { input: 2, output: 10, cacheWrite: 2.5, cacheRead: 0.2 },
-  'claude-opus-5': { input: 5, output: 25, cacheWrite: 6.25, cacheRead: 0.5 },
-};
-const PRICE_PER_SEARCH = 0.01;
-const SPEND_KEY = 'dadnews.spend';
+// Free-tier models, tried in order. Each has its own daily quota, so when one is used up
+// or busy the next is tried. One question is one request, so together they cover far
+// more than a day's questions.
+const QUESTION_MODELS = ['gemini-3.8-flash', 'gemini-3.5-flash', 'gemini-3.7-flash', 'gemini-3.5-flash-lite', 'gemini-3.1-flash-lite'];
+const API = 'https://generativelanguage.googleapis.com/v1beta/models';
+const COUNT_KEY = 'dadnews.questions';
 
 const $ = (id) => document.getElementById(id);
 const els = {
   talk: $('talk'), status: $('status'), heard: $('heard'),
-  setupLink: $('settings-link'), setup: $('setup'), key: $('key'), model: $('model'),
-  lang: $('lang'), rate: $('rate'), save: $('save'), test: $('test'), close: $('close'), setupMsg: $('setup-msg'), limit: $('limit'), spent: $('spent'),
+  setupLink: $('settings-link'), setup: $('setup'), key: $('key'),
+  lang: $('lang'), rate: $('rate'), save: $('save'), test: $('test'), close: $('close'), setupMsg: $('setup-msg'), used: $('used'),
 };
 
 // ---------- settings ----------
@@ -264,7 +235,7 @@ function setState(next) {
   els.status.textContent = STATUS_TEXT[next];
 }
 
-// ---------- Claude ----------
+// ---------- Gemini ----------
 
 let history = [];
 let lastAnswer = '';
@@ -276,35 +247,55 @@ let runId = 0;
 let briefing = null;
 let briefingFetchedAt = 0;
 
-// Reads straight from the repo so a new briefing shows up without waiting for GitHub Pages to rebuild.
-function briefingUrls() {
+// The latest news items from trusted outlets, saved hourly by GitHub Actions.
+// Questions are answered from these, because the free Gemini tier has no Google Search.
+let news = null;
+
+// Reads straight from the repo so new files show up without waiting for GitHub Pages to rebuild.
+function repoUrls(file) {
   const urls = [];
   const host = location.hostname.match(/^([^.]+)\.github\.io$/i);
   if (host) {
     const repo = location.pathname.split('/').filter(Boolean)[0] || location.hostname;
-    urls.push(`https://raw.githubusercontent.com/${host[1]}/${repo}/main/briefings/latest.json`);
+    urls.push(`https://raw.githubusercontent.com/${host[1]}/${repo}/main/briefings/${file}`);
   }
-  urls.push('briefings/latest.json');
+  urls.push(`briefings/${file}`);
   return urls;
 }
 
-async function loadBriefing() {
-  if (briefing && Date.now() - briefingFetchedAt < 10 * 60_000) return briefing;
-  for (const url of briefingUrls()) {
+async function fetchRepoJson(file, isValid) {
+  for (const url of repoUrls(file)) {
     try {
       const res = await fetch(`${url}?t=${Date.now()}`, { cache: 'no-store' });
       if (!res.ok) continue;
       const data = await res.json();
-      if (data?.text) {
-        briefing = data;
-        briefingFetchedAt = Date.now();
-        return briefing;
-      }
+      if (isValid(data)) return data;
     } catch {
       // Try the next location.
     }
   }
+  return null;
+}
+
+async function loadBriefing() {
+  if (briefing && Date.now() - briefingFetchedAt < 10 * 60_000) return briefing;
+  const [newBriefing, newNews] = await Promise.all([
+    fetchRepoJson('latest.json', (d) => d?.text),
+    fetchRepoJson('news.json', (d) => Array.isArray(d?.items)),
+  ]);
+  briefing = newBriefing || briefing;
+  news = newNews || news;
+  if (newBriefing) briefingFetchedAt = Date.now();
   return briefing;
+}
+
+function newsList() {
+  const hoursAgo = (iso) => (iso ? ` (${Math.max(0, Math.round((Date.now() - new Date(iso)) / 3600_000))} hours ago)` : '');
+  const listFor = (region) => news.items
+    .filter((item) => item.region === region)
+    .map((item) => `- [${item.source}] ${item.title}${hoursAgo(item.published)}. ${item.summary}`)
+    .join('\n') || '(none available)';
+  return `GHANA NEWS:\n${listFor('Ghana')}\n\nWORLD NEWS:\n${listFor('World')}`;
 }
 
 function hoursOld(b) {
@@ -317,48 +308,52 @@ async function playBriefing() {
   const b = await loadBriefing();
   if (myRun !== runId) return;
   if (!b || hoursOld(b) > 12) {
-    // No recent scheduled briefing, so search live instead.
-    askClaude('Give me the top political headlines for Ghana and the world.');
+    // No recent scheduled briefing, so make one from the latest news items.
+    askGemini('Give me the top political headlines for Ghana and the world.');
     return;
   }
   lastAnswer = b.text;
   speakThenIdle(b.text);
 }
 
-// ---------- monthly spending cap for live questions ----------
+// ---------- free daily quota ----------
 
-function currentMonth() {
-  return new Date().toISOString().slice(0, 7);
+// Google resets free quotas at midnight Pacific time.
+function quotaDay() {
+  return new Date().toLocaleDateString('en-CA', { timeZone: 'America/Los_Angeles' });
 }
 
-function loadSpend() {
+function quotaResetTime() {
+  const p = Object.fromEntries(new Intl.DateTimeFormat('en-US', {
+    timeZone: 'America/Los_Angeles', hour: 'numeric', minute: 'numeric', second: 'numeric', hourCycle: 'h23',
+  }).formatToParts(new Date()).map((x) => [x.type, Number(x.value)]));
+  const msLeft = ((24 - p.hour) * 3600 - p.minute * 60 - p.second) * 1000;
+  return new Date(Date.now() + msLeft).toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit' });
+}
+
+function questionsToday() {
   try {
-    const s = JSON.parse(localStorage.getItem(SPEND_KEY) || '{}');
-    return s.month === currentMonth() ? s : { month: currentMonth(), usd: 0 };
+    const c = JSON.parse(localStorage.getItem(COUNT_KEY) || '{}');
+    return c.day === quotaDay() ? c.count : 0;
   } catch {
-    return { month: currentMonth(), usd: 0 };
+    return 0;
   }
 }
 
-function recordSpend(model, usage) {
-  const p = PRICES[model] || PRICES['claude-sonnet-5'];
-  const usd = (
-    (usage.input_tokens || 0) * p.input +
-    (usage.output_tokens || 0) * p.output +
-    (usage.cache_creation_input_tokens || 0) * p.cacheWrite +
-    (usage.cache_read_input_tokens || 0) * p.cacheRead
-  ) / 1_000_000 + (usage.server_tool_use?.web_search_requests || 0) * PRICE_PER_SEARCH;
-  const spend = loadSpend();
-  spend.usd = Math.round((spend.usd + usd) * 10000) / 10000;
+function countQuestion() {
   try {
-    localStorage.setItem(SPEND_KEY, JSON.stringify(spend));
+    localStorage.setItem(COUNT_KEY, JSON.stringify({ day: quotaDay(), count: questionsToday() + 1 }));
   } catch {
-    // The Anthropic Console spend limit still applies.
+    // Only used for the count shown in Setup.
   }
 }
 
-function overMonthlyLimit() {
-  return loadSpend().usd >= Number(settings.monthlyLimit || DEFAULTS.monthlyLimit);
+class GeminiError extends Error {
+  constructor(status, reason, message) {
+    super(message);
+    this.status = status;
+    this.reason = reason;
+  }
 }
 
 function systemPrompt() {
@@ -366,9 +361,10 @@ function systemPrompt() {
   const language = LANGUAGE_NAMES[settings.lang] || 'English';
   return `You are the personal news reader for a blind man in Ghana who follows politics closely: Ghanaian politics most of all, then world politics. Everything you write is read aloud by a text-to-speech voice, so write for the ear. Today is ${today}.
 
-How to find news:
-- Use web search to find current reporting before answering. Only report what the sources say. If you cannot find something recent, say so plainly rather than guessing.
-- Name sources naturally, for example "Reuters reports that..." Never read out web addresses.
+Where the news comes from:
+- Use only the news items from trusted outlets below and the briefing. Do not add facts that are not in them, and do not rely on your own memory for current events.
+- If the items don't cover what he asked about, say so plainly, for example "The outlets I follow haven't reported on that today", then mention the closest related story if there is one.
+- Name sources naturally, for example "The B B C reports that..." Never read out web addresses.
 
 How to speak:
 - Plain spoken sentences only. No headings, bullet points, numbered lists, symbols, markdown, or emoji.
@@ -381,7 +377,15 @@ What to give him:
 - Say party names the way Ghanaians do, for example "the N D C" and "the N P P".
 - For a follow-up or a specific topic: about 150 to 250 words unless he asks for more detail.
 - If his request is unclear, give your best guess at what he meant rather than asking him to repeat it.
-- Keep web searches to the minimum needed, usually one.${briefing ? `
+- For background questions, like who someone is or what a law does, you may explain briefly from general knowledge, but say that it's background and not today's news.${news ? `
+
+The latest news items (updated ${new Date(news.updatedAt).toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit' })}):
+
+<news>
+${newsList()}
+</news>` : `
+
+The news items could not be loaded, so tell him you can't reach the latest news right now and he should try again in a few minutes.`}${briefing ? `
 
 The most recent scheduled briefing he heard is below. When he says "story two" or similar, he means the stories in it.
 
@@ -390,18 +394,12 @@ ${briefing.text}
 </briefing>` : ''}`;
 }
 
-function buildParams() {
-  const isOpus = settings.model === 'claude-opus-5';
+function buildRequest() {
   return {
-    model: settings.model,
-    max_tokens: 3000,
-    system: systemPrompt(),
-    messages: history,
-    tools: [{ type: 'web_search_20260209', name: 'web_search', max_uses: 2, allowed_domains: TRUSTED_SITES }],
-    output_config: { effort: 'low' },
-    cache_control: { type: 'ephemeral' },
-    // If a request is declined, Anthropic retries it on a fallback model instead.
-    ...(isOpus ? { betas: ['server-side-fallback-2026-07-01'], fallbacks: 'default' } : {}),
+    systemInstruction: { parts: [{ text: systemPrompt() }] },
+    contents: history,
+    // Little thinking, so he hears the answer sooner.
+    generationConfig: { maxOutputTokens: 3000, temperature: 0.4, thinkingConfig: { thinkingLevel: 'low' } },
   };
 }
 
@@ -410,28 +408,61 @@ function trimHistory() {
   while (history.length && history[0].role !== 'user') history.shift();
 }
 
+// Streams one answer, passing each piece of text to onText. Resolves with the finish reason.
+async function streamAnswer(model, signal, onText) {
+  const res = await fetch(`${API}/${model}:streamGenerateContent?alt=sse`, {
+    method: 'POST',
+    headers: { 'content-type': 'application/json', 'x-goog-api-key': settings.apiKey },
+    body: JSON.stringify(buildRequest()),
+    signal,
+  });
+  if (!res.ok) {
+    const data = await res.json().catch(() => ({}));
+    const reason = data.error?.details?.find((d) => d.reason)?.reason || data.error?.status || '';
+    throw new GeminiError(res.status, reason, data.error?.message || res.statusText);
+  }
+  const reader = res.body.pipeThrough(new TextDecoderStream()).getReader();
+  let buffer = '';
+  let finishReason = '';
+  for (;;) {
+    const { value, done } = await reader.read();
+    if (done) break;
+    buffer += value;
+    const events = buffer.split(/\r?\n\r?\n/);
+    buffer = events.pop();
+    for (const event of events) {
+      const line = event.split(/\r?\n/).find((l) => l.startsWith('data:'));
+      if (!line) continue;
+      const chunk = JSON.parse(line.slice(5));
+      if (chunk.promptFeedback?.blockReason) return 'BLOCKED';
+      const candidate = chunk.candidates?.[0];
+      for (const part of candidate?.content?.parts || []) {
+        if (part.text && !part.thought) onText(part.text);
+      }
+      if (candidate?.finishReason) finishReason = candidate.finishReason;
+    }
+  }
+  return finishReason;
+}
+
 function errorMessage(err) {
-  if (err instanceof Anthropic.AuthenticationError || err instanceof Anthropic.PermissionDeniedError) {
-    return "The news reader's key is not working. Please ask the family to check the setup.";
+  if (err instanceof GeminiError) {
+    if (err.status === 429) {
+      return `The free news service has used up its questions for now. Please try again in a minute. If it keeps saying this, it resets at ${quotaResetTime()}. The headlines still work.`;
+    }
+    if (err.reason === 'API_KEY_INVALID' || err.status === 401 || err.status === 403) {
+      return "The news reader's key is not working. Please ask the family to check the setup.";
+    }
+    if (err.status >= 500) return 'The news service is having a problem. Please try again in a few minutes.';
   }
-  if (err instanceof Anthropic.BadRequestError && /credit|billing/i.test(err.message)) {
-    return 'The news account has run out of credit. Please ask the family to add more.';
-  }
-  if (err instanceof Anthropic.RateLimitError) return 'The news service is busy. Please try again in a minute.';
-  if (err instanceof Anthropic.APIConnectionError) return "I can't reach the internet right now. Please check the Wi-Fi and try again.";
-  if (err instanceof Anthropic.InternalServerError) return 'The news service is having a problem. Please try again in a few minutes.';
+  if (err instanceof TypeError) return "I can't reach the internet right now. Please check the Wi-Fi and try again.";
   return 'Sorry, something went wrong. Please try again.';
 }
 
-async function askClaude(text) {
+async function askGemini(text) {
   const myRun = ++runId;
   const myMessages = new Set();
   const rollback = () => { history = history.filter((m) => !myMessages.has(m)); };
-
-  if (overMonthlyLimit()) {
-    speakThenIdle("This month's budget for questions is used up. The scheduled news will keep playing, and you can still say headlines.");
-    return;
-  }
 
   setState('thinking');
   say('One moment.');
@@ -440,48 +471,51 @@ async function askClaude(text) {
   await loadBriefing();
   if (myRun !== runId) return;
   trimHistory();
-  const userMessage = { role: 'user', content: text };
+  const userMessage = { role: 'user', parts: [{ text }] };
   history.push(userMessage);
   myMessages.add(userMessage);
 
-  const client = new Anthropic({ apiKey: settings.apiKey, dangerouslyAllowBrowser: true });
   const chunker = makeSentenceChunker();
   let answer = '';
+  const onText = (delta) => {
+    if (myRun !== runId) return;
+    if (state === 'thinking') {
+      stopTicks();
+      setState('speaking');
+    }
+    answer += delta;
+    chunker.push(delta);
+  };
 
   try {
-    // A long search can pause the turn; sending it back lets the server continue.
-    for (let hop = 0; hop < 4; hop++) {
-      const stream = client.beta.messages.stream(buildParams());
-      currentStream = stream;
-      stream.on('text', (delta) => {
-        if (myRun !== runId) return;
-        if (state === 'thinking') {
-          stopTicks();
-          setState('speaking');
-        }
-        answer += delta;
-        chunker.push(delta);
-      });
-      const message = await stream.finalMessage();
-      recordSpend(settings.model, message.usage);
-      if (myRun !== runId) return;
-
-      if (message.stop_reason === 'refusal') {
-        rollback();
-        answer = "Sorry, I can't help with that one. Try asking another way.";
-        say(answer);
+    let finishReason = '';
+    for (const [i, model] of QUESTION_MODELS.entries()) {
+      const controller = new AbortController();
+      currentStream = controller;
+      try {
+        finishReason = await streamAnswer(model, controller.signal, onText);
         break;
+      } catch (err) {
+        // Busy, out of quota or retired: try the next model, unless this one already started speaking
+        // or the key itself is wrong.
+        const keyProblem = err.reason === 'API_KEY_INVALID' || err.status === 401 || err.status === 403;
+        const canRetry = err instanceof GeminiError && !keyProblem && !answer;
+        if (!canRetry || i === QUESTION_MODELS.length - 1) throw err;
       }
+    }
+    countQuestion();
+    if (myRun !== runId) return;
 
-      const last = history[history.length - 1];
-      if (last.role === 'assistant' && myMessages.has(last)) {
-        last.content = [...last.content, ...message.content];
-      } else {
-        const assistantMessage = { role: 'assistant', content: message.content };
-        history.push(assistantMessage);
-        myMessages.add(assistantMessage);
-      }
-      if (message.stop_reason !== 'pause_turn') break;
+    if (finishReason === 'BLOCKED' || (finishReason === 'SAFETY' && !answer)) {
+      rollback();
+      answer = "Sorry, I can't help with that one. Try asking another way.";
+      say(answer);
+    } else if (answer) {
+      const reply = { role: 'model', parts: [{ text: answer }] };
+      history.push(reply);
+      myMessages.add(reply);
+    } else {
+      rollback();
     }
 
     chunker.flush();
@@ -617,7 +651,7 @@ async function onTap() {
     command();
     return;
   }
-  askClaude(text);
+  askGemini(text);
 }
 
 els.talk.addEventListener('click', onTap);
@@ -626,11 +660,9 @@ els.talk.addEventListener('click', onTap);
 
 function openSetup() {
   els.key.value = settings.apiKey;
-  els.model.value = settings.model;
   els.lang.value = settings.lang;
   els.rate.value = settings.rate;
-  els.limit.value = settings.monthlyLimit;
-  els.spent.textContent = `Spent on questions this month so far: about $${loadSpend().usd.toFixed(2)}.`;
+  els.used.textContent = `Questions asked today: ${questionsToday()}. The free limit resets at ${quotaResetTime()}.`;
   els.setupMsg.textContent = '';
   els.setup.hidden = false;
 }
@@ -654,12 +686,11 @@ els.test.addEventListener('click', () => {
 
 els.save.addEventListener('click', async () => {
   const key = els.key.value.trim();
-  if (!key.startsWith('sk-ant-')) {
-    els.setupMsg.textContent = 'That does not look like a Claude API key. It should start with sk-ant-';
+  if (!/^(AIza|AQ\.)\S{20,}$/.test(key)) {
+    els.setupMsg.textContent = 'That does not look like a Gemini API key. It should start with AIza or AQ.';
     return;
   }
-  settings = { ...settings, apiKey: key, model: els.model.value, lang: els.lang.value, rate: Number(els.rate.value),
-    monthlyLimit: Math.max(1, Number(els.limit.value) || DEFAULTS.monthlyLimit) };
+  settings = { ...settings, apiKey: key, lang: els.lang.value, rate: Number(els.rate.value) };
   pickVoice();
   if (!storeSettings()) {
     els.setupMsg.textContent = 'Could not save on this phone. Is private browsing turned on?';
@@ -667,14 +698,13 @@ els.save.addEventListener('click', async () => {
   }
   els.setupMsg.textContent = 'Checking the key…';
   try {
-    const client = new Anthropic({ apiKey: key, dangerouslyAllowBrowser: true });
-    await client.models.retrieve(settings.model);
-    els.setupMsg.textContent = 'Saved. The key works.';
+    const res = await fetch(`${API}/${QUESTION_MODELS[0]}`, { headers: { 'x-goog-api-key': key } });
+    if (res.ok) els.setupMsg.textContent = 'Saved. The key works.';
+    else if (res.status === 400 || res.status === 403) els.setupMsg.textContent = 'Saved, but that key was rejected. Please copy it again.';
+    else els.setupMsg.textContent = `Saved, but the key could not be checked (error ${res.status}).`;
   } catch (err) {
     console.error(err);
-    els.setupMsg.textContent = err instanceof Anthropic.AuthenticationError
-      ? 'Saved, but that key was rejected. Please copy it again.'
-      : 'Saved, but the key could not be checked (no internet?).';
+    els.setupMsg.textContent = 'Saved, but the key could not be checked (no internet?).';
   }
 });
 

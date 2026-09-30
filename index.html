@@ -165,22 +165,10 @@
       <h1 id="setup-title">Dad News setup</h1>
       <p>This screen is for family. The key is saved only on this phone. It is never uploaded to GitHub.</p>
 
-      <label>Claude API key
-        <input id="key" type="password" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="sk-ant-...">
-        <span class="hint">From console.anthropic.com → API keys.</span>
-      </label>
-
-      <label>Model
-        <select id="model">
-          <option value="claude-sonnet-5">Claude Sonnet 5 (recommended, about 5 cents per question)</option>
-          <option value="claude-opus-5">Claude Opus 5 (deeper answers, about 12 cents per question)</option>
-        </select>
-        <span class="hint">Used when Dad asks questions. Scheduled briefings always use Sonnet 5.</span>
-      </label>
-
-      <label>Monthly limit for questions (US dollars)
-        <input id="limit" type="number" min="1" max="200" step="1" inputmode="numeric">
-        <span class="hint" id="spent"></span>
+      <label>Gemini API key
+        <input id="key" type="password" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="AIza...">
+        <span class="hint">Free, from aistudio.google.com → Get API key.</span>
+        <span class="hint" id="used"></span>
       </label>
 
       <label>Language

@@ -1,7 +1,6 @@
 // Builds a spoken news briefing from trusted RSS feeds and saves it to
 // briefings/latest.txt (read aloud by the phone) and briefings/latest.json (used by the app).
-// Runs hourly on GitHub Actions but only calls Claude shortly before a time in schedule.json.
-import Anthropic from '@anthropic-ai/sdk';
+// Runs hourly on GitHub Actions but only calls Gemini shortly before a time in schedule.json.
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 
 // Ghanaian outlets come first; a story several of them cover is treated as trending.
@@ -20,9 +19,11 @@ const FEEDS = [
   ['World', 'Africanews', 'https://www.africanews.com/feed/rss'],
 ];
 
-const MODEL = 'claude-sonnet-5';
-// USD per million tokens for Claude Sonnet 5.
-const PRICE = { input: 2, output: 10, cacheWrite: 2.5, cacheRead: 0.2 };
+// Free-tier models, best first. Each model has its own daily quota, so if one is used up,
+// busy or retired, the next is tried. A briefing is one request of about 10,000 tokens,
+// and 5 a day is far below the free daily limits.
+const MODELS = ['gemini-3.8-flash', 'gemini-3.5-flash', 'gemini-3.7-flash', 'gemini-3.5-flash-lite', 'gemini-3.1-flash-lite'];
+const API = 'https://generativelanguage.googleapis.com/v1beta/models';
 const ITEMS_PER_FEED = { Ghana: 15, World: 8 };
 const MAX_AGE_HOURS = 18;
 // A briefing is made when a reading time is up to 75 minutes ahead (or up to 30 minutes late).
@@ -62,7 +63,7 @@ function parseFeed(xml, region, source) {
     region,
     source,
     title: tagText(block, 'title'),
-    summary: (tagText(block, 'description') || tagText(block, 'summary')).slice(0, 300),
+    summary: (tagText(block, 'description') || tagText(block, 'summary')).slice(0, 500),
     published: new Date(tagText(block, 'pubDate') || tagText(block, 'dc:date') || tagText(block, 'updated') || tagText(block, 'published')),
   })).filter((item) => item.title);
 }
@@ -115,14 +116,6 @@ async function readJson(url, fallback) {
   }
 }
 
-function costOf(usage) {
-  return (
-    (usage.input_tokens || 0) * PRICE.input +
-    (usage.output_tokens || 0) * PRICE.output +
-    (usage.cache_creation_input_tokens || 0) * PRICE.cacheWrite +
-    (usage.cache_read_input_tokens || 0) * PRICE.cacheRead
-  ) / 1_000_000;
-}
 
 // ---------- main ----------
 
@@ -137,20 +130,21 @@ const due = force
   ? { slot: `manual ${now.toISOString()}`, playAt: now }
   : findDueSlot(schedule, now, latest.slot);
 
-if (!due) {
-  console.log('No reading time coming up. Nothing to do.');
-  process.exit(0);
-}
-
-const month = localParts(now, schedule.timezone).date.slice(0, 7);
-let usage = await readJson(new URL('usage.json', OUT_DIR), {});
-if (usage.month !== month) usage = { month, costUSD: 0, briefings: 0 };
-if (usage.costUSD >= schedule.monthlyBudgetUSD) {
-  console.log(`Monthly budget of $${schedule.monthlyBudgetUSD} reached ($${usage.costUSD.toFixed(2)} spent). Skipping.`);
-  process.exit(0);
-}
-
+// Every hour, save the latest items so the app can answer questions from them.
+// (The free Gemini tier doesn't include Google Search.)
 const items = (await Promise.all(FEEDS.map(fetchFeed))).flat();
+if (items.length >= 5 && !dryRun) {
+  await mkdir(OUT_DIR, { recursive: true });
+  await writeFile(new URL('news.json', OUT_DIR), JSON.stringify({
+    updatedAt: now.toISOString(),
+    items: items.map((item) => ({ ...item, published: isNaN(item.published) ? null : item.published.toISOString() })),
+  }, null, 1) + '\n');
+}
+
+if (!due) {
+  console.log(`Saved ${items.length} news items. No reading time coming up.`);
+  process.exit(0);
+}
 if (items.length < 5) throw new Error(`Only ${items.length} news items could be fetched.`);
 
 const ghanaCount = items.filter((i) => i.region === 'Ghana').length;
@@ -189,32 +183,52 @@ if (dryRun) {
   process.exit(0);
 }
 
-const client = new Anthropic();
-let response;
-try {
-  response = await client.messages.create({
-    model: MODEL,
-    max_tokens: 4000,
-    output_config: { effort: 'low' },
-    system,
-    messages: [{ role: 'user', content: `Here are the latest news items:\n\n${itemList}\n\nWrite the briefing.` }],
+const apiKey = process.env.GEMINI_API_KEY;
+if (!apiKey) throw new Error('The GEMINI_API_KEY secret is missing.');
+
+// Returns the briefing text, or null when this model is unavailable or out of free quota.
+async function generate(model) {
+  const res = await fetch(`${API}/${model}:generateContent`, {
+    method: 'POST',
+    headers: { 'content-type': 'application/json', 'x-goog-api-key': apiKey },
+    body: JSON.stringify({
+      systemInstruction: { parts: [{ text: system }] },
+      contents: [{ role: 'user', parts: [{ text: `Here are the latest news items:\n\n${itemList}\n\nWrite the briefing.` }] }],
+      generationConfig: { maxOutputTokens: 8192, temperature: 0.4, thinkingConfig: { thinkingLevel: 'low' } },
+    }),
+    signal: AbortSignal.timeout(120_000),
   });
-} catch (err) {
-  if (err instanceof Anthropic.AuthenticationError) {
-    console.error('The ANTHROPIC_API_KEY secret is missing or wrong.');
-  } else if (err instanceof Anthropic.APIError) {
-    console.error(`Claude API error ${err.status}: ${err.message}`);
+  const data = await res.json().catch(() => ({}));
+  if (!res.ok) {
+    const message = data.error?.message || res.statusText;
+    if (res.status === 401 || res.status === 403 || /api key/i.test(message)) throw new Error('The GEMINI_API_KEY secret is wrong.');
+    console.warn(`${model} unavailable (${res.status}): ${message.split('\n')[0]}`);
+    return null;
   }
-  throw err;
+  if (data.promptFeedback?.blockReason) throw new Error(`Gemini blocked the request (${data.promptFeedback.blockReason}); keeping the previous briefing.`);
+  const candidate = data.candidates?.[0];
+  const text = (candidate?.content?.parts || []).filter((p) => !p.thought).map((p) => p.text || '').join('').trim();
+  if (!text) throw new Error(`Empty briefing from ${model} (finish reason: ${candidate?.finishReason}).`);
+  if (candidate.finishReason === 'MAX_TOKENS') console.warn('The briefing hit the length limit and may be cut short.');
+  return text;
 }
 
-if (response.stop_reason === 'refusal') throw new Error('Claude declined to write this briefing; keeping the previous one.');
-const text = response.content.filter((b) => b.type === 'text').map((b) => b.text).join('').trim();
-if (!text) throw new Error(`Empty briefing (stop reason: ${response.stop_reason}).`);
+let text = null;
+let usedModel = null;
+for (const model of MODELS) {
+  text = await generate(model);
+  if (text) {
+    usedModel = model;
+    break;
+  }
+}
+if (!text) throw new Error('Every free Gemini model is out of quota right now; keeping the previous briefing.');
 
-const cost = costOf(response.usage);
-usage.costUSD = Math.round((usage.costUSD + cost) * 10000) / 10000;
+const month = localParts(now, schedule.timezone).date.slice(0, 7);
+let usage = await readJson(new URL('usage.json', OUT_DIR), {});
+if (usage.month !== month) usage = { month, briefings: 0 };
 usage.briefings += 1;
+usage.lastModel = usedModel;
 
 await mkdir(OUT_DIR, { recursive: true });
 await writeFile(new URL('latest.txt', OUT_DIR), text + '\n');
@@ -224,8 +238,9 @@ await writeFile(new URL('latest.json', OUT_DIR), JSON.stringify({
   playAt: due.playAt.toISOString(),
   timezone: schedule.timezone,
   language,
+  model: usedModel,
   text,
 }, null, 2) + '\n');
 await writeFile(new URL('usage.json', OUT_DIR), JSON.stringify(usage, null, 2) + '\n');
 
-console.log(`Briefing saved. Cost $${cost.toFixed(4)}; this month $${usage.costUSD.toFixed(2)} over ${usage.briefings} briefings.`);
+console.log(`Briefing saved using ${usedModel}; ${usage.briefings} briefings this month.`);

@@ -5,29 +5,28 @@ A voice news reader for Dad, with two parts:
 1. **Scheduled briefings (automatic).** Five times a day, GitHub prepares a spoken **political** news briefing: three or four trending Ghanaian stories (from MyJoyOnline, Graphic Online, Starr FM, 3News and The Ghana Report), then two world stories (from BBC, Al Jazeera, The Guardian, DW, France 24 and Africanews). A Ghana story reported by several outlets counts as trending and goes first. At each time you choose, his iPhone reads it aloud by itself. He doesn't have to do anything.
 2. **The Dad News app (on demand).** He taps anywhere on the screen and speaks:
    - "Headlines" plays the latest briefing again. This is free.
-   - "Tell me more about story two" or "What's the news from Kenya?" asks Claude, which searches trusted sites. This is a paid question.
+   - "Tell me more about story two" or "What's the news from Kenya?" asks Gemini, which searches Google for recent reporting from trusted outlets.
    - "Repeat that", "Slower", "Faster", "Start over" and "Help" work too, and are free.
 
-## Monthly cost (Claude Sonnet 5)
+## Cost: free (Gemini free tier)
 
-| Part | Usage | Cost |
+Everything runs on Google's free Gemini API. No card is needed, and it can never charge you.
+
+The free tier limits how many requests can be made per minute and per day. The quota resets at midnight US Pacific time, which is 7 or 8 in the morning in Ghana. Google changes the exact numbers from time to time; see your current ones at https://aistudio.google.com/rate-limit.
+
+| Part | Requests a day | How it fits the free limits |
 |---|---|---|
-| Scheduled briefings | 5 a day, about 3 cents each | about $4–5 a month |
-| Questions in the app | about 5 cents each | capped at $15 a month by default (about 10 a day) |
-| GitHub, hosting | | free |
-| **Total** | | **about $20 a month at most** |
+| Scheduled briefings | 5 (one per briefing) | Uses the newest Flash model. If its daily quota is used up, it falls back to older Flash models, each with its own quota. |
+| Questions in the app | one per question | Gemini 2.5 Flash with Google Search (search is free up to 500 a day). When Flash is used up it switches to Flash-Lite, which allows many more requests a day. |
 
-There are three safety limits:
-- `monthlyBudgetUSD` in `schedule.json` caps the briefings.
-- The **Monthly limit for questions** in the app's Setup screen caps questions.
-- The spend limit in the Anthropic Console caps everything.
+In practice that's all five briefings plus well over a hundred questions a day. If every model is used up, Dad hears "try again in a minute", and the headlines still play. The Setup screen shows how many questions were asked today.
 
-## Step 1: Get a Claude API key
+Note: on the free tier, Google may use the requests to improve its products. The requests only contain public news and Dad's questions.
 
-1. Go to https://console.anthropic.com and sign up.
-2. Open **Settings → Billing** and add a card. Buy $10–20 of credit.
-3. Open **Settings → Limits** and set a monthly spend limit of **$25**.
-4. Open **API keys → Create key**, name it "Dad News", and copy it. It starts with `sk-ant-`.
+## Step 1: Get a free Gemini API key
+
+1. Go to https://aistudio.google.com and sign in with a Google account.
+2. Click **Get API key → Create API key**, and copy it. It starts with `AIza`.
 
 Never paste the key into a file in this repository. It goes only in the two places below: a GitHub secret and the app's Setup screen.
 
@@ -35,7 +34,7 @@ Never paste the key into a file in this repository. It goes only in the two plac
 
 1. Create a **public** repository, for example `dad-news`. GitHub Pages on a free account needs a public repository. The key is not in it.
 2. Upload everything in this folder except `node_modules`, including the hidden `.github` folder. The easiest way is GitHub Desktop, or `git push`, because the web uploader skips hidden folders.
-3. **Settings → Secrets and variables → Actions → New repository secret.** Name: `ANTHROPIC_API_KEY`. Value: your key.
+3. **Settings → Secrets and variables → Actions → New repository secret.** Name: `GEMINI_API_KEY`. Value: your key.
 4. **Settings → Pages** → Deploy from a branch → `main` / `(root)` → Save.
 5. Edit `schedule.json` (you can use the pencil icon on GitHub):
    - `timezone`: already set to `"Africa/Accra"` (Ghana).
@@ -72,7 +71,8 @@ The times in the Shortcuts automations must match the `times` in `schedule.json`
 
 - Reading times, timezone, language: edit `schedule.json`, then update the Shortcuts automations to match.
 - News sources: `FEEDS` in `scripts/briefing.mjs` (for briefings) and `TRUSTED_SITES` in `app.js` (for questions).
-- Check real spending: the Anthropic Console → **Usage**. The briefing cost is also recorded in `briefings/usage.json`.
+- Models: `MODELS` in `scripts/briefing.mjs` and `QUESTION_MODELS` in `app.js`, tried in order. If Google retires a model, the next one in the list is used.
+- Check usage: https://aistudio.google.com/usage. The number of briefings and the model used are also recorded in `briefings/usage.json`.
 
 ## Things to know
 
