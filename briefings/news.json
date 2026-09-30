@@ -1,6 +1,13 @@
 {
- "updatedAt": "2026-09-30T08:56:39.944Z",
+ "updatedAt": "2026-09-30T13:37:55.792Z",
  "items": [
+  {
+   "region": "Ghana",
+   "source": "MyJoyOnline",
+   "title": "NPP announces voting schedule and ID requirements for October 3 national elections",
+   "summary": "The New Patriotic Party (NPP) has announced the voting schedule and identification requirements for its national officers' elections scheduled for Saturday, October 3, 2026.",
+   "published": "2026-09-30T12:33:31.000Z"
+  },
   {
    "region": "Ghana",
    "source": "MyJoyOnline",
@@ -52,10 +59,24 @@
   },
   {
    "region": "Ghana",
-   "source": "MyJoyOnline",
-   "title": "NPP NEC election: John Boadu, JFK, Titus-Glover and Hawa Koomson in strong lead, according to latest national outlook survey",
-   "summary": "Former General Secretary of the New Patriotic Party (NPP), John Boadu, has emerged as the candidate respondents consider most likely to win the party’s upcoming National Chairmanship election. This is according to the latest Political Environment Assessment Survey conducted by Prof. Smart Sarpong of the Kumasi Technical University in collaboration with Feedback Africa.",
-   "published": "2026-09-29T17:01:47.000Z"
+   "source": "Graphic Online",
+   "title": "VIDEO: ‘Stop rewarding people with bitter tongues’ - Speaker Bagbin to political leaders",
+   "summary": "The Speaker of Parliament, Alban Sumana Kingsford Bagbin, has urged leaders of political parties to stop the practice of rewarding politicians who use abusive and inflammatory language in political discourse as such acts threatens Ghana’s democratic culture. He said recognising political affiliates with bitter tongues encouraged others to also follow similar bad conduct. In his view, political parties and their leaders had a responsibility to promote a political culture in which robust disagreem",
+   "published": "2026-09-30T10:40:04.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "Graphic Online",
+   "title": "CSOs want legal framework to guide constitutional reform",
+   "summary": "A group of Civil Society Organisations (CSOs) advocating constitutional reforms have called for the establishment of a clear legal framework to guide the implementation of proposed constitutional changes. The Director of the Ghana Development Communities Association (GDCA), Phillip Gmabi who made the call on behalf of the group, said such legislation would provide a clearly defined roadmap for implementing the reforms and prevent the process from being altered or abandoned at the discretion of s",
+   "published": "2026-09-30T07:18:14.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "Graphic Online",
+   "title": "Narcotics seizures: Speaker dismisses Private Member’s motion for parliamentary probe",
+   "summary": "The Speaker of Parliament, Alban Sumana Kingsford Bagbin, has dismissed a Private Member’s motion seeking parliamentary inquiry into a series of reported narcotics seizures linked to Ghana in recent times. He ruled that the motion was inadmissible because its proposed inquiry substantially overlapped with ongoing investigations and criminal proceedings before the courts, creating a risk of prejudicing the interests of parties involved. Acknowledging that the matter fell within his jurisdiction a",
+   "published": "2026-09-30T07:22:05.000Z"
   },
   {
    "region": "Ghana",
@@ -66,17 +87,73 @@
   },
   {
    "region": "Ghana",
-   "source": "Graphic Online",
-   "title": "Narcotics seizures: Speaker Bagbin dismisses Private Members’ motion calling for parliamentary probe",
-   "summary": "The Speaker of Parliament, Alban Sumana Kingsford Bagbin, has dismissed a Private Member’s motion seeking a parliamentary inquiry into a series of reported narcotics seizures linked to Ghana in recent times. He ruled that the motion was inadmissible because its proposed inquiry substantially overlapped with ongoing investigations and criminal proceedings before the courts, creating a risk of prejudicing the interests of parties involved. Acknowledging that the matter fell within his jurisdiction",
-   "published": "2026-09-29T19:02:41.000Z"
+   "source": "3News",
+   "title": "Building inflation rises to 4.6% in August 2026 - GSS",
+   "summary": "Ghana’s building cost inflation rose to 4.6% in August 2026, up from 4.0% in July, according to the Ghana Statistical Service (GSS).",
+   "published": "2026-09-30T13:19:00.000Z"
   },
   {
    "region": "Ghana",
-   "source": "Graphic Online",
-   "title": "Speaker backs President’s call for national dialogue on hate speech",
-   "summary": "The Speaker of Parliament, Alban Sumana Kingsford Bagbin, has backed President John Dramani Mahama’s call for a national dialogue on hate speech and abusive online content. He said the President’s call as timely and necessary to protect Ghana’s democratic culture. He explained that the proposed national stakeholder engagement should bring together relevant institutions and stakeholders to examine the growing incidence of abusive, insulting, threatening and hateful speech in the country, particul",
-   "published": "2026-09-29T17:58:55.000Z"
+   "source": "3News",
+   "title": "Why didn’t you pay GH₵6,000 from January to October? – Fiifi Boafo quizzes govt over cocoa price",
+   "summary": "Former COCOBOD Head Fiifi Boafo questions the government over its unfulfilled promise to pay cocoa farmers GH₵6,000 per bag for the 2026/27 season.",
+   "published": "2026-09-30T13:08:48.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "President Mahama to open national conference on housing finance",
+   "summary": "President John Dramani Mahama, will be the Guest of Honour and is expected to deliver the keynote address at the opening session on 7 October.",
+   "published": "2026-09-30T13:06:43.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "Vincent Assafuah: Kurt Okraku’s existence has brought shame to Ghana football",
+   "summary": "Ranking Member of Parliament’s Select Committee on Sports, Vincent Ekow Assafuah, has strongly criticised the Ghana Football Association (GFA), saying its existence has not added value to Ghana football.",
+   "published": "2026-09-30T11:56:08.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "Norgbey: Government could consider dissolving GFA and starting afresh",
+   "summary": "Chairman of Parliament’s Select Committee on Sports, Hon. Ernest Henry Norgbey, has raised the possibility of a major restructuring of Ghana football, saying he would not be surprised if government eventually considers dissolving the Ghana Football Association (GFA) and starting afresh.",
+   "published": "2026-09-30T11:51:02.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "Ernest Norgbey: Sacking Black Stars coach is not an option",
+   "summary": "Chairman of Parliament’s Select Committee on Sports, Hon. Ernest Henry Norgbey, has defended the Black Stars’ coach, insisting that sacking him is not the solution to Ghana’s recent struggles.",
+   "published": "2026-09-30T11:44:05.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "Parliamentary Sports Committee to invite GFA over Black Stars’ recent performance",
+   "summary": "The Parliamentary Select Committee on Sports is set to invite the Ghana Football Association (GFA) and the Minister responsible for Sports to explain the recent performances of the Black Stars.",
+   "published": "2026-09-30T11:37:03.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "NHIS membership in Dormaa West surpasses 90% as NHIA commissions new office",
+   "summary": "The National Health Insurance Authority (NHIA) has highlighted significant progress in National Health Insurance Scheme (NHIS) membership coverage in the Dormaa West District of the Bono Region.",
+   "published": "2026-09-30T11:09:07.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "Ghana’s success against terrorism must not breed complacency: Ghana must remain vigilant",
+   "summary": "Borders cannot be monitored by technology alone.",
+   "published": "2026-09-30T10:17:13.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "Tullow Oil disappointed as ICC tribunal upholds Ghana’s tax assessment",
+   "summary": "Tullow Oil plc has expressed disappointment after an International Chamber of Commerce (ICC) tribunal upheld Ghana’s $196.5 million corporate income tax assessment relating to insurance proceeds received by the oil producer between 2016 and 2019.",
+   "published": "2026-09-30T09:02:32.000Z"
   },
   {
    "region": "Ghana",
@@ -88,7 +165,7 @@
   {
    "region": "Ghana",
    "source": "3News",
-   "title": "Ghana wins $393m tax arbitration against Tullow Oil, international tribunal upholds GRA's tax assessment",
+   "title": "Ghana wins $393m tax arbitration against Tullow Oil, international tribunal upholds GRA's assessment",
    "summary": "Ghana has won a major tax dispute against oil producer Tullow Oil after an international tribunal dismissed all claims brought by the company and upheld a US$393.09 million tax assessment issued by the Ghana Revenue Authority (GRA).",
    "published": "2026-09-30T07:47:21.000Z"
   },
@@ -115,73 +192,10 @@
   },
   {
    "region": "Ghana",
-   "source": "3News",
-   "title": "GES appeals to teachers to call off strike as government works to resolve concerns",
-   "summary": "The Ghana Education Service (GES) has appealed to pre-tertiary teacher unions to suspend their ongoing strike as government is engaging relevant institutions to resolve their outstanding concerns.",
-   "published": "2026-09-30T05:42:15.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "Chief of Defence Staff urges military generals to anticipate emerging security threats",
-   "summary": "Lt. Gen. Agyapong made the call while speaking at the ongoing Ghana Armed Forces Generals' Convention, being held to promote strategic reflection, institutional learning and stronger leadership among senior military officers.",
-   "published": "2026-09-29T23:26:29.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "Fisheries Commission kicks against grant of Offshore Gold Exploration licence",
-   "summary": "The letter was in response to a communication dated July 15, 2026, received by the Fisheries Commission on September 7, 2026, notifying it of the grant.",
-   "published": "2026-09-29T23:02:19.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "GACL MD sues over comment linking her to alleged narcotics trafficking and abuse of office",
-   "summary": "They are also demanding an unconditional retraction, an unreserved public apology and a written undertaking not to repeat the allegations.",
-   "published": "2026-09-29T22:16:38.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "The way EOCO went about the attempted arrest of Baffour Awuah was unprofessional – Agalga",
-   "summary": "He explained that Members of Parliament enjoy some level of immunity under the Standing Orders of Parliament, and EOCO should have channeled its request through the Speaker of Parliament, Alban Bagbin.",
-   "published": "2026-09-29T22:07:27.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "'Toxic Smoke, Fragile Lives': The hidden cost of air pollution by Agbogbloshie's e-waste",
-   "summary": "Lying less than a kilometre from the Central Business District of Accra is a notorious e-waste hub, Agbogbloshie - a place that has been a focal point of academic, institutional and media research for decades for its contribution to air pollution.",
-   "published": "2026-09-29T21:54:38.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "Ghana’s cybersecurity industry warns of widening talent gap as cyber threats evolve",
-   "summary": "Interim President of the Ghana Cybersecurity Industry Forum, C.K. Bruce, says the shortage of skilled professionals remains one of the biggest challenges confronting the country’s digital security ecosystem.",
-   "published": "2026-09-29T21:36:04.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "'I’m still the coach with most international wins, this result doesn’t make me a loser'- Queiroz",
-   "summary": "Ghana head coach Carlos Queiroz has defended his record in international football, insisting that the Black Stars’ latest defeat to The Gambia does not make him a loser.",
-   "published": "2026-09-29T20:07:37.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "‘If my resignation will be the solution for Ghana football, I’d be the first to resign’ – Carlos Queiroz",
-   "summary": "Ghana head coach Carlos Queiroz has revealed that he would be willing to resign from his position if the Ghana Football Association (GFA) believes his departure would provide a solution to the country’s football problems.",
-   "published": "2026-09-29T20:00:24.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "Queiroz apologises to Ghanaians after Black Stars suffer another painful defeat",
-   "summary": "Carlos Queiroz’s apology to Ghanaian supporters summed up the disappointment and frustration surrounding another painful night for the Black Stars.",
-   "published": "2026-09-29T19:00:34.000Z"
+   "source": "The Ghana Report",
+   "title": "NDC clears more than 15,000 aspirants for constituency executive elections",
+   "summary": "The National Democratic Congress (NDC) has announced that over 15,000 aspirants have been approved to participate in its forthcoming constituency executive elections, with approximately 480 candidates running without opposition. The party’s Director of Elections and IT, Mahdi Gibril, reported that merely about 25 aspirants were rejected during the screening process, resulting in more than 15,000 […] The post NDC clears more than 15,000 aspirants for constituency executive elections appeared firs",
+   "published": "2026-09-30T11:14:32.000Z"
   },
   {
    "region": "Ghana",
@@ -207,23 +221,30 @@
   {
    "region": "World",
    "source": "BBC News",
+   "title": "What we know about the Dubai-Israel plane incident after reported stabbing",
+   "summary": "The Saudi Arabian airport where the FlyDubai plane was diverted to said the captain and first officer were injured.",
+   "published": "2026-09-30T12:30:05.000Z"
+  },
+  {
+   "region": "World",
+   "source": "BBC News",
+   "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+   "summary": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says.",
+   "published": "2026-09-30T12:42:34.000Z"
+  },
+  {
+   "region": "World",
+   "source": "BBC News",
+   "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
+   "summary": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government.",
+   "published": "2026-09-30T11:36:23.000Z"
+  },
+  {
+   "region": "World",
+   "source": "BBC News",
    "title": "Chinese AI tool told researchers how to make bioweapons",
    "summary": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
    "published": "2026-09-29T23:15:29.000Z"
-  },
-  {
-   "region": "World",
-   "source": "BBC News",
-   "title": "Three takeaways from Trump's 'Super Intelligence' summit",
-   "summary": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
-   "published": "2026-09-30T04:01:52.000Z"
-  },
-  {
-   "region": "World",
-   "source": "BBC News",
-   "title": "Israel-bound flight diverted after fight between pilots",
-   "summary": "Despite a brief emergency alert signalling a hijacking, the Israeli prime minister's office confirmed this had been ruled out.",
-   "published": "2026-09-30T08:54:17.000Z"
   },
   {
    "region": "World",
@@ -235,6 +256,13 @@
   {
    "region": "World",
    "source": "BBC News",
+   "title": "Singapore launches matchmaking service for government workers",
+   "summary": "The launch of FirstDate comes as the ageing nation wrestles with a record-low fertility rate.",
+   "published": "2026-09-30T09:42:36.000Z"
+  },
+  {
+   "region": "World",
+   "source": "BBC News",
    "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
    "summary": "Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month.",
    "published": "2026-09-30T05:24:52.000Z"
@@ -242,30 +270,23 @@
   {
    "region": "World",
    "source": "BBC News",
-   "title": "Six Flags shuts down X2 rollercoaster after more than 100 allege brain injuries",
-   "summary": "Hundreds of riders were allegedly injured on X2, which has seats that spin 360 degrees.",
-   "published": "2026-09-29T22:33:13.000Z"
-  },
-  {
-   "region": "World",
-   "source": "BBC News",
-   "title": "US Supreme Court denies Christa Pike's last-ditch bid to halt execution",
-   "summary": "The Tennessee inmate has been awaiting execution since she was sentenced to death in 1996 for the murder of a teenage classmate.",
-   "published": "2026-09-29T23:39:58.000Z"
-  },
-  {
-   "region": "World",
-   "source": "BBC News",
-   "title": "Africa's richest man to launch Kenya oil refinery despite land protests",
-   "summary": "The Kenya refinery is part of Dangote's ambitious bid to expand and help industralise Africa by 2030.",
-   "published": "2026-09-30T08:12:43.000Z"
+   "title": "US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13",
+   "summary": "Lowe and his wife Kim Painter announce the death of their daughter, who \"was the light of our lives\".",
+   "published": "2026-09-30T08:59:38.000Z"
   },
   {
    "region": "World",
    "source": "BBC News Africa",
-   "title": "Africa's richest man to launch Kenya oil refinery despite land protests",
+   "title": "Africa's richest man launches Kenya oil refinery despite land protests",
    "summary": "The Kenya refinery is part of Dangote's ambitious bid to expand and help industralise Africa by 2030.",
-   "published": "2026-09-30T08:12:43.000Z"
+   "published": "2026-09-30T11:25:12.000Z"
+  },
+  {
+   "region": "World",
+   "source": "BBC News Africa",
+   "title": "Botswana condemned for slaughtering elephants for independence celebrations",
+   "summary": "The government authorises the hunting of 23 elephants and dozens of other wild animals for independence day feasts.",
+   "published": "2026-09-30T12:06:28.000Z"
   },
   {
    "region": "World",
@@ -273,13 +294,6 @@
    "title": "Somali pirates killed oil tanker crew before rescue, official tells BBC",
    "summary": "Piracy off the Somali coast has increased in recent years after dropping when international naval operations began in 2011.",
    "published": "2026-09-30T06:41:35.000Z"
-  },
-  {
-   "region": "World",
-   "source": "BBC News Africa",
-   "title": "First female prime minister named in Morocco after winning elections",
-   "summary": "Her appointment by the king makes her only the second woman to lead a government in the Arab world.",
-   "published": "2026-09-29T17:14:10.000Z"
   },
   {
    "region": "World",
@@ -297,66 +311,94 @@
   },
   {
    "region": "World",
-   "source": "BBC News Africa",
-   "title": "Son of Zambian bishop detained in post-election raid fears for his father's safety",
-   "summary": "Trevor Mwamba was detained last month with other opposition figures and charged with treason, his son says.",
-   "published": "2026-09-29T16:03:05.000Z"
+   "source": "Al Jazeera",
+   "title": "Why Israel is interfering in Palestinian education",
+   "summary": "The occupation authorities are trying to censor Palestinian school curricula because they teach national consciousness.",
+   "published": "2026-09-30T13:22:33.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "UK‘s PM Burnham sets out plans to reshape public services",
-   "summary": "UK's PM Andy Burnham is promising a major improvement to public services including social care, housing and energy.",
-   "published": "2026-09-30T08:48:59.000Z"
+   "title": "Christa Pike seeks firing squad, not lethal injection: Inside US executions",
+   "summary": "Women make up about 1 percent of US executions. How do states put people to death, and why is it contested?",
+   "published": "2026-09-30T13:14:39.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Hijabi students turned away from school in Azerbaijan",
-   "summary": "Female students leave a school in Azerbaijan after reportedly being denied entry for wearing headscarves.",
-   "published": "2026-09-30T08:41:41.000Z"
+   "title": "Israeli attacks on Gaza kill seven as ‘ceasefire’ violations continue",
+   "summary": "At least six people killed in drone attack on passenger van and one person killed in strike on residential apartment.",
+   "published": "2026-09-30T12:49:04.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "S Korea demands apology over DMZ blasts as N Korea denies planting mines",
-   "summary": "South Korea calls for a formal apology from North Korea over the DMZ explosion that injured three soldiers.",
-   "published": "2026-09-30T08:02:20.000Z"
+   "title": "Settlers closing in on Ramallah",
+   "summary": "Israeli settlers are encroaching ever closer to Ramallah, the de facto capital of the occupied West Bank.",
+   "published": "2026-09-30T12:43:27.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Flydubai flight to Israel diverted to Saudi Arabia after emergency alert",
-   "summary": "Airline says plane experiences 'incident' en route from Dubai to Tel Aviv, lands safely at Saudi Arabia's Tabuk airport.",
-   "published": "2026-09-30T08:00:10.000Z"
+   "title": "Denmark vs Portugal: UEFA Nations League – Ronaldo, Hojlund, teams, form",
+   "summary": "Reigning champions Portugal look to build on their winning start as they take on Denmark on match day three.",
+   "published": "2026-09-30T12:40:08.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "‘Dire situation’: Lebanese prisoners on hunger strike for 18 days",
-   "summary": "The medical condition of dozens of prisoners has deteriorated as inmates protest against suspension of amnesty law.",
-   "published": "2026-09-30T07:40:07.000Z"
+   "title": "Rainwater washes away highway in Nigeria",
+   "summary": "Heavy rain over three days caused severe flooding along the Agbarho-Ughelli highway in Delta State, southern Nigeria.",
+   "published": "2026-09-30T12:39:08.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Pakistan vows to defend Saudi Arabia against Houthis",
-   "summary": "Pakistan says Islamabad will make “whatever means” available to Saudi Arabia if Saudi faces threats from the Houthis.",
-   "published": "2026-09-30T07:22:52.000Z"
+   "title": "Former journalist crowned king of Uganda’s Tooro kingdom",
+   "summary": "Edward Rukidi Kijanangoma, a former journalist, has been crowned the king of Uganda’s Tooro Kingdom.",
+   "published": "2026-09-30T12:34:21.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Nigeria and Ghana suffer huge AFCON 2027 qualifying shocks",
-   "summary": "The Gambia come back to beat ‌Ghana 4-2, while Guinea Bissau beat Nigeria 3-0 despite seven Premier League starters.",
-   "published": "2026-09-30T07:21:26.000Z"
+   "title": "How does Iraq’s security change after US forces withdraw?",
+   "summary": "Iraq marks US troop withdrawal with 'Sovereignty Days', symbolising a shift after decades of foreign military presence.",
+   "published": "2026-09-30T12:33:05.000Z"
   },
   {
    "region": "World",
-   "source": "Al Jazeera",
-   "title": "Gentle giant Backpack wins Alaska’s Fat Bear Week",
-   "summary": "The contest celebrates the resilience of the 2,200 brown bears that live in the preserve on the Alaska Peninsula.",
-   "published": "2026-09-30T06:57:52.000Z"
+   "source": "The Guardian",
+   "title": "Burundi agrees to receive ‘third-country’ migrant deportees from US",
+   "summary": "Burundi joins several other African nations in accepting people deported under Trump’s hardline policy Burundi has agreed to join a clutch of ⁠other African nations in receiving migrants from other countries deported from the US under ⁠ Donald Trump ’s hardline ⁠ immigration ​policy . However, the authorities in Bujumbura, the country’s economic capital, said Burundi will only accept those not accused of crime or terrorism links, said ⁠Nancy Ninette Mutoni, a spokesperson for the country’s presi",
+   "published": "2026-09-30T12:47:15.000Z"
+  },
+  {
+   "region": "World",
+   "source": "The Guardian",
+   "title": "Top Trump figures push to direct human rights funding to rightwing causes",
+   "summary": "Support for white Afrikaners, anti-communism and others reveals how US redefining what qualifies as human rights With hours left before the funding expires, the Trump administration is pushing to direct more than $175m of the state department’s flagship human rights fund to a slate of awards that includes a massive $40m grant for an anti-communism fund, support for a group advancing white Afrikaner rights in South Africa, a campaign against Brazil’s supreme court, and programs that would reward ",
+   "published": "2026-09-30T12:00:42.000Z"
+  },
+  {
+   "region": "World",
+   "source": "The Guardian",
+   "title": "MI5 China alert will send chill through UK’s cash-strapped universities",
+   "summary": "Institutions have for years turned to China for funding opportunities but national security concerns are mounting MI5 issues spy alert to UK universities over Chinese front company stealing research The security alert issued by MI5 regarding a Chinese state-owned conglomerate accused of conducting espionage in the UK reveals the extent to which British intelligence remains concerned about Beijing’s influence, and risks casting a shadow over UK-China cooperation at a time when the bilateral relat",
+   "published": "2026-09-30T13:07:24.000Z"
+  },
+  {
+   "region": "World",
+   "source": "The Guardian",
+   "title": "MI5 issues spy alert to UK universities over Chinese front company stealing research",
+   "summary": "Security service says academics should stop taking grants from and working with firm backed by China’s intelligence service MI5 China alert will send chill through UK’s cash-strapped universities China’s intelligence service used a front company to pay grants to British universities and steal crucial research about technology projects, MI5 said on Wednesday in a rare public espionage warning. Britain’s domestic security service said researchers and academics should cease work with the China Gene",
+   "published": "2026-09-30T13:00:41.000Z"
+  },
+  {
+   "region": "World",
+   "source": "The Guardian",
+   "title": "AI tool that copied actor’s ‘lustrous’ voice violated his rights, Tokyo court rules",
+   "summary": "Kenjiro Tsuda wins case against TikTok account in landmark Japanese verdict to protect publicity rights A court in Japan has ruled that the human voice has legal protection after a landmark case involving a well-known actor and a TikTok account that he claimed had cloned his “lustrous” baritone voice in its AI-generated videos. Tokyo district court said on Wednesday that voices should enjoy the same protection as publicity rights, at the end of a closely watched legal action brought against TikT",
+   "published": "2026-09-30T11:09:52.000Z"
   },
   {
    "region": "World",
@@ -375,44 +417,30 @@
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "Double beds, aircon and big-screen TVs: Indonesia suspends officials over luxury prison cells",
-   "summary": "Indonesia’s prisons have long faced allegations that well-connected inmates can obtain preferential treatment through bribery Five Indonesian prison officials have been suspended after investigators found an apartment-style compound complete with airconditioners, big-screen televisions and expensive cars allegedly used by inmates at a prison near Jakarta. “We found strong indications that certain prisoners had access to special facilities unavailable to ordinary prisoners,” said Syafrida Rachmaw",
-   "published": "2026-09-30T05:27:22.000Z"
-  },
-  {
-   "region": "World",
-   "source": "The Guardian",
    "title": "Peugeot recalls hundreds of cars in Australia over issue that could increase ‘risk of serious injury or death’ – as it happened",
    "summary": "This blog is now closed Get our breaking news email , free app or daily news podcast Who is potential Greens deputy leader candidate Steph Hodgins-May? So who is the first-term senator expected to announce a leadership ticket tilt with David Shoebridge ? Get your dirty hands off our kids, that is our message to the fossil fuel industry, who have no place in early-learning centres, in schools, or in our cultural institutions in this country. Children should go to school to get evidence-based educ",
    "published": "2026-09-30T07:17:08.000Z"
   },
   {
    "region": "World",
-   "source": "The Guardian",
-   "title": "David Shoebridge wants the Greens to ‘seize this moment’. Is his more combative style the answer?",
-   "summary": "New leader says his party must connect with millions of disaffected voters and ‘make them believe in politics again’ Follow our Australia news live blog for latest updates Get our new political email , free app or daily news podcast As One Nation’s polling surged this year, and Pauline Hanson ate away at the votes of first the Coalition and then Labor, one curious mainstay emerged; the Greens remained seemingly anchored to the 10-12% range, no matter which poll you look at . That’s despite the f",
-   "published": "2026-09-30T07:12:22.000Z"
+   "source": "DW",
+   "title": "Is US President Donald Trump right to rename AI as 'Super Intelligence'?",
+   "summary": "Donald Trump thinks the name artificial intelligence sounds \"fake\" and has ordered US agencies to use \"Super Intelligence\" instead. Yet, tech firms and researchers have little reason to play along.",
+   "published": "2026-09-30T09:33:00.000Z"
   },
   {
    "region": "World",
-   "source": "The Guardian",
-   "title": "Approval of biggest coal project in NSW planning commission’s history described as ‘infamous betrayal’",
-   "summary": "Independent Planning Commission says climate change impacts from Hunter Valley project will be ‘outweighed’ by economic benefits Follow our Australia news live blog for latest updates Get our new political email , free app or daily news podcast The New South Wales independent planner has approved the biggest coalmine project to ever go before it, allowing mining to continue until 2045 at a Hunter Valley project described by climate groups as a “carbon bomb”. The Independent Planning Commission (",
-   "published": "2026-09-30T05:48:20.000Z"
+   "source": "DW",
+   "title": "Eurovision seeks to expand brand despite frictions",
+   "summary": "The 2026 Eurovision Song Contest was marred by boycotts in protest against Israel's participation in the midst of its war on Gaza. It still aims to keep growing.",
+   "published": "2026-09-30T09:18:00.000Z"
   },
   {
    "region": "World",
-   "source": "The Guardian",
-   "title": "NSW man accused of murdering neighbour – and then murdering his relative two weeks later",
-   "summary": "Police allege Nicholas Scott killed 79-year-old then ‘set upon’ 59-year-old relative who arrived at Gurranang to sort out estate Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A man accused of murdering two members of a family on the same property a fortnight apart has faced court. The body of a 59-year-old man was found by police on Monday afternoon in a shed on a property at Gurranang, about 25km north of Grafton in northern ",
-   "published": "2026-09-30T05:20:41.000Z"
-  },
-  {
-   "region": "World",
-   "source": "The Guardian",
-   "title": "Inflation leaps to 4% stoking fears of fifth interest rate hike before Christmas",
-   "summary": "Jim Chalmers says ‘higher global oil prices flowing through to oil prices in Australia’ are to blame for inflation rising from 3.5% Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Inflation has jumped to 4% in the year to August, from 3.5%, as Jim Chalmers was again forced to defend Labor’s economic management amid fears the Reserve Bank will need to hike interest rates again before Christmas. The increasingly embattled treasure",
-   "published": "2026-09-30T04:40:25.000Z"
+   "source": "DW",
+   "title": "South Korea: Lost shark draws over half a million visitors",
+   "summary": "The South Korean port of Busan says that a stranded shark has become a major tourist draw. It's also named the ocean predator an honorary ambassador to the city.",
+   "published": "2026-09-30T09:07:00.000Z"
   },
   {
    "region": "World",
@@ -430,66 +458,101 @@
   },
   {
    "region": "World",
-   "source": "DW",
-   "title": "Ethiopia: No regard for civilians as fighting in Ethiopia's Tigray region continues",
-   "summary": "Fighting has returned to northern Ethiopia, shattering a fragile peace in the region. DW spoke to civilians caught in the crossfire amid communication blackouts, as rebel and federal forces keep battling for territory.",
-   "published": "2026-09-29T16:14:00.000Z"
+   "source": "France 24",
+   "title": "Ex-TV anchor crowned as king in Uganda after succession fight",
+   "summary": "A former television news anchor was crowned king of Uganda's Tooro Kingdom on Tuesday, becoming the 13th monarch of the Batooro people in a ritual-laden coronation that ended a succession dispute. Edward Rukidi Kijanangoma succeeded King Oyo Nyimba Kabamba Iguru Rukidi IV, whose death ​last month from ‌cancer at age 34 triggered a feud, with his mother saying a previously undisclosed son was entitled to ⁠the throne.",
+   "published": "2026-09-30T13:10:52.000Z"
   },
   {
    "region": "World",
    "source": "France 24",
-   "title": "Trump puts trust in AI bosses to 'police themselves'",
-   "summary": "As fears mount over the safety of rapidly advancing AI models, US President Donald Trump gathered tech leaders at the White House on Tuesday where he said they signed a \"morally binding\" commitment to self-regulate and build adequate safeguards on the fast-moving technology. \"They're going to police themselves,\" Trump said after the meeting.",
-   "published": "2026-09-30T08:42:08.000Z"
+   "title": "Macron says UK’s return to EU would be ‘excellent news’",
+   "summary": "Speaking alongside Spanish Prime Minister Pedro Sanchez on Wednesday, French President Emmanuel Macron said that it would be \"a good decision\" if the UK decided to rejoin the European Union. The two leaders met at the Moncloa Palace in Madrid on the second day of Macron's two-day state visit to Spain.",
+   "published": "2026-09-30T11:49:56.000Z"
   },
   {
    "region": "World",
    "source": "France 24",
-   "title": "‘The country has become a battlefield’: Last US troops exit Iraq",
-   "summary": "The last US troops in Iraq, part of a coalition to fight the Islamic State group, were slated to leave the country on Wednesday under an agreement between Baghdad and Washington. As the Iraqi army officially takes over the coalition’s remaining bases, the government is seeking to strengthen its military capabilities and reaffirm its sovereignty. Meanwhile, some living near the US bases who have been caught in the crossfire of attacks are hoping for a fresh start. Our journalists Amar el-Hameedaw",
-   "published": "2026-09-30T08:34:22.000Z"
+   "title": "Forced landing of Israel-bound flight: What we know so far",
+   "summary": "The Israeli government believes an incident on a flight from the United Arab Emirates to Israel, which diverted to Saudi Arabia after transmitting emergency signals on Wednesday, may have been an attempted \"terror attack\" by one of the pilots. France 24’s Shirli Sitbon takes a look at what we know about the incident so far, with many of the details still emerging.",
+   "published": "2026-09-30T11:29:51.000Z"
   },
   {
    "region": "World",
    "source": "France 24",
-   "title": "Israel-bound flight diverted to Saudi Arabia after brawl between pilots",
-   "summary": "An Israel-bound FlyDubai passenger plane was diverted to Saudi Arabia on Wednesday after a fight broke out between its two pilots, according to Israeli media. The plane transmitted an emergency signal shortly after takeoff, briefly raising fears that it may have been hijacked. All passengers onboard are safe.",
-   "published": "2026-09-30T08:25:17.000Z"
+   "title": "Mixed reactions in Iraq on final day of US-led coalition withdrawal",
+   "summary": "The US military announced on Wednesday that it has completed the withdrawal of all American troops from Iraq, ending a 12-year mission to fight the Islamic State group. The last US troops left an air base in northern Iraq under a deal between Baghdad and Washington.",
+   "published": "2026-09-30T11:27:38.000Z"
   },
   {
    "region": "World",
    "source": "France 24",
-   "title": "Ian Bremmer: 'We have passed peak Trump in terms of disruption on the global stage'",
-   "summary": "François Picard is pleased to welcome Ian Bremmer, the American political scientist, author, and founder and president of Eurasia Group and GZERO Media. According to Bremmer, we may now be entering the autumn of the “Donroe Doctrine” and the MAGA era: an “America First” isolationist approach in which President Donald J. Trump envisions a return to “greatness” in Gilded Age fashion. But is this the America voters had envisioned?",
-   "published": "2026-09-30T07:15:18.000Z"
+   "title": "Why is the US withdrawing its troops from Iraq?",
+   "summary": "A US-led coalition deployed in Iraq more than a decade ago to fight jihadists concluded its mission on Wednesday, a move celebrated by the country's leaders, but which some fear will embolden pro-Iran armed factions. France 24's Angela Diffley takes a look at the security challenges facing the country and why the US has chosen this moment to take its troops out.",
+   "published": "2026-09-30T11:18:55.000Z"
   },
   {
    "region": "World",
    "source": "France 24",
-   "title": "2027 AFCON qualifiers: First win for Patrick Vieira and Senegal",
-   "summary": "In the 2027 AFCON qualifiers, Patrick Vieira won his first match as Senegal’s new manager. Senegal secured a 1-0 away victory against Ethiopia thanks to a goal from Ibrahim Mbaye.",
-   "published": "2026-09-30T06:15:59.000Z"
+   "title": "Eiffel Tower chief to step down after female staff scandal",
+   "summary": "The head of the company that runs the Eiffel Tower will step down at the end of the year after female staff at the landmark building in Paris were excluded during a visit by a Hindu religious group. The incident sparked outrage in France and prompted a staff walkout that saw the Eiffel Tower forced to close for a day.",
+   "published": "2026-09-30T11:11:41.000Z"
   },
   {
    "region": "World",
    "source": "France 24",
-   "title": "Live: Several people killed as Russia launches new round of strikes on Kyiv",
-   "summary": "At least three people, including a child, have died after Russia launched another round of strikes on Kyiv and its surrounding regions overnight to Wednesday, officials said. Several people were also wounded in the attacks. In Poland, two airports, in Lublin and Rzeszow, were briefly shut over “military aviation activity” during Russian attacks on Ukraine. Follow our liveblog for all the latest updates.",
-   "published": "2026-09-30T05:35:15.000Z"
+   "title": "'Cornell won't, we will': Student journalists 'relentlessly' reporting on university rape",
+   "summary": "PRESS REVIEW – Wednesday, September 30: The Cornell University gang rape investigation reopens. But first: students and prisoners protest in Iran \"in a rare show of dissent\". Journalist Evan Gershkovich speaks about his 16 months in a Russian prison. Bonus: what can we do to be less lonely? Finally, Fat Bear Week has chosen its winner.",
+   "published": "2026-09-30T11:06:57.000Z"
   },
   {
    "region": "World",
    "source": "France 24",
-   "title": "Trump’s tariffs loom over talks as G20 meets in US",
-   "summary": "Trade ministers of the Group of 20 are meeting in Milwaukee for two days of talks on Wednesday, but US President Donald Trump’s tariffs are expected to hang heavy over the talks. \"Don't expect any breakthroughs,\" an analyst watching the event said.",
-   "published": "2026-09-30T05:29:56.000Z"
+   "title": "'People have been buying into the detoxification of the National Rally', French politics expert says",
+   "summary": "A French politics observer says the allegations of anti-Semitism against the head of France's far-right National Rally have really damaged the party. Andrew Smith from Queen Mary University of London says people have been buying into the detoxification of the party, despite its legacy as an anti-Semitic and racist outfit. But that makes this week's allegations against Jordan Bardella even more shocking. Bardella is accused by the investigative news website Mediapart of sending a series of anti-S",
+   "published": "2026-09-30T10:58:31.000Z"
   },
   {
    "region": "World",
-   "source": "France 24",
-   "title": "Heatwaves, wildfires expose a third of world to extreme ozone pollution",
-   "summary": "Heatwaves and wildfires helped expose 34 percent of the world’s population to “extremely poor” ozone air quality in the first eight months of 2026, according to a European Union report published Wednesday. Asia recorded the highest exposure, while ozone pollution remained difficult to curb despite decades of progress in reducing other harmful emissions.",
-   "published": "2026-09-30T02:31:15.000Z"
+   "source": "Africanews",
+   "title": "Dangote's $16bn Kenya refinery 'new chapter' for Africa",
+   "summary": "Africa's richest man was set to break ground on a new $16-billion mega-refinery in Kenya on Wednesday, saying it marked a \"new chapter in Africa's industrial journey\"",
+   "published": "2026-09-30T12:36:08.000Z"
+  },
+  {
+   "region": "World",
+   "source": "Africanews",
+   "title": "UN experts say food waste is driving up global greenhouse gas emissions",
+   "summary": "The UN Environment Programme says food loss and waste generate an estimated 8 to 10 per cent of global greenhouse gas emissions.",
+   "published": "2026-09-30T13:09:00.000Z"
+  },
+  {
+   "region": "World",
+   "source": "Africanews",
+   "title": "Nigerian dancer eyes world record after seven-day marathon",
+   "summary": "Benjamin Daniel, known as Ben Dancer, danced non-stop for 176 hours, 52 minutes and 59 seconds between September 22 and 29, in an attempt to break the world record for the longest individual dance marathon.",
+   "published": "2026-09-30T10:41:34.000Z"
+  },
+  {
+   "region": "World",
+   "source": "Africanews",
+   "title": "Burundi agrees to accept third-country US deportees",
+   "summary": "A presidential spokesperson said preparations were underway without saying when they would arrive or how many Burundi had agreed to receive.",
+   "published": "2026-09-30T10:10:40.000Z"
+  },
+  {
+   "region": "World",
+   "source": "Africanews",
+   "title": "President Mnangagwa highlights economic gains, warns of drought risk in Zimbabwe",
+   "summary": "He attributed those macroeconomic gains to a stronger financial-sector framework, saying this should help maintain confidence in Zimbabwe’s economy.",
+   "published": "2026-09-30T09:23:04.000Z"
+  },
+  {
+   "region": "World",
+   "source": "Africanews",
+   "title": "South Africa's Ramaphosa announces measures against gender-based violence",
+   "summary": "After a recent spate of femicides shocked South Africa, the country's president Cyril Ramaphosa ordered urgent action to better protect women.",
+   "published": "2026-09-30T08:28:40.000Z"
   },
   {
    "region": "World",
@@ -504,48 +567,6 @@
    "title": "Morocco’s first woman premier pledges to meet citizens’ expectations",
    "summary": "El Mansouri's cabinet will have to tackle several pressing issues including unemployment and living costs, as well as persistent social disparities particularly weighing on young people.",
    "published": "2026-09-30T06:36:11.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Africanews",
-   "title": "Burkina Faso opens first gold refinery in push for economic independence",
-   "summary": "Burkina Faso opened its first gold refinery, pushing ahead with plans to better organise the commercialisation of the precious metal in one of the continent's top producers.",
-   "published": "2026-09-30T05:20:33.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Africanews",
-   "title": "Morocco's king appoints the country's first-ever female prime minister",
-   "summary": "Fatima Ezzahra El Mansouri has been the mayor of Marrakesh for a number of years and also served as a minister in the previous coalition government.",
-   "published": "2026-09-29T17:58:23.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Africanews",
-   "title": "Multiple reports claim Netanyahu was warned ahead of Hamas' 2023 attack",
-   "summary": "Israeli PM Benjamin Netanyahu has denied receiving advance knowledge of the 7 October 2023 offensive, claiming that security chiefs did not warn him.",
-   "published": "2026-09-29T16:14:44.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Africanews",
-   "title": "Congolese politician beaten to death after promoting Ebola awareness",
-   "summary": "A Congolese politician has been beaten to death after promoting Ebola awareness during a radio interview. Marie-Celestin Karondwa from the ruling UDPS party was attacked on Sunday by residents of Butembo, in DR Congo's North Kivu province.",
-   "published": "2026-09-29T15:31:56.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Africanews",
-   "title": "Nearly two years after the fall of Assad, Syrian children return to school amid ruins",
-   "summary": "Nearly two years after Syrian dictator Bashar al-Assad was overthrown, thousands of children are still struggling for an education.",
-   "published": "2026-09-29T15:25:40.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Africanews",
-   "title": "Cameroon: Families demand justice as femicide rate continues to rise",
-   "summary": "Anger is growing in Cameroon over rising gender-based violence that has seen at least 56 women killed since the start of the year. In response to the outcry, a bill to make femicide a separate crime from murder will be considered during parliament's November session.",
-   "published": "2026-09-29T15:02:54.000Z"
   }
  ]
 }
