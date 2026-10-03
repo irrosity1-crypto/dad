@@ -1,6 +1,13 @@
 {
- "updatedAt": "2026-10-02T22:56:44.294Z",
+ "updatedAt": "2026-10-03T01:53:47.783Z",
  "items": [
+  {
+   "region": "Ghana",
+   "source": "MyJoyOnline",
+   "title": "NPP national elections: 3,000–4,000 police to handle security, traffic in Kumasi – Karbo",
+   "summary": "The New Patriotic Party’s (NPP) Organisation Committee Chairperson, Anthony Abayifaa Karbo, says between 3,000 and 4,000 police personnel have been deployed to provide security for the party’s National Delegates Conference and national elections in Kumasi. He said the personnel would be responsible for traffic management, securing hostels where delegates and guests are staying, and providing […]",
+   "published": "2026-10-02T23:16:21.000Z"
+  },
   {
    "region": "Ghana",
    "source": "MyJoyOnline",
@@ -150,13 +157,6 @@
   },
   {
    "region": "Ghana",
-   "source": "Starr FM",
-   "title": "Baffour Awuah is ‘unfazed’ by EOCO’s probe – Asafo-Adjei",
-   "summary": "Asafo-Adjei Ayeh says Nana Agyei Baffour Awuah is cooperating fully and remains composed as investigators search premises amid political undertones.",
-   "published": "2026-10-02T07:11:07.000Z"
-  },
-  {
-   "region": "Ghana",
    "source": "3News",
    "title": "SSNIT justifies demolition of unauthorised structures at Labadi Beach front",
    "summary": "According to SSNIT, the two hotels are part of its investment portfolio and are \"significant national hospitality and tourism assets.\"",
@@ -271,15 +271,8 @@
    "region": "World",
    "source": "BBC News",
    "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
-   "summary": "The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+   "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
    "published": "2026-10-02T20:25:19.000Z"
-  },
-  {
-   "region": "World",
-   "source": "BBC News",
-   "title": "Riot police clash with students as education protests rage in France",
-   "summary": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
-   "published": "2026-10-02T21:13:27.000Z"
   },
   {
    "region": "World",
@@ -291,23 +284,16 @@
   {
    "region": "World",
    "source": "BBC News",
-   "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
-   "summary": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.",
-   "published": "2026-10-02T17:44:08.000Z"
+   "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
+   "summary": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
+   "published": "2026-10-02T23:53:35.000Z"
   },
   {
    "region": "World",
    "source": "BBC News",
-   "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
-   "summary": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure.",
-   "published": "2026-10-02T15:26:37.000Z"
-  },
-  {
-   "region": "World",
-   "source": "BBC News",
-   "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-   "summary": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
-   "published": "2026-10-02T09:08:06.000Z"
+   "title": "Riot police clash with students as education protests rage in France",
+   "summary": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
+   "published": "2026-10-02T21:13:27.000Z"
   },
   {
    "region": "World",
@@ -319,9 +305,30 @@
   {
    "region": "World",
    "source": "BBC News",
-   "title": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
-   "summary": "The lava rock formation protruding from the rocky cliffs of Volcanoes National Park crumbled some time last weekend.",
-   "published": "2026-10-02T21:00:41.000Z"
+   "title": "US road rage killer's sentence quashed because AI video of victim was shown in court",
+   "summary": "The Arizona appeals court ruled that airing an AI message from the dead victim \"crossed that line\".",
+   "published": "2026-10-02T23:06:00.000Z"
+  },
+  {
+   "region": "World",
+   "source": "BBC News",
+   "title": "Women given shorts at Oktoberfest to prevent upskirting",
+   "summary": "The step at the Munich festival comes after thousands of voyeuristic videos emerged on social media.",
+   "published": "2026-10-02T23:16:03.000Z"
+  },
+  {
+   "region": "World",
+   "source": "BBC News",
+   "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+   "summary": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure.",
+   "published": "2026-10-02T15:26:37.000Z"
+  },
+  {
+   "region": "World",
+   "source": "BBC News Africa",
+   "title": "The South African men trying to end violence against women: 'Every man needs to play a part'",
+   "summary": "The discovery of 12 women's bodies near Johannesburg has again highlighted South Africa's problem with violence against women.",
+   "published": "2026-10-02T23:56:21.000Z"
   },
   {
    "region": "World",
@@ -354,6 +361,41 @@
   {
    "region": "World",
    "source": "Al Jazeera",
+   "title": "US and Australia suspend diplomatic operations in Brazil before election",
+   "summary": "Security threats prompt US and Australia to suspend diplomatic operations in Brazil before pivotal election day.",
+   "published": "2026-10-03T00:46:10.000Z"
+  },
+  {
+   "region": "World",
+   "source": "Al Jazeera",
+   "title": "Iran war live: Fighting intensifies in Yemen, hundreds killed or injured",
+   "summary": "Fighting intensifies across Yemen as the army says 474 attacks in 24 hours killed or wounded 1,540 Houthi fighters.",
+   "published": "2026-10-03T00:00:00.000Z"
+  },
+  {
+   "region": "World",
+   "source": "Al Jazeera",
+   "title": "North Korea fires ballistic missile towards the sea, South Korea says",
+   "summary": "A ballistic missile fired from the North Korean port city of Wonsan flies more than 700km, South Korea's military says.",
+   "published": "2026-10-02T23:55:24.000Z"
+  },
+  {
+   "region": "World",
+   "source": "Al Jazeera",
+   "title": "Dutch royal house helped slave trade to survive, study finds",
+   "summary": "In-depth study also says the royal house made huge profits from Dutch colonial policies in past centuries.",
+   "published": "2026-10-02T23:43:50.000Z"
+  },
+  {
+   "region": "World",
+   "source": "Al Jazeera",
+   "title": "Flydubai pilot recounts cockpit stabbing in call with Indian PM Modi",
+   "summary": "Smit Machchhar recalls midair disaster after co-pilot's attack on Flydubai flight to Tel Aviv.",
+   "published": "2026-10-02T22:50:23.000Z"
+  },
+  {
+   "region": "World",
+   "source": "Al Jazeera",
    "title": "Why Carney’s economic overhaul is clashing with Canada’s unions",
    "summary": "Unions say proposed changes to Canada's labour laws could weaken workers’ right to strike.",
    "published": "2026-10-02T22:14:34.000Z"
@@ -371,41 +413,6 @@
    "title": "Police bodycam shows Luigi Mangione arrest at Pennsylvania McDonald’s",
    "summary": "Newly released bodycam footage shows police arresting and searching Luigi Mangione at a McDonald’s in Altoona in 2024.",
    "published": "2026-10-02T21:59:11.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Al Jazeera",
-   "title": "Israel could’ve ended Gaza war, freed captives sooner: Israel ex-negotiator",
-   "summary": "Retired General Nitzan Alon says more captives could have returned alive and a deal was possible 'maybe a year earlier'.",
-   "published": "2026-10-02T21:53:17.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Al Jazeera",
-   "title": "France held 1-1 by Italy in Zidane home debut after Olise stunner",
-   "summary": "Italy's Alessandro Bastoni cancels out Michael Olise's opener for France in 1-1 UEFA Nations League draw in Saint-Denis.",
-   "published": "2026-10-02T21:24:24.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Al Jazeera",
-   "title": "Bosnia’s elections explained",
-   "summary": "Bosnia and Herzegovina votes on October 4 in an election that may determine whether it breaks its political deadlock.",
-   "published": "2026-10-02T21:21:47.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Al Jazeera",
-   "title": "Israeli general: Gaza captives could have been freed a year earlier",
-   "summary": "Israeli Gen. Nitzan Alon told a Washington Institute forum that all Gaza captives could've been freed a year earlier.",
-   "published": "2026-10-02T21:15:58.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Al Jazeera",
-   "title": "Christa Pike unconscious, on ventilator after botched execution: Lawyers",
-   "summary": "The Tennessee woman's legal team says doctors are working to clear doses of the drug pentobarbital from her system.",
-   "published": "2026-10-02T20:57:32.000Z"
   },
   {
    "region": "World",
@@ -431,9 +438,16 @@
   {
    "region": "World",
    "source": "The Guardian",
+   "title": "Several people injured after vehicle hits crowd in Newcastle waiting to farewell Knights team bus",
+   "summary": "Driver arrested at the scene after a vehicle struck multiple people in a crowd Get our breaking news email , free app or daily news podcast A car has crashed into a crowd of people in Newcastle injuring several as fans waited to farewell the Knights team bus before the NRL grand final. New South Wales police said that emergency services were called to Newcastle Link Road at the Transfield Drive roundabout in Wallsend about 9.30am on Saturday after reports a vehicle struck multiple people in a cr",
+   "published": "2026-10-03T00:51:35.000Z"
+  },
+  {
+   "region": "World",
+   "source": "The Guardian",
    "title": "Magnitude 4.8 earthquake hits Victoria with tremors felt across Melbourne",
    "summary": "The epicentre was at Leongatha, 130km south-east of Melbourne, with residents reporting houses shaking just after 2am Get our breaking news email , free app or daily news podcast A magnitude 4.8 earthquake struck Victoria in the early hours of Saturday morning, shaking Melbourne and waking people across the whole region. Geoscience Australia said it detected an earthquake with a preliminary magnitude of 4.8 at 2.01am near Leongatha, 130km south-east of Melbourne, with the tremors felt across the",
-   "published": "2026-10-02T19:57:16.000Z"
+   "published": "2026-10-03T00:23:49.000Z"
   },
   {
    "region": "World",
@@ -455,13 +469,6 @@
    "title": "OpenAI disclose another hack on government department in Australia",
    "summary": "Attack accessing historical data on bushfires occurred in June but not disclosed by the tech company until Thursday Get our breaking news email , free app or daily news podcast Artificial intelligence company OpenAI has disclosed another unauthorised hack on a government department in Australia. In June, an OpenAI agent hacked into a New South Wales state government department and accessed historical non-public data on bushfires without authorisation. Continue reading...",
    "published": "2026-10-02T10:00:05.000Z"
-  },
-  {
-   "region": "World",
-   "source": "The Guardian",
-   "title": "Activists plan legal action against police ban on entering security zone near Perth weapons expo",
-   "summary": "Under new WA laws anyone who defies an exclusion order could face a maximum $36,000 fine and three years in prison Get our breaking news email , free app or daily news podcast Activists and a Greens MP have threatened legal action after the Western Australia police banned at least 12 people entering a designated security area where the Land Forces weapons expo will be held in Perth from 6 October. The police used special powers given to them by the WA government last month to ban the activists f",
-   "published": "2026-10-02T08:31:55.000Z"
   },
   {
    "region": "World",
