@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-09T21:38:44.045Z",
+ "updatedAt": "2026-10-10T01:44:01.680Z",
  "items": [
   {
    "region": "Ghana",
@@ -14,20 +14,6 @@
    "title": "We’ll strengthen unity and party structures to win 2028 election – John Boadu assures Kufuor",
    "summary": "The newly elected national executives of the New Patriotic Party (NPP) have pledged to strengthen unity within the party and consolidate its organisational structures as they prepare for the 2028 general elections.",
    "published": "2026-10-09T10:26:03.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "Graphic Online",
-   "title": "National interests must transcend partisan politics - Most Rev. Prof. Asante declares",
-   "summary": "A former National Chairman of the National Peace Council (NPC), Most Reverend Professor Emmanuel Asante, has stated that certain fundamental national interests ought to transcend partisan politics. He said political parties might legitimately disagree about the means by which national objectives should be achieved but some national priorities should be tackled irrespective of the party in power, and devoid of extreme partisanship. “Education, health, peace, economic development, institutional in",
-   "published": "2026-10-09T07:38:35.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "Graphic Online",
-   "title": "Stop turning investigations into punishment - OccupyGhana to EOCO, BNI",
-   "summary": "OccupyGhana has called on the Economic and Organised Crime Office (EOCO), the Bureau of National Intelligence (BNI) and other investigative bodies exercising police powers to stop turning investigations into punishment. The pressure group said the use of account freezes, agency-imposed bail, travel restrictions, reporting requirements and arrests in some recent investigations raised concerns about due process and the exercise of investigative powers. The call was made in a statement issued in Ac",
-   "published": "2026-10-09T07:32:31.000Z"
   },
   {
    "region": "Ghana",
@@ -77,6 +63,20 @@
    "title": "Ghana suspends Road Traffic Rules criminalising preaching and hawking in moving vehicles",
    "summary": "Ghana suspends controversial ban on preaching and hawking in moving vehicles amid public outcry",
    "published": "2026-10-09T12:53:29.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "When ‘I don’t know’ becomes difficult to say: Is Social Media killing our ability to think critically?",
+   "summary": "In an era of fake news and social media outrage, Dr. Patience Calys-Tagoe explains why critical thinking and saying \"I don't know\" are more vital than ever.",
+   "published": "2026-10-09T22:31:03.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "Wa Technical Institute commissions solar training centre to equip 100 trainees for green jobs",
+   "summary": "Wa Technical Institute in the Upper West Region has commissioned a Solar Photovoltaic (PV) Training Centre expected to equip about 100 electrical trainees with practical renewable energy skills within a year.",
+   "published": "2026-10-09T22:11:48.000Z"
   },
   {
    "region": "Ghana",
@@ -170,25 +170,18 @@
    "published": "2026-10-09T14:09:43.000Z"
   },
   {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "FDA partners Northern Ghana Traditional Healers to boost standards; practitioners appeal for financial support",
-   "summary": "As part of efforts to enhance public health, safety and regulatory compliance, the Food and Drugs Authority (FDA) Ghana joined forces with the Northern Ghana Federation of Traditional Healers Association to conduct an in-service training and capacity-building workshop.",
-   "published": "2026-10-09T13:59:22.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "GTA denies collecting money for 2026 World Cup visa arrangements",
-   "summary": "The Ghana Tourism Authority (GTA) has denied collecting money from applicants in exchange for visa opportunities linked to its tourism promotion activities during the 2026 FIFA World Cup.",
-   "published": "2026-10-09T13:45:35.000Z"
+   "region": "World",
+   "source": "BBC News",
+   "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+   "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+   "published": "2026-10-10T00:45:51.000Z"
   },
   {
    "region": "World",
    "source": "BBC News",
-   "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
-   "summary": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
-   "published": "2026-10-09T21:16:49.000Z"
+   "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+   "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+   "published": "2026-10-09T22:30:22.000Z"
   },
   {
    "region": "World",
@@ -200,9 +193,16 @@
   {
    "region": "World",
    "source": "BBC News",
+   "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
+   "summary": "Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering.",
+   "published": "2026-10-09T23:02:07.000Z"
+  },
+  {
+   "region": "World",
+   "source": "BBC News",
    "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
    "summary": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
-   "published": "2026-10-09T20:42:11.000Z"
+   "published": "2026-10-09T21:50:47.000Z"
   },
   {
    "region": "World",
@@ -214,9 +214,9 @@
   {
    "region": "World",
    "source": "BBC News",
-   "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
-   "summary": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks.",
-   "published": "2026-10-09T17:14:44.000Z"
+   "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+   "summary": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says.",
+   "published": "2026-10-09T17:37:10.000Z"
   },
   {
    "region": "World",
@@ -227,17 +227,10 @@
   },
   {
    "region": "World",
-   "source": "BBC News",
-   "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
-   "summary": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says.",
-   "published": "2026-10-09T17:37:10.000Z"
-  },
-  {
-   "region": "World",
-   "source": "BBC News",
-   "title": "Three men found guilty of murdering two Australian surfer brothers and US friend",
-   "summary": "The bodies of Jake and Callum Robinson and their friend Carter Rhoad were found at the bottom of a well.",
-   "published": "2026-10-09T21:04:59.000Z"
+   "source": "BBC News Africa",
+   "title": "Questions remain over Ebola patient who travelled across three nations undetected",
+   "summary": "Fresh details reveal how the 40-year-old businessman flew and crossed regional borders while seriously ill.",
+   "published": "2026-10-10T00:00:08.000Z"
   },
   {
    "region": "World",
@@ -284,58 +277,65 @@
   {
    "region": "World",
    "source": "Al Jazeera",
+   "title": "Two Renoir paintings recovered after France museum heist, mayor says",
+   "summary": "The recovered Renoir paintings, valued at millions, were stolen in a daring heist at Cagnes-sur-Mer last month.",
+   "published": "2026-10-10T01:23:12.000Z"
+  },
+  {
+   "region": "World",
+   "source": "Al Jazeera",
+   "title": "Dual quakes devastate southern Panama",
+   "summary": "Panama’s president has declared a major disaster after two earthquakes struck the country’s south.",
+   "published": "2026-10-10T00:53:15.000Z"
+  },
+  {
+   "region": "World",
+   "source": "Al Jazeera",
+   "title": "Israeli drone attack wounds six in Lebanon near Syria border",
+   "summary": "Five Syrians and one Lebanese wounded in latest Israeli attack, Lebanon's health authorities say.",
+   "published": "2026-10-10T00:22:52.000Z"
+  },
+  {
+   "region": "World",
+   "source": "Al Jazeera",
+   "title": "Intercommunal clashes kill 71 people in South Sudan",
+   "summary": "Government security forces regain control of Rumbek town after outsiders attempted to seize the area.",
+   "published": "2026-10-10T00:01:32.000Z"
+  },
+  {
+   "region": "World",
+   "source": "Al Jazeera",
+   "title": "Iran war live: Kremlin says Trump welcomed Russia’s effort in Iran deal",
+   "summary": "The Kremlin says the US president welcomes Russia's involvement in efforts aimed at reaching a settlement over Iran.",
+   "published": "2026-10-10T00:00:00.000Z"
+  },
+  {
+   "region": "World",
+   "source": "Al Jazeera",
+   "title": "Mexico investigates video said to show cartel members fighting for Ukraine",
+   "summary": "Mexico is investigating a viral video showing suspected mercenaries chanting cartel slogans while fighting in Ukraine.",
+   "published": "2026-10-09T22:50:15.000Z"
+  },
+  {
+   "region": "World",
+   "source": "Al Jazeera",
+   "title": "Trump confirms Fort Hood shooter’s execution will be by firing squad",
+   "summary": "The Pentagon said the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be public and livestreamed.",
+   "published": "2026-10-09T21:53:01.000Z"
+  },
+  {
+   "region": "World",
+   "source": "Al Jazeera",
    "title": "US judge rules Trump administration’s use of voter data unlawful",
    "summary": "A federal judge ruled against the Justice Department's use of voter data to cross-reference an immigration database.",
    "published": "2026-10-09T21:29:01.000Z"
   },
   {
    "region": "World",
-   "source": "Al Jazeera",
-   "title": "Africa Cup of Nations may stay as a biennial event, says CAF chief Motsepe",
-   "summary": "CAF had declared the Africa Cup of Nations would be held every four years, but may reverse that decision.",
-   "published": "2026-10-09T21:17:42.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Al Jazeera",
-   "title": "Manchester United vs Tottenham: Premier League – teams, prediction, lineups",
-   "summary": "Man United and Tottenham Hotspur managers under increasing pressure ahead of Premier League clash at Old Trafford.",
-   "published": "2026-10-09T21:04:00.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Al Jazeera",
-   "title": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue",
-   "summary": "Saudi Arabia and Yemen's internationally recognised gov't urge UN Security Council action amid Houthi escalation.",
-   "published": "2026-10-09T20:56:01.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Al Jazeera",
-   "title": "How will Spain’s housing crisis affect elections?",
-   "summary": "Snap vote called after Parliament rejects measures to protect tenants and freeze rents.",
-   "published": "2026-10-09T20:39:11.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Al Jazeera",
-   "title": "Human rights veteran Navi Pillay wins 2026 Nobel Peace Prize",
-   "summary": "South African jurist Navanethem Pillay has been awarded the 2026 Nobel Peace Prize for her work to promote peace.",
-   "published": "2026-10-09T20:29:30.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Al Jazeera",
-   "title": "Rising fuel costs slashed Delta’s profit outlook despite strong demand",
-   "summary": "Rising fuel prices push Delta's annual fuel expenses up by $6bn, affecting its profit outlook for 2026.",
-   "published": "2026-10-09T20:17:15.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Al Jazeera",
-   "title": "Flydubai co-pilot plotted ‘suicide’ attack on Israel, UAE says",
-   "summary": "Attorney General says suspect admitted he acted alone after preparing ‌‌psychologically ‌‌and physically for the attack.",
-   "published": "2026-10-09T20:13:24.000Z"
+   "source": "The Guardian",
+   "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
+   "summary": "Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchers A controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forward this week. It is a central part of the vaccine vision for Robert F Kennedy Jr, the secretary of the US Department of Health and Human Services (HHS) and a longtime vaccine opponent. Continue reading...",
+   "published": "2026-10-09T21:36:18.000Z"
   },
   {
    "region": "World",
@@ -354,30 +354,16 @@
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "Egyptian journalists plan weekend protest over detention of six colleagues",
-   "summary": "Matsadaash staff allege torture and forced confessions after being held on charges of working for Muslim Brotherhood Egyptian journalists are planning a new protest in Cairo this weekend after six colleagues were charged with terrorism offences amid allegations they had been tortured in police detention. Last week, Egyptian authorities arrested the journalists, from the independent factchecking and investigative platform Matsadaash, accusing them in a statement of being unlicensed and producing ",
-   "published": "2026-10-09T04:00:38.000Z"
-  },
-  {
-   "region": "World",
-   "source": "The Guardian",
    "title": "Three men found guilty of murders of Australian surfer brothers and US friend in Mexico",
-   "summary": "Australian brothers Jake and Callum Robinson, 30 and 33, and friend Carter Rhoad, 30, were killed on a surfing trip in 2024 Get our breaking news email , free app or daily news podcast A Mexican judge has convicted three men of the 2024 murders of two Australian surfers and their American friend in a case that sparked international outrage. Australian brothers Jake and Callum Robinson, aged 30 and 33 respectively, and their friend Carter Rhoad, 30, were on a surfing trip to Mexico’s Pacific coas",
-   "published": "2026-10-09T21:30:22.000Z"
+   "summary": "Australian brothers Jake and Callum Robinson, 30 and 33, and friend Carter Rhoad, 30, were killed on a surfing trip in 2024 Get our breaking news email , free app or daily news podcast The parents of Australian surfing brothers murdered in Mexico have said “no outcome can ever undo this tragedy” after three men were convicted of the 2024 killings. Australian brothers Jake and Callum Robinson, aged 30 and 33 respectively, and their friend Carter Rhoad, 30, were on a surfing trip to Mexico’s Pacif",
+   "published": "2026-10-10T00:50:52.000Z"
   },
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "Powerful 7.6-magnitude earthquake hits Panama and triggers tsunami warnings",
-   "summary": "Hazardous waves are possible as far south as Ecuador and as far north as Mexico, as 13 aftershocks reported A powerful 7.6 magnitude earthquake has struck Panama and triggered tsunami warnings along the west coast of Central and South America, according to the US Geological Survey (USGS). The quake hit along the southern coast of the country, the USGS said. It was centered near the southern tip of the Central American country, about 14km (9 miles) south-west of the remote community of Pitaloza A",
-   "published": "2026-10-09T19:52:48.000Z"
-  },
-  {
-   "region": "World",
-   "source": "The Guardian",
-   "title": "How a plant selfie in Colombian jungle led to ‘jaw dropping’ giant waterlily find",
-   "summary": "Species with leaves large enough to be seen from space is already critically endangered – and plans are afoot to protect it A chance social media encounter has led to the race-against-time discovery of a new species of giant waterlily that has until now been hidden in the depths of Colombia’s jungle. But the plant, which is so huge it is visible from space, is already considered critically endangered. Continue reading...",
-   "published": "2026-10-09T04:00:37.000Z"
+   "title": "Powerful 7.7-magnitude earthquake strikes Panama and triggers panic in capital",
+   "summary": "The quake caused buildings and roads to collapse but the country appeared to escape widespread destruction or deaths A magnitude 7.7 earthquake struck southern Panama on Friday, damaging buildings and sending thousands into the streets, but the country appeared to escape widespread destruction or deaths. The US Geological Survey (USGS) said the ⁠earthquake hit at a depth of ⁠12.6km (7.8 miles), with an ​epicenter in a sparsely populated area about 200km (124 miles) from the capital, Panama City.",
+   "published": "2026-10-10T00:13:15.000Z"
   },
   {
    "region": "World",
@@ -389,9 +375,16 @@
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "Sydney trader sacked for working from Singapore without permission wins unfair dismissal case",
-   "summary": "Employee had also been in Bali when he told his manager he was working from home, Fair Work Commission hears Get our breaking news email , free app or daily news podcast A Sydney currency trader who was sacked for working from Singapore without approval has won an unfair dismissal case, but failed to be awarded compensation. The Fair Work Commission ruled on Wednesday that Charles Graham had been unfairly dismissed by HIFX Australia, trading as Xe, in December last year. Continue reading...",
-   "published": "2026-10-09T05:55:27.000Z"
+   "title": "Women with PMOS should get subsidised weight-loss drugs, Australian advocates say",
+   "summary": "With GLP-1s to treat the condition not specifically approved by the TGA, patients are being prescribed them off-label Get our breaking news email , free app or daily news podcast Women living with a chronic hormonal condition should have access to taxpayer-funded weight-loss medications, advocates say. The Polyendrocrine Metabolic Ovarian Syndrome Association of Australia (POSAA) is urging for GLP-1 drugs to be approved on the Pharmaceutical Benefits Scheme for people living with the condition. ",
+   "published": "2026-10-09T23:00:41.000Z"
+  },
+  {
+   "region": "World",
+   "source": "The Guardian",
+   "title": "New spate of stabbings, overdoses and fires at Australian immigration detention centres run by ICE-linked US prison firm",
+   "summary": "Exclusive: Federal government under scrutiny as documents reveal serious security lapses at Melbourne and Villawood immigration detention centres Get our breaking news email , free app or daily news podcast A new spate of stabbings, overdoses and drug use in Australia’s immigration detention centres has put the Australian government in likely breach of laws designed to protect staff and detainees, internal documents show. Earlier this year, Guardian Australia revealed catastrophic security faili",
+   "published": "2026-10-09T14:00:34.000Z"
   },
   {
    "region": "World",
@@ -452,6 +445,13 @@
   {
    "region": "World",
    "source": "France 24",
+   "title": "South African judge awarded Nobel Peace Prize",
+   "summary": "In tonight's programme, South African judge and human rights champion Navi Pillay has been awarded the Nobel Peace Prize. Also in Kenya health officials in Nairobi are still racing to track dozens of people linked to the man who died from the virus earlier this week. And finally, Moroccan-British photographer Hassan Hajjaj has built a global reputation with his vibrant portraits, 40 of his iconic Rock Stars pictures are taking centre stage in Paris.",
+   "published": "2026-10-09T21:53:23.000Z"
+  },
+  {
+   "region": "World",
+   "source": "France 24",
    "title": "Italy's biggest-ever wine heist",
    "summary": "A multi million euro wine heist in Italy. As thieves in Tuscany steal 30 thousand bottles of the one of the most iconic labels in the country from a warehouse of the the prized Marchesi Antinori winery as it prepared for a major export. The company said in the past few hours, they believe two vans and up to six thieves were involved. Gavin Lee speaks to France 24's correspondent in Rome, Seema Gupta.",
    "published": "2026-10-09T20:08:41.000Z"
@@ -500,10 +500,10 @@
   },
   {
    "region": "World",
-   "source": "France 24",
-   "title": "🔴 FlyDubai co-pilot planned suicide attack on Tel Aviv airport, inspired by 9/11, UAE prosecutor says",
-   "summary": "",
-   "published": "2026-10-09T17:09:59.000Z"
+   "source": "Africanews",
+   "title": "Police clash with protesters in Brussels as thousands march against spending cuts",
+   "summary": "Clashes broke out between police and protesters in Brussels on Friday, 9 October, as thousands marched against the Belgian government's planned spending cuts. Police estimated that 30,000 people took part in the demonstration, organised by trade unions amid growing opposition to austerity measures.",
+   "published": "2026-10-09T22:28:07.000Z"
   },
   {
    "region": "World",
@@ -553,13 +553,6 @@
    "title": "Ethiopia and Eritrea trade war accusations as regional conflict threatens to escalate",
    "summary": "Ethiopia and Eritrea are trading accusations of aggression, as fighting in northern Ethiopia raises fears of a new regional war.",
    "published": "2026-10-09T14:08:43.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Africanews",
-   "title": "Ethiopian Airlines to resume flights to Tigray's capital from Sunday",
-   "summary": "The carrier temporarily suspended its services to Mekelle on 23 September, citing the 'current situation' in the Tigray region.",
-   "published": "2026-10-09T13:59:25.000Z"
   }
  ]
 }
