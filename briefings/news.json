@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T21:01:07.603Z",
+ "updatedAt": "2026-10-16T23:31:58.137Z",
  "items": [
   {
    "region": "Ghana",
@@ -116,6 +116,20 @@
   {
    "region": "Ghana",
    "source": "3News",
+   "title": "Ghana and BRICS: Strategic opportunity, economic imperative or geopolitical gamble?",
+   "summary": "Walk through Abossey Okai, Tema and other industrial enclaves in Ghana and you can already see BRICS in Ghana's economy: spare parts and machinery from Guangzhou, pharmaceuticals and vehicles from India, gold flowing out to Dubai.3VOI",
+   "published": "2026-10-16T22:18:49.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "Ho: Group supports 120 widows, calls for end to dehumanising traditional rites",
+   "summary": "One hundred and twenty widows from communities within the Ho Municipality in the Volta Region have received packages containing half a piece of Holland wax cloth, kitchen napkins, perfume spray and an undisclosed amount of cash from the Three Sisters Angels Foundation.",
+   "published": "2026-10-16T21:48:01.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
    "title": "UG sets October 19 reporting date following GAUA strike suspension",
    "summary": "The University of Ghana has announced its reopening schedule for the 2026/2027 academic year, with students expected to begin reporting to their halls of residence from October 19, 2026.",
    "published": "2026-10-16T20:35:07.000Z"
@@ -205,20 +219,6 @@
    "published": "2026-10-16T14:35:53.000Z"
   },
   {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "rCOMSDEP takes root in Nzema East; three mining cooperatives embrace responsible mining",
-   "summary": "The launch of three mining cooperatives in Nzema East is set to usher in a new chapter for small-scale mining in the Western Region, with the government pushing for an approach that creates jobs, protects the environment and delivers lasting benefits to host communities.",
-   "published": "2026-10-16T14:35:07.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "Debibi United's Richard Owusu named NASCO Player of the Month for September",
-   "summary": "Debibi United attacking midfielder Richard Owusu has been named the NASCO Player of the Month for September in the Ghana Premier League after contributing four goal involvements in as many appearances.",
-   "published": "2026-10-16T14:19:21.000Z"
-  },
-  {
    "region": "World",
    "source": "BBC News",
    "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
@@ -228,9 +228,23 @@
   {
    "region": "World",
    "source": "BBC News",
+   "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+   "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+   "published": "2026-10-16T23:07:38.000Z"
+  },
+  {
+   "region": "World",
+   "source": "BBC News",
    "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
    "summary": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
    "published": "2026-10-16T14:31:04.000Z"
+  },
+  {
+   "region": "World",
+   "source": "BBC News",
+   "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
+   "summary": "For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children.",
+   "published": "2026-10-16T23:07:18.000Z"
   },
   {
    "region": "World",
@@ -244,7 +258,7 @@
    "source": "BBC News",
    "title": "Pope pictured for first time since surgery and cancer diagnosis",
    "summary": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
-   "published": "2026-10-16T14:36:39.000Z"
+   "published": "2026-10-16T23:20:37.000Z"
   },
   {
    "region": "World",
@@ -259,20 +273,6 @@
    "title": "Dad fined after son, 2, died in Cyprus hotel fall",
    "summary": "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window.",
    "published": "2026-10-16T14:21:32.000Z"
-  },
-  {
-   "region": "World",
-   "source": "BBC News",
-   "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
-   "summary": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
-   "published": "2026-10-16T05:00:17.000Z"
-  },
-  {
-   "region": "World",
-   "source": "BBC News",
-   "title": "Albanian protests turn violent: What we know",
-   "summary": "Albania's capital Tirana has seen months of protests from an anti-government \"Flamingo\" movement, but what started on Tuesday this week was on a different scale.",
-   "published": "2026-10-16T14:33:32.000Z"
   },
   {
    "region": "World",
@@ -291,6 +291,48 @@
   {
    "region": "World",
    "source": "Al Jazeera",
+   "title": "Leeds vs Manchester United: Premier League – teams, prediction, lineups",
+   "summary": "Manchester United are mired in poor form - and Lisandro Martinez's meltdown - now they face on-the-up rivals Leeds.",
+   "published": "2026-10-16T22:53:26.000Z"
+  },
+  {
+   "region": "World",
+   "source": "Al Jazeera",
+   "title": "Italy probes Israel’s Katz over abuse, sexual assault of flotilla activists",
+   "summary": "Rome prosecutors also name 12 senior military, police and prison officials over alleged abuse of detained activists.",
+   "published": "2026-10-16T22:48:54.000Z"
+  },
+  {
+   "region": "World",
+   "source": "Al Jazeera",
+   "title": "Families demand justice after Pakistan school collapse",
+   "summary": "Parents are demanding accountability after a school roof collapse in Pakistan's Peshawar killed 34 children.",
+   "published": "2026-10-16T22:38:04.000Z"
+  },
+  {
+   "region": "World",
+   "source": "Al Jazeera",
+   "title": "Yemen’s government says Houthis fired two missiles at Aden airport",
+   "summary": "Attack comes as Yemeni gov't forces claim advances in Marib and say they 'neutralised' 430 Houthi fighters in 24 hours.",
+   "published": "2026-10-16T21:56:07.000Z"
+  },
+  {
+   "region": "World",
+   "source": "Al Jazeera",
+   "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
+   "summary": "The messages, reported by a Brazilian daily, say the platform recommended Bolsonaro's profile and his WhatsApp channel.",
+   "published": "2026-10-16T21:08:50.000Z"
+  },
+  {
+   "region": "World",
+   "source": "Al Jazeera",
+   "title": "How Israeli spyware used ‘zero click’ hack on Al Jazeera staff",
+   "summary": "Israeli spyware firms hacked into Al Jazeera devices in 2024 using a new ‘adfection’ method. Here's how it works.",
+   "published": "2026-10-16T21:08:44.000Z"
+  },
+  {
+   "region": "World",
+   "source": "Al Jazeera",
    "title": "Students in Europe are rising up to call for better education",
    "summary": "Violent unrest is gripping several countries across Europe, as student activists demand better education systems.",
    "published": "2026-10-16T20:38:00.000Z"
@@ -301,48 +343,6 @@
    "title": "Food affordability fears plague Gaza as Israel halts commercial goods",
    "summary": "Commercial goods, such as fresh fruit, vegetables, meat and winter clothing, have not entered Gaza for two days.",
    "published": "2026-10-16T20:37:22.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Al Jazeera",
-   "title": "Oregon community mourns victims of school shooting",
-   "summary": "Mourners quietly grieved at a makeshift memorial outside an elementary school in Bend, Oregon.",
-   "published": "2026-10-16T20:08:52.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Al Jazeera",
-   "title": "AOC transfers $1m to Michigan candidate El-Sayed in progressive push",
-   "summary": "Progressive stalwart, who is seen as potential 2028 candidate, says she wants to combat 'smears' against El-Sayed.",
-   "published": "2026-10-16T20:07:25.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Al Jazeera",
-   "title": "Trump told new press secretary to ‘reconsider’ role",
-   "summary": "Al Jazeera has confirmed that White House press secretary Katie Zacharia is “transitioning out” of her role.",
-   "published": "2026-10-16T19:41:15.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Al Jazeera",
-   "title": "Can diplomacy resolve longstanding Ethiopia-Eritrea differences?",
-   "summary": "The United States calls for dialogue as regional East Africa tension escalates.",
-   "published": "2026-10-16T19:18:13.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Al Jazeera",
-   "title": "White House press secretary Katie Zacharia fired after five days on the job",
-   "summary": "Trump advised Katie Zacharia to reconsider her press secretary role due to media backlash over her credentials.",
-   "published": "2026-10-16T18:58:06.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Al Jazeera",
-   "title": "Kenya records third Ebola case, linked to first patient who died",
-   "summary": "Nairobi says 65-year-old female patient in quarantine with Bundibugyo strain; no signs of community transmission.",
-   "published": "2026-10-16T18:57:40.000Z"
   },
   {
    "region": "World",
@@ -389,16 +389,16 @@
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "Greens leader denies knowledge of ‘secret dossier’ on how to handle Jordon Steele-John misconduct allegations",
-   "summary": "David Shoebridge says 47-page document not ‘made by, used by, or seen by’ his office as matter referred to parliamentary standards commission Get our new political email , free app or daily news podcast Greens leader David Shoebridge has denied knowledge of the existence of an alleged crisis management document on how to deal with allegations against Jordon Steele-John being made public. The Nine newspapers reported on Friday afternoon the existence of a “secret dossier”, first drafted in 2016, ",
-   "published": "2026-10-16T08:55:19.000Z"
+   "title": "Gone to the dogs: racing fans mourn closure of ‘Wenty’, Sydney’s historic greyhound track",
+   "summary": "Thousands pack Wentworth Park for the final time before the stadium is demolished and returned to parkland Get our breaking news email , free app or daily news podcast The end of an era has fallen upon an Australian sporting landmark as the greyhound races at an inner-city track kick off for the very last time. Thousands packed into Wentworth Park in central Sydney on Friday night, where greyhound races have been held since 1932, for the last race meeting before the track’s planned demolition. C",
+   "published": "2026-10-16T23:00:15.000Z"
   },
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "Elizabeth Struhs’ child protection case not ‘prioritised’ due to high workload, inquest hears",
-   "summary": "Eight-year-old Queensland girl died in 2022 after being denied insulin by her religious parents Get our breaking news email , free app or daily news podcast Elizabeth Struhs’ child protection case was not “prioritised” or worked intensively because the staff member assigned to her case was “very busy”, a coroner has heard. The Queensland coroner’s court also heard the case worker may have been “overly influenced” by the presentation of Struhs’ “upper class home”, putting cases believed to involv",
-   "published": "2026-10-16T07:20:49.000Z"
+   "title": "Mortgage repayments are now cheaper than rent in some Australian suburbs. Is yours among them?",
+   "summary": "As house prices plateau, the gap between the cost of buying and renting is narrowing in dozens of suburbs Get our breaking news email , free app or daily news podcast High rents and falling property prices have opened a rare window for Australian tenants to become homeowners, with mortgage repayments cheaper than rent in dozens of suburbs. Guardian Australia’s analysis of Cotality data shows that median rents in inner-city Melbourne, suburban Canberra and Darwin are now nearly matching weekly ho",
+   "published": "2026-10-16T23:00:15.000Z"
   },
   {
    "region": "World",
