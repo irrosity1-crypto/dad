@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-17T22:14:28.219Z",
+ "updatedAt": "2026-10-18T00:57:43.617Z",
  "items": [
   {
    "region": "Ghana",
@@ -81,8 +81,29 @@
   {
    "region": "Ghana",
    "source": "3News",
+   "title": "Journalism is a calling, not just a profession – GJA President tells journalists",
+   "summary": "He said journalists must be willing to go beyond routine reporting, acquire specialised knowledge and demonstrate excellence in their work to make a meaningful impact on society.",
+   "published": "2026-10-17T23:20:21.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "Let's stop making ADR a last resort - Board Chairman of ADR Centre",
+   "summary": "He said the field needs stronger professional capacity to help parties reach fair and lasting settlements.",
+   "published": "2026-10-17T23:10:08.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "20 Ghana Armed Forces personnel graduate from Special Operations Course after 9 months of intensive training",
+   "summary": "The course was designed to develop the physical endurance, mental resilience, tactical proficiency and leadership skills required of personnel expected to operate in complex and demanding security environments.",
+   "published": "2026-10-17T22:39:03.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
    "title": "Winneba Hunters crowned champions of IOM National Netball Championship",
-   "summary": "Winneba Hunters have been crowned champions of the IOM National Netball Championship after defeating Accra-based Spice Girls in the final at the Accra Sports Stadium.",
+   "summary": "Winneba Hunters Hand have been crowned champions of the IOM National Netball Championship after defeating Accra-based Spice Girls in the final at the Accra Sports Stadium.",
    "published": "2026-10-17T20:18:22.000Z"
   },
   {
@@ -164,27 +185,6 @@
   },
   {
    "region": "Ghana",
-   "source": "3News",
-   "title": "Skills Labs key to making Competency-Based Curriculum meaningful - Nursing Educators",
-   "summary": "The Nursing and Midwifery Council introduced the revised competency-based curriculum to training institutions across the country in February 2026. It shifts training from theory alone to ensuring students can demonstrate clinical skills.",
-   "published": "2026-10-17T10:38:10.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "A dream beyond disability: Richard Ekwam prepares for his third Amputee Football World Cup",
-   "summary": "At 36, Richard Ekwam is preparing for his third Amputee Football World Cup, 16 years after making his debut for Ghana. Having lost his right leg in a childhood accident, the Black Challenge striker has turned adversity into a remarkable football career.",
-   "published": "2026-10-17T10:37:55.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "I think Emelia Agbenyo should resign from the EC - Senyo Hosi",
-   "summary": "This decision is one of the biggest disappointments of the NDC administration",
-   "published": "2026-10-17T10:36:29.000Z"
-  },
-  {
-   "region": "Ghana",
    "source": "The Ghana Report",
    "title": "NPP will be better prepared for election security in 2028 – Dr. Ekua Amoakoh",
    "summary": "Dr. Ekua Amoakoh, spokesperson for New Patriotic Party (NPP) flagbearer Dr. Mahamudu Bawumia, says the party will be better prepared to deal with election security challenges ahead of the 2028 general elections. She believes the outcome of the NPP’s recent national executive elections shows that delegates have learnt lessons from the violence and security lapses […] The post NPP will be better prepared for election security in 2028 – Dr. Ekua Amoakoh appeared first on The Ghana Report .",
@@ -209,7 +209,7 @@
    "source": "BBC News",
    "title": "European diplomats attacked by Israeli settlers in West Bank",
    "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-   "published": "2026-10-17T18:38:57.000Z"
+   "published": "2026-10-17T23:52:38.000Z"
   },
   {
    "region": "World",
@@ -228,6 +228,13 @@
   {
    "region": "World",
    "source": "BBC News",
+   "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+   "summary": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
+   "published": "2026-10-17T22:09:50.000Z"
+  },
+  {
+   "region": "World",
+   "source": "BBC News",
    "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
    "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
    "published": "2026-10-17T09:58:17.000Z"
@@ -241,10 +248,24 @@
   },
   {
    "region": "World",
-   "source": "BBC News",
-   "title": "Rare pink diamond goes on display in France 100 years after amateur heist",
-   "summary": "The French royal jewel will be on public display for the first time since it was found hidden in an apple after a 1926 theft.",
-   "published": "2026-10-17T10:46:41.000Z"
+   "source": "Al Jazeera",
+   "title": "Iran war live: Tankers hit in Hormuz; Israeli settlers attack EU diplomats",
+   "summary": "Fires reported on three tankers as masked settlers attack European politicians in the occupied West Bank.",
+   "published": "2026-10-18T00:00:11.000Z"
+  },
+  {
+   "region": "World",
+   "source": "Al Jazeera",
+   "title": "US ambassador urges Israel to prosecute attackers of American journalist",
+   "summary": "Trump-appointed Ambassador Mike Huckabee calls attack in occupied West Bank a 'despicable act of terror'.",
+   "published": "2026-10-17T23:40:59.000Z"
+  },
+  {
+   "region": "World",
+   "source": "Al Jazeera",
+   "title": "Saudi-led coalition intercepts drones as Egypt weighs sending help",
+   "summary": "Forces intercepted and destroyed four drones over Saudi Arabia's Riyadh, Eastern Province and southern region.",
+   "published": "2026-10-17T23:21:57.000Z"
   },
   {
    "region": "World",
@@ -257,7 +278,7 @@
    "region": "World",
    "source": "Al Jazeera",
    "title": "Cost of living protests hit Belgium, Italy, Portugal and France",
-   "summary": "Hundreds of thousands took to the streets for separate demonstrations putting pressure on governments across the EU.",
+   "summary": "Hundreds of thousands took to the streets for separate demonstrations, putting pressure on governments across the EU.",
    "published": "2026-10-17T21:02:26.000Z"
   },
   {
@@ -283,51 +304,37 @@
   },
   {
    "region": "World",
-   "source": "Al Jazeera",
-   "title": "Iranian TV airs video said to show tanker explosion in Hormuz",
-   "summary": "Iranian state TV aired footage claiming to show an oil tanker exploding after striking a naval mine in Hormuz",
-   "published": "2026-10-17T20:02:22.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Al Jazeera",
-   "title": "At least 17 killed in stampede at religious gathering in India",
-   "summary": "Incident took place at festival in north Kolkata, in India's West Bengal state, amid big crowds and rainfall, police said.",
-   "published": "2026-10-17T19:48:54.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Al Jazeera",
-   "title": "Albanian police fire rubber bullets as protests against Rama escalate",
-   "summary": "Five days of clashes rock Tirana as students join a wider movement demanding Prime Minister Edi Rama's resignation.",
-   "published": "2026-10-17T19:26:13.000Z"
+   "source": "The Guardian",
+   "title": "Ebike rider, 13, charged with sexual touching after girls and women allegedly harassed on northern beaches",
+   "summary": "Sydney teenager charged with offensive behaviour and sexual touching without consent in relation to incidents involving females aged 13 to 54 Get our breaking news email , free app or daily news podcast An ebike riding 13-year-old boy has been charged with multiple sexual offences allegedly committed against women on walking trails on Sydney’s northern beaches. New South Wales police said the boy was arrested on Saturday evening after a strike force was established to investigate inappropriate c",
+   "published": "2026-10-17T23:53:08.000Z"
   },
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "Plover, not a fighter: masked lapwing nesting on Tasmanian cricket ground indifferent as play continues",
+   "title": "Plover, not a fighter: protected bird 12th man on Tasmanian cricket ground as staff mow around nest",
    "summary": "While masked lapwings have a reputation for swooping during nesting season, Windsor Park oval’s resident plover just wants a good innings At Windsor Park in Riverside, just outside Launceston in northern Tasmania, a masked lapwing has claimed prime real estate in the middle of a community sports ground, showing complete indifference to the weekend cricket matches taking place around it. Warming a nest of eggs, the bird has been affectionately dubbed “Faf Swoop Plessis” by locals – a play on form",
    "published": "2026-10-17T19:00:40.000Z"
   },
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "Almost all NSW homes destroyed in black summer bushfires were within 100 metres of flammable vegetation",
-   "summary": "Exclusive : Research confirms official advice about high-risk properties and warns worsening conditions will make more homes unsafe Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Almost every home destroyed in New South Wales during the black summer bushfires of 2019 and 2020 was inside the 100 metre buffer zone used to identify properties most at risk, new research has found. The findings are an endorsement of the risk maps used by authorities, but the r",
+   "title": "Most NSW homes destroyed in black summer bushfires were within 100 metres of vegetation",
+   "summary": "Exclusive : Research confirms official advice about high-risk properties and warns worsening conditions will make more homes unsafe Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Almost every home destroyed in New South Wales during the black summer bushfires of 2019-20 was inside the 100 metre buffer zone used to identify properties most at risk, new research has found. The findings are an endorsement of the risk maps used by authorities, but the researc",
    "published": "2026-10-17T19:00:40.000Z"
   },
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "More than 400 arrested as police clash with protesters across France",
-   "summary": "Police fire teargas in Paris and protesters storm town hall in Marseille – with officials blaming violence on ‘ultra-left’ More than 400 people were arrested in France on Saturday after protesters supporting high school student grievances clashed with police. Police fired teargas in confrontations with protesters, as demonstrations across France were boosted by other groups angry over high prices and the fraying of a social welfare system. Continue reading...",
-   "published": "2026-10-17T19:15:03.000Z"
+   "title": "Building set ablaze and more than 1,200 arrested as police clash with protesters across France",
+   "summary": "Police fire teargas in Paris and Limoges town hall ‘largely lost’ to fire – with officials blaming violence on ‘ultra-left’ More than 1,200 people were arrested in France on Saturday after protesters supporting high school students clashed with police, with some demonstrations later spiralling out of control as buildings were set ablaze and shops looted. Police fired teargas in confrontations with protesters, as demonstrations across France were boosted by other groups angry about high prices an",
+   "published": "2026-10-18T00:01:12.000Z"
   },
   {
    "region": "World",
    "source": "The Guardian",
    "title": "Revealed: French police used UK-funded 4x4 vehicles to charge student protesters",
-   "summary": "French government launches investigation into why cars funded by UK to prevent asylum seekers crossing Channel were used in school protests French police have used 4x4 vehicles paid for by British taxpayers to charge at student protesters during the school protests that have swept the country. The French government has confirmed that an investigation has been launched into why the cars, funded by the UK government specifically to prevent asylum seekers crossing the Channel, were used during a pr",
+   "summary": "French government investigating why cars funded by UK to prevent asylum seekers crossing Channel were used in school protests French police have used 4x4 vehicles paid for by British taxpayers to charge at student protesters during the school protests that have swept the country. The French government has confirmed that an investigation has been launched into why the cars, funded by the UK government specifically to prevent asylum seekers crossing the Channel, were used during a protest involvin",
    "published": "2026-10-17T16:00:34.000Z"
   },
   {
@@ -350,13 +357,6 @@
    "title": "Isabel Allende wins €1m Spanish literary prize under pseudonym",
    "summary": "Chilean-American author awarded Premio Planeta for sequel to her 1982 debut novel, The House of the Spirits The Chilean-American author Isabel Allende has won Spain’s €1m (£843,000) Premio Planeta, one of the world’s most lucrative literary prizes, under a pseudonym, with a sequel to her celebrated debut novel, The House of the Spirits. Allende, 84, won the 75th edition of the award on Thursday with La hora antes del alba , which returns to the characters of her 1982 novel, a multigenerational f",
    "published": "2026-10-17T13:01:51.000Z"
-  },
-  {
-   "region": "World",
-   "source": "The Guardian",
-   "title": "Israeli settlers attack European diplomats in West Bank",
-   "summary": "French mayor and archbishop also attacked during violent attempt to stop Palestinians harvesting olives Israeli settler militants have attacked European diplomats, a French mayor and the archbishop of Cambrai in Taybeh, in the occupied West Bank, injuring three people and damaging a car, in the latest violent attempt to prevent Palestinians from harvesting olives on their own land. Bernard Baudoux, mayor of Aulnoye-Aymeries, was wearing his red, white and blue sash of office and attempting to en",
-   "published": "2026-10-17T18:57:56.000Z"
   },
   {
    "region": "World",
@@ -383,15 +383,8 @@
    "region": "World",
    "source": "DW",
    "title": "France: Protesters clash with police in nationwide protests, amid rising social polarization",
-   "summary": "Unrest broke out in parts of France as students, trade unionists and Yellow Vest activists took to the streets to protest high prices and inequality. Police arrested hundreds amid chaotic scenes in French cities.",
+   "summary": "Unrest broke out in parts of France as students, trade unionists and Yellow Vest activists took to the streets to protest high prices and inequality. Police arrested over 1,000 people amid chaotic scenes.",
    "published": "2026-10-17T08:02:00.000Z"
-  },
-  {
-   "region": "World",
-   "source": "DW",
-   "title": "Oregon school shooting: Police praise 'heroism' of those who intervened to stop more killing",
-   "summary": "US police have praised the actions of three people who cut short a deadly shooting at a school in the state of Oregon. Three children and a teacher were killed in the attack, carried out by a former pupil at the school.",
-   "published": "2026-10-17T06:04:00.000Z"
   },
   {
    "region": "World",
@@ -490,13 +483,6 @@
    "title": "Ex-fighters in Ethiopia's Tigray region register for reintegration programme",
    "summary": "Hundreds of former fighters in Ethiopia’s northern Tigray region have been signing up for a government programme to help them return to civilian life.",
    "published": "2026-10-17T07:36:36.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Africanews",
-   "title": "Morocco's King Mohammed VI formally appoints first woman-led government",
-   "summary": "Morocco's King Mohammed VI formally appoints the members of his country's new government, led for the first time in its history by a woman prime minister, Fatima Ezzahra El Mansouri.",
-   "published": "2026-10-17T06:17:51.000Z"
   }
  ]
 }
