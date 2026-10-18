@@ -1,6 +1,13 @@
 {
- "updatedAt": "2026-10-18T10:56:52.674Z",
+ "updatedAt": "2026-10-18T14:32:11.498Z",
  "items": [
+  {
+   "region": "Ghana",
+   "source": "MyJoyOnline",
+   "title": "NPP holds national thanksgiving service in Goaso after successful internal elections",
+   "summary": "The New Patriotic Party (NPP) has held a national thanksgiving service at the Seventh-day Adventist (SDA) Church in Goaso in the Ahafo Region to express gratitude to God following what it described as successful elections of its executives and flagbearer.",
+   "published": "2026-10-18T13:53:38.000Z"
+  },
   {
    "region": "Ghana",
    "source": "MyJoyOnline",
@@ -17,20 +24,6 @@
   },
   {
    "region": "Ghana",
-   "source": "MyJoyOnline",
-   "title": "Ghana’s foreign policy will not be dictated by other countries – Ablakwa",
-   "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa says Ghana’s pursuit of a partnership with BRICS reflects the independent foreign policy tradition championed by the country’s first President, Dr Kwame Nkrumah.",
-   "published": "2026-10-17T19:46:15.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "MyJoyOnline",
-   "title": "Trump deals with Putin, so why should Ghana fear BRICS? – Ablakwa asks",
-   "summary": "Foreign Affairs Minister Samuel Okudzeto Ablakwa has defended Ghana’s pursuit of BRICS membership, arguing that the United States’ own dealings with Russia demonstrate the importance of pursuing national interests.",
-   "published": "2026-10-17T18:02:00.000Z"
-  },
-  {
-   "region": "Ghana",
    "source": "Graphic Online",
    "title": "No pesewa missing in South Africa evacuation — Ablakwa to Minority",
    "summary": "The Minister of Foreign Affairs, Samuel Okudzeto Ablakwa, has reacted to claims by the Minority in Parliament that over GH¢16 million cannot be accounted for in the evacuation of 1,964 Ghanaians from South Africa. “I can state unequivocally, without any scintilla of doubt, that not a cedi, not a pesewa is missing,” the Minister said during a television interview on JoyNews' Newsfile programme on Saturday (October 17, 2026). Mr Ablakwa was responding to allegations that GH¢16.4 million was unacco",
@@ -38,10 +31,31 @@
   },
   {
    "region": "Ghana",
-   "source": "Graphic Online",
-   "title": "Ghana must review process for appointing commissioners for Electoral Commission - UCC political science lecturer",
-   "summary": "A political science lecturer at the University of Cape Coast (UCC), Professor Jonathan Asante has called for a review of the process for appointing commissioners for the Electoral Commission, suggesting that it was about time Ghana considered electing commissioners or selecting them through the Public Services Commission. Commenting on this week's two new deputy chairperson appointments for the commission and the varied public reactions to Ms Emelia Afi Agbenyo's appointment for instance, Prof. ",
-   "published": "2026-10-17T17:06:18.000Z"
+   "source": "3News",
+   "title": "Western Regional Fire Command intensifies safety inspections ahead of harmattan",
+   "summary": "The Western Regional Command of the Ghana National Fire Service (GNFS) has intensified fire safety inspections at shopping malls, radio stations and other public facilities in the Sekondi-Takoradi metropolis ahead of the approaching harmattan season.",
+   "published": "2026-10-18T13:09:31.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "GMB at 20: Kacstone Records CEO donates to boost Ayinboma’s crown bid",
+   "summary": "Kacstone Records CEO Wenawome Aborah has donated to Ayinboma ahead of the GMB 2026 finale, as the Upper East Region chases its first crown since 2013.",
+   "published": "2026-10-18T12:02:09.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "Foreign Affairs Ministry releases 1,964 South Africa evacuees’ payment records, signatures",
+   "summary": "The Ministry of Foreign Affairs has released the names and signatures of Ghanaians evacuated from South Africa, alongside records of payments made to them.",
+   "published": "2026-10-18T11:55:52.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "Ellembelle District launches Eco Brigade to tackle plastic pollution in coastal communities",
+   "summary": "The Ellembelle district in the Western Region has launched an Eco Brigade to clean its coast and secure a greener future.",
+   "published": "2026-10-18T11:24:18.000Z"
   },
   {
    "region": "Ghana",
@@ -93,67 +107,18 @@
    "published": "2026-10-17T22:39:03.000Z"
   },
   {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "Winneba Hunters crowned champions of IOM National Netball Championship",
-   "summary": "Winneba Hunters Hand have been crowned champions of the IOM National Netball Championship after defeating Accra-based Spice Girls in the final at the Accra Sports Stadium.",
-   "published": "2026-10-17T20:18:22.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "Media practitioners urged to embrace emotional intelligence, AI for professional growth",
-   "summary": "A Consultant expert, Percy Amoh Yankey made the call during a media engagement organised by the Ghana National Gas Company Limited (Ghana Gas) for selected media personalities from the Western and Greater Accra Regions.",
-   "published": "2026-10-17T18:21:05.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "Veep Opoku-Agyemang pushes for a global financial system that does not deepen vulnerability",
-   "summary": "The Vice President made the remarks on Saturday, October 17, 2026, when she delivered the opening address at the Global South Academic Forum in Shanghai, China.",
-   "published": "2026-10-17T18:09:50.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "Global Climate policies must not ignore developing countries’ realities - Veep Opoku-Agyemang",
-   "summary": "She said developing countries must have a stronger voice in shaping international policies, particularly those that affect their ability to pursue economic growth, address climate challenges and improve the livelihoods of their populations.",
-   "published": "2026-10-17T18:00:06.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "Police arrest 41 suspects in intelligence-led operation at Abeka Lapaz and Chantan",
-   "summary": "The operation, conducted at about 12:00 noon, targeted criminal and narcotics-related activities in the two areas.",
-   "published": "2026-10-17T17:47:20.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "Police officers reject GHC50k bribe after arresting 4 suspects with 142 parcels of Indian hemp",
-   "summary": "The arresting officers rejected a GH,50,000 bribe allegedly offered by the suspects.",
-   "published": "2026-10-17T17:40:45.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "NDC Amenfi West Dep. Constituency Youth Organiser vies for Dep. Western Regional Youth Organiser",
-   "summary": "He says his candidacy is anchored in the conviction that an effective youth wing must go beyond political mobilisation to empower young people economically, strengthen party structures and position the NDC for sustained political success.",
-   "published": "2026-10-17T17:29:52.000Z"
-  },
-  {
    "region": "World",
    "source": "BBC News",
    "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
    "summary": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
-   "published": "2026-10-18T10:53:54.000Z"
+   "published": "2026-10-18T12:07:31.000Z"
   },
   {
    "region": "World",
    "source": "BBC News",
-   "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
-   "summary": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
-   "published": "2026-10-17T22:09:50.000Z"
+   "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+   "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+   "published": "2026-10-18T11:57:49.000Z"
   },
   {
    "region": "World",
@@ -167,14 +132,7 @@
    "source": "BBC News",
    "title": "European diplomats attacked by Israeli settlers in West Bank",
    "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-   "published": "2026-10-17T23:52:38.000Z"
-  },
-  {
-   "region": "World",
-   "source": "BBC News",
-   "title": "Several dead or injured in major fire at Canada military base",
-   "summary": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright.",
-   "published": "2026-10-18T08:52:41.000Z"
+   "published": "2026-10-18T12:16:14.000Z"
   },
   {
    "region": "World",
@@ -193,65 +151,72 @@
   {
    "region": "World",
    "source": "BBC News",
-   "title": "At least 17 dead in crush at Hindu festival event in India",
-   "summary": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
-   "published": "2026-10-17T19:19:16.000Z"
+   "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+   "summary": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
+   "published": "2026-10-17T22:09:50.000Z"
+  },
+  {
+   "region": "World",
+   "source": "BBC News",
+   "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
+   "summary": "The Pope's first event since his lung cancer diagnosis and surgery saw him recite the traditional Angelus prayer from the balcony of the Apostolic Palace.",
+   "published": "2026-10-18T11:09:32.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Indian YouTuber Dhruv Rathee leads anti-BJP protest in London",
-   "summary": "Dhruv Rathee led a ‘Stop vote theft’ protest in London, accusing Modi's government of electoral manipulation.",
-   "published": "2026-10-18T10:18:03.000Z"
+   "title": "Why have France’s school protests become a wider political crisis?",
+   "summary": "The demonstrations have united students and ‘yellow vest’ supporters, exposing deeper anger over living standards.",
+   "published": "2026-10-18T13:48:04.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "South African rugby player Hyron Andrews paid emotional tribute in France",
-   "summary": "Andrews died in France on Friday while on tour with the Johannesburg Lions during the Champions Cup rugby tournament.",
-   "published": "2026-10-18T10:02:59.000Z"
+   "title": "Sudan army accused of drone strike on livestock market",
+   "summary": "Sudan’s army says it struck RSF command centres in South Darfur, but the RSF says a crowded livestock market was hit.",
+   "published": "2026-10-18T13:37:03.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Rubio says Ukraine without access to Starshield, future ‘under discussion’",
-   "summary": "Top US diplomat says Ukraine has requested access to military-grade version of Starlink for strikes deep inside Russia.",
-   "published": "2026-10-18T09:42:40.000Z"
+   "title": "Was ancient India the world’s forgotten superpower?",
+   "summary": "In Deja Vu’s latest episode, William Dalrymple explores ancient India’s global influence – and how it was overlooked.",
+   "published": "2026-10-18T13:17:31.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Food or medicine? The impossible choices facing Sudan’s chronically ill",
-   "summary": "Sudanese are facing growing costs of medicine caused by the country's civil war.",
-   "published": "2026-10-18T09:22:44.000Z"
+   "title": "Gaza families fear food shortages as Israel halts commercial shipments",
+   "summary": "Residents report rising prices as the latest restrictions bite, leaving families unable to afford extra supplies.",
+   "published": "2026-10-18T13:16:13.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Fighting intensifies across Yemen as humanitarian crisis deepens",
-   "summary": "Clashes between Yemeni forces and Houthis cause casualties on both sides as aid agencies warn of humanitarian crisis.",
-   "published": "2026-10-18T09:16:54.000Z"
+   "title": "Paris left reeling as student-led protests turn chaotic",
+   "summary": "Some 1,800 people arrested and hundreds injured during nationwide demonstrations attended by hundreds of thousands.",
+   "published": "2026-10-18T13:08:06.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "LIVE: Leeds United vs Manchester United – Premier League",
-   "summary": "Follow updates, including team news, from our live text commentary stream as Bruno Fernandes, Marcus Rashford headline.",
-   "published": "2026-10-18T09:16:06.000Z"
+   "title": "Is FIFA scrapping its peace prize after awarding it to US President Trump?",
+   "summary": "FIFA committee to assess the merits of the award after several members demand its discontinuation.",
+   "published": "2026-10-18T12:49:57.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Haaland’s record scoring spree helps Man City to seventh Premier League win",
-   "summary": "Manchester City continue their 100 percent start despite calls for sanctions after being found guilty of breaking rules.",
-   "published": "2026-10-18T08:56:41.000Z"
+   "title": "Paris residents tell Al Jazeera they’re dismayed by protest damage",
+   "summary": "Paris residents tell Al Jazeera they’re dismayed by the level of damage caused when Saturday’s protests turned violent.",
+   "published": "2026-10-18T12:44:26.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Chelsea’s injury-hit Emi Martinez will return to action ‘in a few weeks’",
-   "summary": "Argentinian goalkeeper stretchered off after a collision during Chelsea's visit to Everton and later undergoes surgery.",
-   "published": "2026-10-18T08:40:49.000Z"
+   "title": "Why have settler pogroms surged during olive harvest season in West Bank?",
+   "summary": "France and Belgium condemn settler attack on diplomats, but critics say EU needs to act beyond words of condemnation.",
+   "published": "2026-10-18T12:35:56.000Z"
   },
   {
    "region": "World",
@@ -305,9 +270,16 @@
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "Plover, not a fighter: protected bird 12th man on Tasmanian cricket ground as staff mow around nest",
-   "summary": "While masked lapwings have a reputation for swooping during nesting season, Windsor Park oval’s resident plover just wants a good innings At Windsor Park in Riverside, just outside Launceston in northern Tasmania, a masked lapwing has claimed prime real estate in the middle of a community sports ground, showing complete indifference to the weekend cricket matches taking place around it. Warming a nest of eggs, the bird has been affectionately dubbed “Faf Swoop Plessis” by locals – a play on form",
-   "published": "2026-10-17T19:00:40.000Z"
+   "title": "Arrests over France protests rise to 1,800, with whole streets in Paris ‘devastated’ – Europe live",
+   "summary": "Interior minister says ‘the Republic will not yield’ to France’s worst protests in years A dispatch here from Sam Jones, our reporter in Madrid, as protests have spread to Italy and Portugal The angry protests that have convulsed Spain and France in recent weeks have spilled over to Italy and Portugal , with rioters clashing with police and setting property on fire in Milan, and a tent encampment springing up in Lisbon over the weekend. Continue reading...",
+   "published": "2026-10-18T13:18:46.000Z"
+  },
+  {
+   "region": "World",
+   "source": "DW",
+   "title": "France: Young voters blase about Glucksmann's Socialists",
+   "summary": "Raphael Glucksmann wants to lead France's Socialists to power without working with the left-populist Jean-Luc Melenchon, who is particularly popular with young voters. How can the center-left candidate win them over?",
+   "published": "2026-10-18T13:31:00.000Z"
   },
   {
    "region": "World",
@@ -325,73 +297,80 @@
   },
   {
    "region": "World",
-   "source": "DW",
-   "title": "Ilhan Omar: The US Democrat targeted by Donald Trump",
-   "summary": "Donald Trump has described her as \"garbage\" and a \"criminal\" who does nothing but \"bitch.\" Congress member Ilhan Omar has long been the target of angry verbal attacks from the US president. But why her?",
-   "published": "2026-10-17T19:17:00.000Z"
+   "source": "France 24",
+   "title": "'Like we had a war': France left reeling after nationwide violent protests",
+   "summary": "France on Sunday is dealing with the aftermath of nationwide protests that damaged around 1,500 businesses and caused losses estimated at hundreds of millions of euros. Police arrested an estimated 1,800 people across the country during Saturday's demonstrations over the cost of living and school conditions.",
+   "published": "2026-10-18T13:50:00.000Z"
   },
   {
    "region": "World",
    "source": "France 24",
-   "title": "France: Protests \"brought the entire population together for a common purpose\"",
-   "summary": "This weekend, in cities across France, some 800,000 protesters, including students, railway workers and members of the Yellow Vest movement, took to the streets in largely peaceful nationwide demonstrations. Sparked by a month of high school student protests over educational inequality and crumbling school facilities, the movement has grown into a broader outcry over the cost of living, public spending and climate inaction, as people across France say they have reached their breaking point.",
-   "published": "2026-10-18T09:05:03.000Z"
+   "title": "The week in pictures: Escalating protests across Europe and the tragic capsize of a migrant boat",
+   "summary": "From student protests and heightened tensions across French demonstrations on October 17, to ongoing anti-government marches in Albania and the tragic sinking of a migrant boat off the coast of Djibouti, FRANCE 24 looks back at some of the most striking images from the past week.",
+   "published": "2026-10-18T13:36:27.000Z"
   },
   {
    "region": "World",
    "source": "France 24",
-   "title": "France: Who took part in Saturday's protests?",
-   "summary": "Weeks of student protests over poor conditions in schools and rising anger over the cost of living fuelled calls for a nationwide demonstration on October 17, bringing together youth activists and supporters of the Yellow Vest movement. The main grievance was the cost of living. The protesters demonstrating against it 'didn't get what they wanted', analyses France 24's Shirli Sitbon.",
-   "published": "2026-10-18T09:03:18.000Z"
+   "title": "'Like we had a war': France counts cost of violent protests",
+   "summary": "France was reeling on Sunday from widespread damage caused by violent protests the day before that saw 1,800 people arrested, a historic town hall torched and widespread looting.",
+   "published": "2026-10-18T13:17:58.000Z"
   },
   {
    "region": "World",
    "source": "France 24",
-   "title": "France: Who was behind the violence at Saturday's protests?",
-   "summary": "Violent clashes, fires, vandalism and looting marred demonstrations across France on Saturday as hundreds of thousands of people marched against the rising cost of living and poor conditions in schools. The French Interior Ministry said about 400 people were arrested nationwide. Our partner TV station France 2 examined who was involved in the violence during Saturday's protests.",
-   "published": "2026-10-18T09:01:22.000Z"
+   "title": "France protests: \"There's a whole range of grievances at play\"",
+   "summary": "Is the anger in France driven more by declining living standards or by the perception that the economic burden is being distributed unfairly? We discuss this with our guest, Joseph Downing, senior lecturer in politics and international relations at Aston University.",
+   "published": "2026-10-18T13:16:08.000Z"
   },
   {
    "region": "World",
    "source": "France 24",
-   "title": "France protests: Did the government make the wrong decisions?",
-   "summary": "Police in Paris said Sunday they had arrested a \"record\" 855 people over protest-related violence in the capital the day before, with the prosecutor's office saying more than 500 were being held in custody. France 24's Shirli Sitbon analyses.",
-   "published": "2026-10-18T09:00:22.000Z"
-  },
-  {
-   "region": "World",
-   "source": "France 24",
-   "title": "Ligue 1: PSG Back on top of Ligue 1 after stunning Strasbourg comeback",
-   "summary": "After trailing Strasbourg for more than 60 minutes, the Parisians called upon their substitutes to turn the game around. Following their spectacular Champions League victory over Manchester City and ahead of their clash with FC Barcelona, PSG are brimming with confidence.",
-   "published": "2026-10-18T08:48:15.000Z"
-  },
-  {
-   "region": "World",
-   "source": "France 24",
-   "title": "🔴 A demonstrator died from 'cardiorespiratory arrest' during Paris protests, police say",
+   "title": "🔴Live: Trump says 'France is burning', blames 'immigration' for nationwide protests",
    "summary": "",
-   "published": "2026-10-18T08:06:22.000Z"
+   "published": "2026-10-18T12:57:24.000Z"
   },
   {
    "region": "World",
    "source": "France 24",
-   "title": "Months-long Indonesia wildfires spew toxic haze across Southeast Asia",
-   "summary": "Parts of southern Southeast Asia have been put under the highest-level haze alert as wildfires that have swept Indonesia for months continue to belch toxic smoke across the region. The seasonal wildfires are worse this year due to the drought conditions caused by a severe \"super-El Nino\" effect.",
-   "published": "2026-10-18T06:30:35.000Z"
+   "title": "Ukrainian drone attack on Saint Petersburg kills one, sets refinery ablaze",
+   "summary": "A large-scale Ukrainian drone attack on Russia's second-largest city Saint Petersburg killed at least one person and hospitalised another five on Sunday. The attack – which also sparked fires at an oil refinery and depot – comes as Kyiv accused Russia of violating Washington's \"energy ceasefire\" dozens of times.",
+   "published": "2026-10-18T12:03:23.000Z"
   },
   {
    "region": "World",
    "source": "France 24",
-   "title": "India's 'cockroach' movement founder released from police custody",
-   "summary": "Indian police released Cockroach Janta Party (CJP) founder Abhijeet Dipke from detention on Saturday after the activist was detained ahead of a rally calling for the resignation of India's chief election commissioner. Two other CJP leaders remain in custody after having been arrested while demonstrating at a protest site that police had ruled off-limits.",
-   "published": "2026-10-18T05:47:00.000Z"
+   "title": "Paris protests: A look at the aftermath",
+   "summary": "Following yesterday's demonstrations in Paris, where violent clashes erupted between police and protesters, our reporter Antonia Kerrigan returns to place de la République.",
+   "published": "2026-10-18T11:51:33.000Z"
+  },
+  {
+   "region": "World",
+   "source": "France 24",
+   "title": "Atlanta’s iconic tavern marks Georgia’s past with an eye on future as midterms approach",
+   "summary": "Since it was established in 1956, Manuel’s Tavern in Atlanta has hosted legendary Democratic leaders while its founder played a key role in the city’s move from a Republican to Democratic stronghold. With the state’s Democratic Senator Jon Ossoff leading the polls in the midterms amid rumours of a future presidential run, the tavern is once more at the heart of the political action.",
+   "published": "2026-10-18T11:15:04.000Z"
+  },
+  {
+   "region": "World",
+   "source": "Africanews",
+   "title": "IMF annual meeting: Developing nations need greater digital connectivity",
+   "summary": "An AI boom is lifting technology-exporting economies. But rising energy costs and climate disasters are pushing many developing nations into debt distress. Greater digital connectivity would allow them to benefit from tech advances.",
+   "published": "2026-10-18T13:30:18.000Z"
+  },
+  {
+   "region": "World",
+   "source": "Africanews",
+   "title": "Cameroon's opposition MRC elects its first female president, Tiriane Noah",
+   "summary": "Cameroon’s main opposition MRC elected a new party president on Saturday, Tiriane Balbine Noah. She replaces Maurice Kamto and becomes the first woman to lead the party.",
+   "published": "2026-10-18T12:53:07.000Z"
   },
   {
    "region": "World",
    "source": "Africanews",
    "title": "Smashed storefronts, burned buildings: France wakes up to aftermath of violent protests",
    "summary": "France woke up Sunday to devastated streets after clashes between police and protesters, mass looting and fires erupted nationwide as marches against rising costs of living degenerated into \"extreme\" violence.",
-   "published": "2026-10-18T09:59:22.000Z"
+   "published": "2026-10-18T13:58:49.000Z"
   },
   {
    "region": "World",
