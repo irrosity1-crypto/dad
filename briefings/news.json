@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-18T23:05:01.056Z",
+ "updatedAt": "2026-10-19T01:13:13.128Z",
  "items": [
   {
    "region": "Ghana",
@@ -193,16 +193,30 @@
   {
    "region": "World",
    "source": "BBC News",
-   "title": "What we know so far about deadly fire at Canadian military base",
-   "summary": "At least four people are confirmed to have died after a huge fire swept through the base.",
-   "published": "2026-10-18T21:37:56.000Z"
+   "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
+   "summary": "A historic town hall in the French city of Limoges has been damaged in an apparent arson attack following a day of nationwide protests",
+   "published": "2026-10-18T22:22:51.000Z"
+  },
+  {
+   "region": "World",
+   "source": "BBC News",
+   "title": "Major fire at Canada military base leaves four dead, dozens injured",
+   "summary": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
+   "published": "2026-10-18T23:06:09.000Z"
   },
   {
    "region": "World",
    "source": "BBC News",
    "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
    "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
-   "published": "2026-10-18T22:10:45.000Z"
+   "published": "2026-10-18T23:20:15.000Z"
+  },
+  {
+   "region": "World",
+   "source": "BBC News",
+   "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+   "summary": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
+   "published": "2026-10-19T00:06:25.000Z"
   },
   {
    "region": "World",
@@ -214,30 +228,51 @@
   {
    "region": "World",
    "source": "BBC News",
+   "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+   "summary": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
+   "published": "2026-10-18T23:28:45.000Z"
+  },
+  {
+   "region": "World",
+   "source": "BBC News",
    "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
    "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
    "published": "2026-10-18T15:46:10.000Z"
   },
   {
    "region": "World",
-   "source": "BBC News",
-   "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
-   "summary": "Presley Gerber's death in September is being investigated as a suspected overdose.",
-   "published": "2026-10-18T19:53:27.000Z"
+   "source": "Al Jazeera",
+   "title": "Kenya confirms eighth Ebola case amid widening regional outbreak",
+   "summary": "Kenyan health authorities say latest patient was likely exposed to the country's first Ebola case.",
+   "published": "2026-10-19T01:07:52.000Z"
   },
   {
    "region": "World",
-   "source": "BBC News",
-   "title": "European diplomats attacked by Israeli settlers in West Bank",
-   "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-   "published": "2026-10-18T12:16:14.000Z"
+   "source": "Al Jazeera",
+   "title": "Kinship and surveillance: The return of Somali piracy",
+   "summary": "Somalia’s piracy crackdown leaves coastal fishermen struggling to survive.",
+   "published": "2026-10-19T00:56:17.000Z"
   },
   {
    "region": "World",
-   "source": "BBC News",
-   "title": "Search for Amelia Earhart's plane resumes after stormy weather",
-   "summary": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days.",
-   "published": "2026-10-18T13:47:07.000Z"
+   "source": "Al Jazeera",
+   "title": "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares",
+   "summary": "Iran's Foreign Minister Abbas Araghchi says Israeli Prime Minister Benjamin Netanyahu seeks more war before elections.",
+   "published": "2026-10-18T23:59:34.000Z"
+  },
+  {
+   "region": "World",
+   "source": "Al Jazeera",
+   "title": "Flight from Israel makes emergency landing in Bulgaria after bomb threat",
+   "summary": "Crew of Austrian Airlines flight OS82 decides to land in Sofia after receiving bomb threat, Bulgarian authorities say.",
+   "published": "2026-10-18T23:58:05.000Z"
+  },
+  {
+   "region": "World",
+   "source": "Al Jazeera",
+   "title": "Protesters disrupt Ben-Gvir event forcing him off stage",
+   "summary": "Israeli protesters disrupted a Tel Aviv university event featuring far-right National Security Minister Itamar Ben-Gvir.",
+   "published": "2026-10-18T23:06:16.000Z"
   },
   {
    "region": "World",
@@ -262,41 +297,6 @@
   },
   {
    "region": "World",
-   "source": "Al Jazeera",
-   "title": "Fire engulfs Albania’s Supreme Court as protests enter fifth day",
-   "summary": "Offices at the Supreme Court in Tirana were set ablaze as anti-government protests continue.",
-   "published": "2026-10-18T20:26:03.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Al Jazeera",
-   "title": "‘Anger and shame’: Macron denounces France’s nationwide rioting, looting",
-   "summary": "President Macron promises to increase security, but stops short of announcing a state of emergency or curfew.",
-   "published": "2026-10-18T20:19:22.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Al Jazeera",
-   "title": "What’s behind Europe’s youth protests?",
-   "summary": "What's behind Europe's youth protests?",
-   "published": "2026-10-18T20:05:07.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Al Jazeera",
-   "title": "India’s crackdown on cockroaches, critics and cameras",
-   "summary": "A government at war with its critics - from young protesters to the media.",
-   "published": "2026-10-18T19:31:45.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Al Jazeera",
-   "title": "How will Europe deal with youth-led protests?",
-   "summary": "Demonstrations are spreading across the continent.",
-   "published": "2026-10-18T19:15:21.000Z"
-  },
-  {
-   "region": "World",
    "source": "The Guardian",
    "title": "Hilarious quips and ‘100,000-volt’ energy: the hypemen (and women) redefining Afrobeats music",
    "summary": "Style of emceeing based on high-octane, ad-libbed vocals has flourished thanks to its unique way of captivating crowds For the 2015 freshmen cohort of the history degree programme at the University of Lagos, their classmate’s first-semester presentation was so captivating that they began calling him Toby Shang, after the 16th-century Chinese dynasty he had focused on. His crowd engagement that day had been harnessed from his high school days as a ginger-man (energiser) in a three-man band and as",
@@ -305,16 +305,30 @@
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "An extraordinary life: descendant welcomes biography of woman ‘gifted’ to Queen Victoria",
-   "summary": "A girl called Àìná was captured by an African king and later taken to England to become Sarah Forbes Bonetta, protege of the imperial monarch When she was seven years old, Bayo Randle’s great-great-grandmother Sarah Forbes Bonetta was presented to Queen Victoria at Windsor Castle as a “diplomatic gift” from an African king. Victoria would go on to pay for Bonetta’s education, approve her marriage to one of west Africa’s wealthiest men, and become godmother to her eldest daughter. Continue readin",
-   "published": "2026-10-18T07:00:53.000Z"
+   "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
+   "summary": "Prime minister Mark Carney describes blaze as ‘one of the worst tragedies for the forces on Canadian soil in peacetime’ Four people have been killed and dozens more seriously injured after a “violent, fast-moving” fire tore through one of Canada’s busiest military training bases in Alberta, the country’s prime minister said on Sunday. Mark Carney called the incident “one of the worst tragedies for the forces on Canadian soil in peacetime”. Continue reading...",
+   "published": "2026-10-18T23:53:13.000Z"
   },
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
-   "summary": "Prime minister Mark Carney describes blaze as ‘one of the worst tragedies for the forces on Canadian soil in peacetime’ Four people have been killed and dozens more seriously injured after a “violent, fast-moving” fire tore through one of Canada’s busiest military training bases in Alberta, Canada’s prime minister said on Sunday. Mark Carney called the incident “one of the worst tragedies for the forces on Canadian soil in peacetime”. Continue reading...",
-   "published": "2026-10-18T22:26:15.000Z"
+   "title": "Kylie Minogue songs already used to train AI as tech firms ‘strong-arm’ Australian government, music body warns",
+   "summary": "Of the dozens of countries approached to water down their laws, Australia appears to be the only one considering it, publishers’ group says Get our new political email , free app or daily news podcast AI has already been trained on the works of Australian artists including Kylie Minogue and Nick Cave without compensation, the peak global body for music rights has claimed, as the Australian government has been warned against giving in to “strong-arming” from tech companies seeking to weaken copyr",
+   "published": "2026-10-19T00:57:46.000Z"
+  },
+  {
+   "region": "World",
+   "source": "The Guardian",
+   "title": "Labor promises $30 weekly cap for Victorian public transport amid push for free travel",
+   "summary": "Premier Ben Carroll says two-year limit will be in place on 1 January if re-elected, while Greens say there should be no fares Get our breaking news email , free app or daily news podcast Public transport fares in Victoria will be capped at $30 a week if the Labor government is re-elected next month – but commuters will need to dust off their Myki cards to benefit. The premier, Ben Carroll, on Monday said the fare cap would begin on 1 January, the day after half-price fares end. The discounted f",
+   "published": "2026-10-19T00:48:51.000Z"
+  },
+  {
+   "region": "World",
+   "source": "The Guardian",
+   "title": "Jacqui Lambie condemns One Nation cartoon mocking her struggle with vaginal prolapse",
+   "summary": "Independent senator Monique Ryan throws her support behind fellow crossbencher after Pauline Hanson’s Please Explain episode Get our breaking news email , free app or daily news podcast Jacqui Lambie has criticised a One Nation cartoon mocking the Tasmanian senator’s health struggle with vaginal prolapse. The latest cartoon, part of Pauline Hanson’s Please Explain series, took aim at the Albanese government’s Digital Duty of Care legislation, which targets online safety. Continue reading...",
+   "published": "2026-10-18T23:01:22.000Z"
   },
   {
    "region": "World",
@@ -333,23 +347,9 @@
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "‘Many family stories’: Tim Winton’s Cloudstreet takes out ABC radio poll of top 100 Australian books",
-   "summary": "Markus Zusak’s novel The Book Thief secures second place, while Trent Dalton’s Boy Swallows Universe rounds out podium dominated by men Cloudstreet, Tim Winton’s sprawling Australian family epic, has been voted Australia’s favourite book in a poll run by ABC Radio National. The broadcaster announced over the weekend the results of a nationwide poll to determine a list of readers’ top 100 Australian books. Continue reading...",
-   "published": "2026-10-18T07:15:53.000Z"
-  },
-  {
-   "region": "World",
-   "source": "The Guardian",
-   "title": "Macron criticises ‘unbridled violence’ after days of unrest and 2,400 arrests across France",
-   "summary": "Ministers, officials and police under pressure over response to protests as government holds crisis talks amid ‘colossal failure of the state’ The French president, Emmanuel Macron, has criticised “unbridled violence” after one of the most violent days of unrest in years left public buildings burned, hundreds of shops destroyed and looted and at least 2,400 people arrested in cities across the country . “Watching these images, we have all asked ourselves how could French people do this to France",
-   "published": "2026-10-18T18:57:48.000Z"
-  },
-  {
-   "region": "World",
-   "source": "The Guardian",
-   "title": "Shabana Mahmood to hold talks with EU over law enforcement cooperation",
-   "summary": "UK home secretary’s meeting comes after PM said he wanted to rejoin European law enforcement databases The UK home secretary, Shabana Mahmood, will meet the EU’s home affairs commissioner on Monday for further talks just days after Andy Burnham said he wanted to rejoin European law enforcement databases from which the UK has been locked out of since Brexit. According to the European Commission, they will discuss “migration, border management, law enforcement cooperation and counter-terrorism”, w",
-   "published": "2026-10-18T18:13:11.000Z"
+   "title": "Electricity costs put UK steelmakers in worst position in three years against EU rivals",
+   "summary": "Premium paid over French counterparts has risen to almost £30 a megawatt hour, analysis by lobby group finds British steelmakers have been pushed further behind European rivals on electricity costs after the US-Israeli war on Iran caused a surge in global gas prices. The premium paid by the British industry over its French counterpart has risen to almost £30 a megawatt hour (MWh), its highest level in three years, according to analysis by the lobby group UK Steel. Continue reading...",
+   "published": "2026-10-18T23:01:12.000Z"
   },
   {
    "region": "World",
@@ -364,13 +364,6 @@
    "title": "How reliant is Ukraine on the US-controlled Starlink internet service?",
    "summary": "Kyiv keeps issuing warnings that the satellite internet system Starlink is being restricted in Ukraine. How dependent is the country on the system, and what would happen if it went down?",
    "published": "2026-10-18T08:58:00.000Z"
-  },
-  {
-   "region": "World",
-   "source": "DW",
-   "title": "Populist Czech PM Babis goes empty-handed in Senate elections",
-   "summary": "Opposition parties still control the Czech Senate, in a major blow to Prime Minister Andrej Babis' and his governing coalition.",
-   "published": "2026-10-18T07:03:00.000Z"
   },
   {
    "region": "World",
