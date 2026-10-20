@@ -1,6 +1,13 @@
 {
- "updatedAt": "2026-10-20T11:27:42.076Z",
+ "updatedAt": "2026-10-20T16:55:33.516Z",
  "items": [
+  {
+   "region": "Ghana",
+   "source": "MyJoyOnline",
+   "title": "Obuasi SHTS headmaster resigns as NDC constituency secretary, withdraws from chairmanship race",
+   "summary": "The headmaster of Obuasi Senior High Technical School (SHTS), Zakaria Abdulai, has resigned as Juaben Constituency Secretary of the National Democratic Congress (NDC) and withdrawn his candidature for the constituency chairmanship, amid allegations of sexual abuse involving female students at the school.",
+   "published": "2026-10-20T12:47:08.000Z"
+  },
   {
    "region": "Ghana",
    "source": "MyJoyOnline",
@@ -31,10 +38,17 @@
   },
   {
    "region": "Ghana",
-   "source": "MyJoyOnline",
-   "title": "Obuasi SHTS: NDC reverses withdrawal directive, allows embattled chairman aspirant to contest",
-   "summary": "The National Democratic Congress (NDC) has reversed its directive, asking embattled Obuasi Senior High Technical School headmaster Zakaria Abdulai to withdraw from the constituency chairmanship race.",
-   "published": "2026-10-19T22:40:00.000Z"
+   "source": "Graphic Online",
+   "title": "NDC asks Obuasi SHTS Headmaster to step aside from Juaben Chairmanship race",
+   "summary": "The National Democratic Congress (NDC) has directed the headmaster of Obuasi Senior High Technical School (SHTS), Zakaria Abdulai, to step aside from the Juaben Constituency chairmanship race pending an investigation by the Criminal Investigations Department of the Ghana Police Service. The directive was issued in a press release signed by the party's General Secretary, Fifi Fiavi Kwetey, on Tuesday, October 20, 2026. \"After further consideration, FEC has directed that Mr Zakaria Abdulai step as",
+   "published": "2026-10-20T12:29:50.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "Graphic Online",
+   "title": "Normeshie picks forms to contest NDC NEC position",
+   "summary": "A National Executive Committee member aspirant of the governing National Democratic Congress (NDC), Mr Nicholas Normeshie, has pledged to strengthen the party's grassroots structures, deepen member participation and promote skills development among the youth and women to improve its electoral fortunes. He made the pledge when he picked nomination forms to contest for one of the five National Executive Committee positions in the party's upcoming national executive elections. Mr Normeshie, a priva",
+   "published": "2026-10-20T11:33:06.000Z"
   },
   {
    "region": "Ghana",
@@ -59,129 +73,206 @@
   },
   {
    "region": "Ghana",
-   "source": "3News",
-   "title": "Assess Mahama based on his promises, not on NPP’s failings – Brako-Powers",
-   "summary": "He believes that the Mahama administration must demonstrate how its policies are addressing the concerns that influenced voters",
-   "published": "2026-10-20T11:20:08.000Z"
+   "source": "Starr FM",
+   "title": "Obuasi SHTS headmaster Zakaria Abdulai resigns as NDC Juaben Secretary, vows to clear his name",
+   "summary": "Zakaria Abdulai has resigned as NDC Juaben Constituency Secretary and withdrawn from the chairmanship race amid sexual misconduct allegations under police investigation.",
+   "published": "2026-10-20T15:22:26.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "Starr FM",
+   "title": "AMPF–MiM 2026: GH¢200m earmarked for NAIMOS, Blue Water Guards in 2027 Budget – Mahama",
+   "summary": "President Mahama announces funding to strengthen illegal mining operations and protect Ghana’s water bodies.",
+   "published": "2026-10-20T13:29:24.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "Starr FM",
+   "title": "NDC reverses position, orders Obuasi SHTS headmaster to step aside from Juaben chairmanship race",
+   "summary": "The party says the decision will allow an unhindered police investigation while upholding the headmaster’s right to the presumption of innocence.",
+   "published": "2026-10-20T12:33:06.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "Starr FM",
+   "title": "Kojo Danquah declares intent to contest NDC Deputy National Communications Officer position",
+   "summary": "Kojo Danquah has declared his intention to contest for Deputy National Communications Officer, pledging to strengthen the party’s communication machinery.",
+   "published": "2026-10-20T11:09:00.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "Starr FM",
+   "title": "Dorcas Affo-Toffey donates over 30 motorcycles to NDC coordinators in Jomoro",
+   "summary": "Jomoro MP Dorcas Affo-Toffey has donated over 30 motorcycles to NDC coordinators to improve grassroots mobilisation ahead of Ghana’s 2028 elections.",
+   "published": "2026-10-20T10:50:00.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "Starr FM",
+   "title": "Afenyo-Markin withdraws GH¢2m defamation suit against NEIP boss Eric Adjei after consensus",
+   "summary": "Minority Leader Alexander Afenyo-Markin has withdrawn his GH¢2 million defamation suit against NEIP CEO Eric Adjei after both parties reached a consensus.",
+   "published": "2026-10-20T10:35:58.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "Starr FM",
+   "title": "South Africa evacuation: Tamekloe warns against attempts to incriminate government over spending",
+   "summary": "Raymond Tamekloe has warned against attempts to implicate the government in wrongdoing amid questions over GH¢49.72 million spent evacuating Ghanaians from South Africa.",
+   "published": "2026-10-20T09:45:33.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "Starr FM",
+   "title": "NPP more incompetent in opposition than in government – Raymond Tamekloe",
+   "summary": "Government Spokesperson Raymond Tamekloe criticises the NPP, accusing the opposition of failing to provide evidence of wrongdoing by the Mahama administration.",
+   "published": "2026-10-20T09:00:16.000Z"
   },
   {
    "region": "Ghana",
    "source": "3News",
-   "title": "Ghanaians will judge Mahama on the number of jobs created – Brako-Powers",
-   "summary": "According to him, the government must ensure that improvements in the country’s economic indicators translate into tangible opportunities for young people",
-   "published": "2026-10-20T11:16:12.000Z"
+   "title": "Government owes Ghana Water Company GHC459m - Management tells Works and Housing Minister",
+   "summary": "Management of the Ghana Water Company Limited (GWCL) has said the government owes the company GH¢459 million as of September 2026, warning that the outstanding debt is putting significant pressure on its finances and operations.",
+   "published": "2026-10-20T16:51:45.000Z"
   },
   {
    "region": "Ghana",
    "source": "3News",
-   "title": "'Accra Sports Stadium has engineering problems, but we cannot demolish it' – Prof. Sarpong",
-   "summary": "The acting Director General of the National Sports Authority (NSA), Prof. Emmanuel Osei Sarpong, says engineering defects are behind the challenges facing the Accra Sports Stadium, with the authority assessing whether to renovate the facility or build a new one.",
-   "published": "2026-10-20T11:09:56.000Z"
+   "title": "Vanderpuye warns Kotoko and Hearts could go five more years without GPL title",
+   "summary": "Former Sports Minister and NDC National Chairman hopeful Nii Lantey Vanderpuye has warned that Asante Kotoko and Hearts of Oak could struggle to win the Ghana Premier League over the next five years if major reforms are not introduced into the country's football system.",
+   "published": "2026-10-20T16:17:29.000Z"
   },
   {
    "region": "Ghana",
    "source": "3News",
-   "title": "Sack the High Commissioner to South Africa immediately - Koku Anyidoho",
-   "summary": "His call comes at a time when the Mission says it takes responsibility for the minor clerical errors which affected only 15 individuals out of the 1,964 Ghanaians evacuated from South Africa.",
-   "published": "2026-10-20T09:15:50.000Z"
+   "title": "‘Forget 2030 World Cup and 2027 AFCON’ – Nii Lantey Vanderpuye calls for eight-year Black Stars rebuild",
+   "summary": "Former Sports Minister Nii Lantey Vanderpuye has called on Ghana to prioritise long-term rebuilding of the Black Stars over immediate ambitions at the 2027 Africa Cup of Nations (AFCON) and the 2030 FIFA World Cup.",
+   "published": "2026-10-20T16:14:34.000Z"
   },
   {
    "region": "Ghana",
    "source": "3News",
-   "title": "Ghana High Commission clarifies SA evacuation data",
-   "summary": "The Mission says it takes responsibility for the minor clerical errors which affected only 15 individuals out of the 1,964 Ghanaians evacuated from South Africa.",
-   "published": "2026-10-20T09:08:19.000Z"
+   "title": "5.4 tonnes of 5.7 tonnes of ASM gold purchased in October refined locally – GoldBod CEO",
+   "summary": "The Ghana Gold Board (GoldBod) says it has refined 5.4 tonnes of artisanal and small-scale mining (ASM) gold locally so far in October 2026, representing 94.6% of the 5.7 tonnes purchased during the month.",
+   "published": "2026-10-20T16:05:04.000Z"
   },
   {
    "region": "Ghana",
    "source": "3News",
-   "title": "Former Berekum Chelsea midfielder Bediako moves to Atletico",
-   "summary": "Former Berekum Chelsea midfielder William Bediako has joined Spanish club Atletico Madrid on loan, with the La Liga side holding an option to make the move permanent.",
-   "published": "2026-10-20T09:05:26.000Z"
+   "title": "GES protecting schools' reputation over children - Child Rights International",
+   "summary": "Child Rights International accuses the GES of prioritizing school reputation over student safety, calling for a complete overhaul of safeguarding policies.",
+   "published": "2026-10-20T15:47:52.000Z"
   },
   {
    "region": "Ghana",
    "source": "3News",
-   "title": "Kudus provides second league assist as Tottenham beat Coventry",
-   "summary": "Ghana international Mohammed Kudus provided an assist as Tottenham Hotspur claimed a 3-1 victory over Coventry City in the English Premier League, although concerns emerged after the forward limped off with a suspected injury late in the match.",
-   "published": "2026-10-20T08:54:11.000Z"
+   "title": "GoldBod CEO calls for coordinated continental compact on Africa’s mineral sovereignty and governance",
+   "summary": "Chief Executive Officer of Ghana GoldBoard (GoldBod) Sammy Gyamfi has called on African countries to establish a coordinated continental framework to strengthen mineral sovereignty and governanNEWSe to ensure that more value from the continent’s mineral resources is retained locally.",
+   "published": "2026-10-20T15:29:16.000Z"
   },
   {
    "region": "Ghana",
    "source": "3News",
-   "title": "“I liked his performance” – De Zerbi hails Kudus",
-   "summary": "Tottenham Hotspur manager Roberto De Zerbi has praised Mohammed Kudus following the Ghanaian's contribution to his side's 3-1 victory over Coventry City, which secured their first Premier League win of the season.",
-   "published": "2026-10-20T08:32:46.000Z"
+   "title": "Producer price inflation increases to 4.8% in September 2026",
+   "summary": "Together, mining and manufacturing account for 4.0 of the 4.8 percentage points of producer inflation.",
+   "published": "2026-10-20T15:00:36.000Z"
   },
   {
    "region": "Ghana",
    "source": "3News",
-   "title": "We're building a credible, competitive and investor-friendly energy sector - Jinapor",
-   "summary": "Energy Minister Dr. John Jinapor meets global investors at African Energy Week and witnesses the signing of Phase 2 for Ghana's Petroleum Hub Project.",
-   "published": "2026-10-20T08:12:15.000Z"
+   "title": "ECG announces nationwide meter audit to curb power theft",
+   "summary": "ECG announces a nationwide meter audit to cut commercial losses and curb electricity theft. Customers can verify field staff by dialling *226# or 0302 611 611.",
+   "published": "2026-10-20T14:56:37.000Z"
   },
   {
    "region": "Ghana",
    "source": "3News",
-   "title": "Ghana has achieved significant milestone in becoming the leading energy hub in West Africa - Jinapor",
-   "summary": "He pledged to work closely with the PHDC to fulfil the government’s obligations and ensure the project moves beyond agreements to actual construction.",
-   "published": "2026-10-20T08:03:35.000Z"
+   "title": "'Working as a prison officer is a hell; the average officer is usually depressed' - D-G Ghana Prisons Service",
+   "summary": "The Director-General of the Ghana Prisons Service, Patience Baffoe-Bonnie, has described working conditions in the prisons as psychologically and emotionally challenging, warning that the environment causes depression among officers.",
+   "published": "2026-10-20T14:48:05.000Z"
   },
   {
    "region": "Ghana",
    "source": "3News",
-   "title": "New Economy: Ato Forson calls for ‘clear break’ with old patterns",
-   "summary": "Finance Minister Ato Forson told University of Ghana students and faculty the country must build on stabilisation and make a clear break with old patterns.",
-   "published": "2026-10-20T06:40:16.000Z"
+   "title": "The future of young people is too important for waste — Ato Forson",
+   "summary": "Finance Minister Ato Forson tells University of Ghana students every New Economy project must pass five value-for-money tests on jobs, exports and growth.",
+   "published": "2026-10-20T14:28:11.000Z"
   },
   {
    "region": "Ghana",
    "source": "3News",
-   "title": "Kwasi Sibo donates breathing support machine to Kronum Afracho Polytechnic Hospital",
-   "summary": "Black Stars midfielder Kwasi Sibo has donated a Continuous Positive Airway Pressure (CPAP) machine to the Kronum Afracho Polytechnic Hospital in Kumasi to support the treatment of newborn babies with breathing difficulties.",
-   "published": "2026-10-20T06:37:53.000Z"
+   "title": "GES directs Ashanti, Obuasi Municipal East education directors to step aside over Obuasi SHTS sexual assault probe",
+   "summary": "The Ghana Education Service (GES) has directed the Ashanti Regional Director of Education, Dr William Amankrah Appiah, and the Obuasi East Municipal Director of Education, Kwamena Owusu-Nketiah, to step aside with immediate effect.",
+   "published": "2026-10-20T14:16:17.000Z"
   },
   {
    "region": "Ghana",
    "source": "3News",
-   "title": "Auditors urged to strengthen scrutiny of procurement processes, payroll systems and major public investments",
-   "summary": "He also urged heads of institutions to empower internal auditors, protect their independence and act promptly on audit recommendations rather than allow the same weaknesses to recur",
-   "published": "2026-10-20T06:29:12.000Z"
+   "title": "Atwima Behenease residents appeal for urgent repairs to deteriorating Abɔgyesɛ Bridge",
+   "summary": "Residents of Atwima Behenease, a community in the Atwima Kwanwoma Municipality of the Ashanti Region, have appealed to the government to intervene and rehabilitate the critically damaged Abɔgyesɛ River Bridge.",
+   "published": "2026-10-20T14:06:54.000Z"
   },
   {
    "region": "Ghana",
    "source": "3News",
-   "title": "Stability of Ghana's economy is attracting strong interest from global investors - Mahama",
-   "summary": "President John Mahama announces that Ghana's FDI surged to $2.62B in 2025 while breaking ground for the new 1,238-acre Afienya Industrial Park.",
-   "published": "2026-10-20T06:14:40.000Z"
+   "title": "Ho: Gov’t urged to make menstrual products affordable to address period poverty",
+   "summary": "Health officials and stakeholders in the Volta Region have urged government to make menstrual products affordable.",
+   "published": "2026-10-20T13:40:36.000Z"
   },
   {
    "region": "Ghana",
    "source": "3News",
-   "title": "President Mahama reaffirms his commitment to closing the northern infrastructure deficit",
-   "summary": "“Our fundamental responsibility as a government is to foster a safe, peaceful, and enabling environment—encouraging dialogue at every turn and ensuring that every single community feels protected and valued\"",
-   "published": "2026-10-20T06:08:35.000Z"
+   "title": "Police coordinate search for missing canoe and seven crew members",
+   "summary": "The Western Regional Police Command is leading a search for a fishing canoe, Second Chance, and its seven crew members, who have been missing at sea since the vessel left Sekondi Fishing Harbour more than a week ago.",
+   "published": "2026-10-20T13:23:52.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "NDC clears accused Obuasi SHTS headmaster to contest constituency chairmanship",
+   "summary": "The NDC has cleared embattled Obuasi SHTS headmaster Zakaria Abdulai to contest the Juaben chairmanship race, citing constitutional rights while investigations into sexual abuse allegations continue.",
+   "published": "2026-10-20T12:42:04.000Z"
   },
   {
    "region": "World",
    "source": "BBC News",
-   "title": "Suspect arrested after historic town hall set alight during disorder - French media",
-   "summary": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
-   "published": "2026-10-20T08:58:26.000Z"
+   "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
+   "summary": "The US secretary of state earlier rejected accusations Ukrainians were dying because the US was withholding critical intelligence.",
+   "published": "2026-10-20T16:11:56.000Z"
   },
   {
    "region": "World",
    "source": "BBC News",
-   "title": "Seventh day of violent clashes between Albanian protesters and police",
-   "summary": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.",
-   "published": "2026-10-20T02:45:05.000Z"
+   "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
+   "summary": "France's second city saw some of the worst violence as chaos gripped the country on Saturday.",
+   "published": "2026-10-20T12:08:06.000Z"
   },
   {
    "region": "World",
    "source": "BBC News",
-   "title": "Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure",
-   "summary": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.",
-   "published": "2026-10-20T03:10:39.000Z"
+   "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+   "summary": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.",
+   "published": "2026-10-20T11:25:35.000Z"
+  },
+  {
+   "region": "World",
+   "source": "BBC News",
+   "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+   "summary": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
+   "published": "2026-10-20T16:09:54.000Z"
+  },
+  {
+   "region": "World",
+   "source": "BBC News",
+   "title": "Alberta votes overwhelmingly to remain part of Canada",
+   "summary": "The vote has been hailed by Prime Minister Mark Carney as \"a clear choice\" in favour of national unity.",
+   "published": "2026-10-20T15:45:24.000Z"
+  },
+  {
+   "region": "World",
+   "source": "BBC News",
+   "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
+   "summary": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.",
+   "published": "2026-10-20T11:45:49.000Z"
   },
   {
    "region": "World",
@@ -193,30 +284,30 @@
   {
    "region": "World",
    "source": "BBC News",
-   "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-   "summary": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
-   "published": "2026-10-19T20:49:00.000Z"
+   "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
+   "summary": "Janine Lochrenberg, 65, was out on her daily morning swim with her club when she was attacked, her family tell the BBC.",
+   "published": "2026-10-20T15:58:57.000Z"
   },
   {
    "region": "World",
-   "source": "BBC News",
-   "title": "Mission blasts off for Mars to grab a piece of its moon",
-   "summary": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
-   "published": "2026-10-19T19:45:46.000Z"
+   "source": "BBC News Africa",
+   "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+   "summary": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
+   "published": "2026-10-20T16:09:54.000Z"
   },
   {
    "region": "World",
-   "source": "BBC News",
-   "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
-   "summary": "The two top tennis pros married in 2021 and have one child together.",
-   "published": "2026-10-19T21:02:33.000Z"
+   "source": "BBC News Africa",
+   "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
+   "summary": "Janine Lochrenberg, 65, was out on her daily morning swim with her club when she was attacked, her family tell the BBC.",
+   "published": "2026-10-20T15:58:57.000Z"
   },
   {
    "region": "World",
-   "source": "BBC News",
-   "title": "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
-   "summary": "Abdulrahman Alfozan, who is accused of planting a recording device, has been denied bail.",
-   "published": "2026-10-19T21:12:30.000Z"
+   "source": "BBC News Africa",
+   "title": "Kenya cult leader's children still being starved weeks before trial, son says",
+   "summary": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother.",
+   "published": "2026-10-20T13:23:32.000Z"
   },
   {
    "region": "World",
@@ -235,72 +326,86 @@
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "France’s growing debt woes: How bond markets set countries’ borrowing costs",
-   "summary": "France's rising debt is unnerving investors, but countries such as the US and Japan owe even greater sums.",
-   "published": "2026-10-20T10:53:01.000Z"
+   "title": "Turkiye moves to ratify Mecca defence pact with Pakistan, Saudi Arabia",
+   "summary": "Trilateral deal between Saudi Arabia, Turkiye and Pakistan lays out provisions for joint defence.",
+   "published": "2026-10-20T16:34:20.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "US leaving oil-for-security approach, not Middle East: Envoy Tom Barrack",
-   "summary": "Barrack highlights limits of US interventions, admitting past regime changes in the Middle East were often mistakes.",
-   "published": "2026-10-20T10:36:57.000Z"
+   "title": "Macron lines up more Gulf diesel as France battles soaring fuel prices",
+   "summary": "The UAE and Bahrain deals increase French commitments to 295,000 tonnes a month, just over 10 percent of consumption.",
+   "published": "2026-10-20T16:33:43.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans",
-   "summary": "The prime ministers of Norway and Finland will also attend the discussions in Oslo.",
-   "published": "2026-10-20T10:24:28.000Z"
+   "title": "Is Cyprus becoming Israel’s backyard?",
+   "summary": "Israeli capital, water technology, and real estate are making Cyprus a strategic and economic extension of Israel.",
+   "published": "2026-10-20T16:23:12.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Trump’s approval ratings plummet: what that means for the US midterms",
-   "summary": "Sitting presidents usually see a dip in approval ratings before midterms, but Trump's ratings are at a historic low.",
-   "published": "2026-10-20T10:13:19.000Z"
+   "title": "Qatar says only negotiations can resolve regional tensions",
+   "summary": "Qatar says diplomatic efforts are ongoing to de-escalate regional tensions and reopen the Strait of Hormuz.",
+   "published": "2026-10-20T16:21:01.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Albertans reject referendum on independence from Canada",
-   "summary": "Most voters in the Canadian province of Alberta have rejected a proposal to hold a referendum on independence.",
-   "published": "2026-10-20T09:42:04.000Z"
+   "title": "Ferry catches fire near Indonesian port, all passengers rescued",
+   "summary": "A fire broke out aboard the KMP Batumandi as the ferry approached Merak Port in western Indonesia on Tuesday",
+   "published": "2026-10-20T16:13:16.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "South Korea to pull more embassy staff from Ukraine after POW row",
-   "summary": "Earlier this month, South Korea recalled its ambassador from Kyiv after Zelenskyy disclosed the prisoner transfer.",
-   "published": "2026-10-20T09:26:02.000Z"
+   "title": "Trump official claims record-breaking 300,000 visas were revoked",
+   "summary": "The revocations targeted US visa holders who had allegedly broken the law, a spokesperson said.",
+   "published": "2026-10-20T16:02:47.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Canadian opera singer replaced after he raised Palestinian flag",
-   "summary": "Calgary’s opera house has removed a singer from future performances after he raised a Palestinian flag on stage.",
-   "published": "2026-10-20T09:24:16.000Z"
+   "title": "Lavrov backs Tehran, but does Russia also gain from the US-Iran crisis?",
+   "summary": "Moscow pledges support to its sanctioned ally, but analysts say the war Iran wants to end has filled Russia’s coffers.",
+   "published": "2026-10-20T16:01:01.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "French protests: Is it game over for Macron’s centrists before elections?",
-   "summary": "The protests have further polarised the French and turned the youth into a key, angry, voting bloc.",
-   "published": "2026-10-20T08:46:25.000Z"
-  },
-  {
-   "region": "World",
-   "source": "The Guardian",
-   "title": "US grants deportation reprieve to migrants from Ukraine and Sudan",
-   "summary": "DHS says migrants ‘retain protections’ after temporary protected status was set to expire on Monday Send us your questions about immigration and the midterms More than 100,000 people from Ukraine and Sudan can stay in the United States without immediate risk of deportation, the Department of Homeland Security said, in what amounts to a temporary reprieve after their right to stay in the country was set to expire on Monday. Temporary protected status was set to end on Monday for about 101,000 Ukr",
-   "published": "2026-10-19T22:34:43.000Z"
+   "title": "PSG vs Barcelona LIVE: Champions League",
+   "summary": "Follow updates from the league-stage clash, including the build-up, analysis and live text commentary of the game.",
+   "published": "2026-10-20T16:00:00.000Z"
   },
   {
    "region": "World",
    "source": "The Guardian",
    "title": "Alberta voters reject plan for referendum to leave Canada",
-   "summary": "Result is a victory for prime minister Mark Carney and supporters of Canadian unity Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin a process towards independence, delivering a victory for the prime minister, Mark Carney, and supporters of Canadian unity. With more than 1.5m votes counted, 76% supported remaining in Canada, while close to 24% backed beginning a process toward separation, according to unofficial results from Elections Alberta. Continue reading...",
-   "published": "2026-10-20T09:02:43.000Z"
+   "summary": "Result is a victory for prime minister Mark Carney and supporters of Canadian unity Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of Canadian unity and deepening divisions within the separatist movement. With nearly 1.9m votes counted, roughly 76% people supported remaining in Canada, while 24% backed beginning a process toward separation, according to unofficial results from Elections Alberta",
+   "published": "2026-10-20T16:24:05.000Z"
+  },
+  {
+   "region": "World",
+   "source": "The Guardian",
+   "title": "‘Bad decisions’: Man convicted for taking Peachy the flamingo from Las Vegas hotel",
+   "summary": "Mitchell Fairbarn found guilty of animal cruelty after prosecutors say he hurt and frightened the 27-year-old bird A Canadian man was convicted of animal cruelty charges on Monday for snatching a flamingo named Peachy from its enclosure at an iconic Las Vegas hotel. Prosecutors said it was a malicious prank while a lawyer for the tourist insisted it was drunken foolishness not meant to harm the bird. Continue reading...",
+   "published": "2026-10-20T16:11:21.000Z"
+  },
+  {
+   "region": "World",
+   "source": "The Guardian",
+   "title": "Flavio Bolsonaro’s ‘corrupto’ stunt sparks viral meme before Brazil election runoff",
+   "summary": "Far-right presidential candidate’s TV debate swipe at rival backfires as people take to social media to parody it To Flávio Bolsonaro and his publicists, it must have seemed an ingenious idea that would expose his rival’s supposed crookedness on the eve of Brazil’s presidential election. But the far-right politician’s decision to attend a primetime television debate against his leftwing opponent, Luiz Inácio Lula da Silva, with the word “corrupto” (corrupt) written on the palm of his hand has ba",
+   "published": "2026-10-20T15:41:44.000Z"
+  },
+  {
+   "region": "World",
+   "source": "The Guardian",
+   "title": "Giving £2 a day to people in the Amazon helps protect rainforest, pilot project finds",
+   "summary": "Researchers say almost 90% of participants in unconditional basic income scheme in Peru adopted environmentally beneficial practices A pioneering project to provide Indigenous people in the Peruvian Amazon with an unconditional basic income has contributed to the protection of the rainforest, according to a study. The analysis from the University of Bath is expected to contribute to a growing debate about the role of direct payments to communities that maintain globally important ecosystems. Con",
+   "published": "2026-10-20T12:00:36.000Z"
   },
   {
    "region": "World",
@@ -332,17 +437,31 @@
   },
   {
    "region": "World",
-   "source": "The Guardian",
-   "title": "A young life ‘dominated by gambling’: Victorian coroner delivers stinging findings on death of 22-year-old",
-   "summary": "Online betting was the ‘direct and paramount’ cause behind Kyle Hudson’s decision to take his own life, inquest finds Get our breaking news email , free app or daily news podcast Kyle Hudson was “a young man brimming with promise”, with a loving and supportive partner, family and friends, and prospects. “It was a near ideal picture – except for the grip that online sports betting had upon him,” the Victorian coroner Paul Lawrie said on Tuesday. Continue reading...",
-   "published": "2026-10-20T06:29:05.000Z"
+   "source": "DW",
+   "title": "Brazil's Lula, Flavio Bolsonaro tied ahead of runoff vote",
+   "summary": "With just under a week to go before the decisive presidential runoff election, polls show left-wing incumbent Luiz Inacio Lula da Silva and his right-wing challenger Flavio Bolsonaro are virtually tied.",
+   "published": "2026-10-20T15:12:00.000Z"
   },
   {
    "region": "World",
-   "source": "The Guardian",
-   "title": "French cities ‘calm overnight’ after targeted curfews, prime minister says – Europe live",
-   "summary": "Sébastien Lecornu suggests more curfews could be introduced to quell unrest after weekend protests Nordic correspondent More than a month after the country went to the polls, Sweden is still without a government. “Then it will be possible to sort out wether there are other alternatives. We want to have a government with S, V, C and MP (the Social Democrats, Left, Centre and Green parties). But the Centre party wants to have one in the middle. In which case it is good to find out whether it is po",
-   "published": "2026-10-20T11:12:41.000Z"
+   "source": "DW",
+   "title": "Who are the women powering India's youth-led protests?",
+   "summary": "Facing online harassment and police detentions, women are taking to the streets of Indian cities in large numbers for the youth-led \"Cockroach\" protests. Amid a large-scale crackdown, they refuse to be seen as victims.",
+   "published": "2026-10-20T15:04:00.000Z"
+  },
+  {
+   "region": "World",
+   "source": "DW",
+   "title": "‘Tinubu Must Go’: Nigeria's northern protests test the limits of political dissent",
+   "summary": "The arrest of several men wearing anti-government T-shirts and the disruption of a political meeting have renewed debate over free expression and protest rights in Nigeria.",
+   "published": "2026-10-20T14:20:00.000Z"
+  },
+  {
+   "region": "World",
+   "source": "DW",
+   "title": "North Korean workers treated as 'slaves' at Russian drone factory, says new report",
+   "summary": "A new report reveals the plight of North Korean workers at a drone factory in Russia. It also raised concerns that Pyongyang could gain hands-on knowledge of advanced weapons systems through the workers it sends there.",
+   "published": "2026-10-20T11:30:00.000Z"
   },
   {
    "region": "World",
@@ -367,122 +486,115 @@
   },
   {
    "region": "World",
-   "source": "DW",
-   "title": "Bulgaria seeks suspects in Germany after Starlink sabotage",
-   "summary": "A Bulgarian court has issued arrest warrants for two young German nationals suspected of setting fire to Starlink antennas. The case is reminiscent of another in Poland, which Warsaw says was orchestrated by Russia.",
-   "published": "2026-10-19T18:45:00.000Z"
+   "source": "France 24",
+   "title": "How French police are harnessing social media to identify looters",
+   "summary": "French police are turning to social media to identify and arrest suspects linked to last weekend’s looting and unrest. Investigators are scrutinising videos posted online alongside footage from thousands of security cameras to track suspects and gather evidence. The crackdown comes as the government vows to hold those responsible for the violence and damage to shops accountable.",
+   "published": "2026-10-20T16:50:49.000Z"
   },
   {
    "region": "World",
    "source": "France 24",
-   "title": "Horror and disbelief after lawmaker attacked in rural Australia",
-   "summary": "A rural Australian town felt a mix of horror and disbelief on Tuesday after a highly respected lawmaker was gravely injured in what looked to be a targeted attack. Former nurse and midwife Helen Haines entered parliament in 2019, earning respect across the political divide for her efforts to stamp out corruption and bolster transparency. The 65-year-old was struck by a two-tonne SUV in Wangaratta on Monday afternoon.",
-   "published": "2026-10-20T10:26:39.000Z"
+   "title": "More than 150 killed in Sudan drone strike on disputed Abyei border region",
+   "summary": "At least 153 people have been killed in a drone strike on a market in the disputed Abyei region, where a fire at a nearby fuel depot continued to burn on Tuesday. Local officials blamed Sudan’s military for Monday’s attack, which also left dozens injured.",
+   "published": "2026-10-20T16:24:47.000Z"
   },
   {
    "region": "World",
    "source": "France 24",
-   "title": "Kenyan cult leader guilty on all charges over 191 starvation deaths",
-   "summary": "A self-proclaimed Kenyan preacher and his associates were on Monday found guilty of murdering 190 children and one adult in an infamous starvation cult. Hundreds of bodies have been discovered since 2023 at the cult base inland from the Kenyan beach resort of Malindi, in what became known as the \"Shakahola Forest Massacre\".",
-   "published": "2026-10-20T10:25:08.000Z"
+   "title": "France: Local curfews imposed after protests",
+   "summary": "French cities that imposed a curfew Monday saw a generally calm night, after October 17 protests devolved into violent riots this past weekend. Despite criticism from citizens, France's government said it is maintaining the measure where necessary on Tuesday night.",
+   "published": "2026-10-20T16:09:44.000Z"
   },
   {
    "region": "World",
    "source": "France 24",
-   "title": "Indonesia continues to battle wildfires, with nearly 2 million hectares burned",
-   "summary": "Fires in Indonesia have burned through more than 1.9 million hectares of land, according to new data, as the country battles its worst wildfire season in a decade. The blazes have sent toxic smoke across much of Southeast Asia, forcing schools to close and fuelling a rise in respiratory illnesses. FRANCE 24's Environment Editor Valerie Dekimpe tells us more.",
-   "published": "2026-10-20T10:23:27.000Z"
+   "title": "France's decades-long ties with Gulf states built on 'economic development, oil, defence agreements'",
+   "summary": "Genie Godula is pleased to welcome François Gouyette, former French ambassador to the UAE and Saudi Arabia. Against a backdrop of violent unrest at home and escalating conflict in the Middle East, French President Emmanuel Macron's Gulf diplomacy underscores the increasingly blurred boundaries between domestic economic security and international strategic commitments. Ambassador Gouyette argues that the visit serves a dual purpose: alleviating France's energy pressures while reaffirming its long",
+   "published": "2026-10-20T15:52:47.000Z"
   },
   {
    "region": "World",
    "source": "France 24",
-   "title": "Sailing from Britanny to Guadeloupe: Route du Rhum village opens ahead of transatlantic race",
-   "summary": "Tuesday marked the opening of the race village in Saint-Malo for the Route du Rhum, with the first boats arriving and more expected in the coming days. A fleet of 115 boats is set to depart on November 1 for Guadeloupe in the Caribbean, as competitors prepare to take on this legendary solo sailing race across the Atlantic.",
-   "published": "2026-10-20T10:23:16.000Z"
+   "title": "US midterm elections: Trump approval rating falls to new low",
+   "summary": "With US President Donald Trump’s approval rating falling to a record low of 31%, Republicans are facing mounting concerns ahead of November’s midterm elections. Republicans are at risk of losing control of the House of Representatives, but how big could the Democrats’ gains be? FRANCE 24’s International Affairs Editor Kethevane Gorjestani explains.",
+   "published": "2026-10-20T15:22:29.000Z"
   },
   {
    "region": "World",
    "source": "France 24",
-   "title": "Zelensky accuses US of again failing to warn Kyiv of impending attacks",
-   "summary": "Russia launched fresh attacks on Ukraine’s energy and civilian infrastructure this Monday. The Ukrainian president said Kyiv had once again received no advance warning of the attacks from partner countries that had previously shared intelligence. He also accused the US of deliberately delaying EU-paid weapons delivery. FRANCE 24's Gulliver Cragg reports from Ukraine.",
-   "published": "2026-10-20T10:16:24.000Z"
+   "title": "From fine wine to no alcohol: The changing world of French sommeliers",
+   "summary": "In this week's edition of France in Focus, our reporters uncork the demanding world of sommellerie. They follow Pascaline Lepeltier's painstaking training as she prepares for the World's Best Sommelier competition. They also explore how the profession is adapting to changing drinking habits, meeting one sommelier who's chosen to go alcohol-free.",
+   "published": "2026-10-20T14:54:22.000Z"
   },
   {
    "region": "World",
    "source": "France 24",
-   "title": "France first night under targeted curfews passes calmly",
-   "summary": "France’s first night under curfew passed without incident, as authorities sought to restore order following a weekend of demonstrations that escalated into riots. The government will impose further curfews where necessary on Tuesday, Prime Minister Sébastien Lecornu said. FRANCE 24 International Affairs Editor Philip Turle tells us more.",
-   "published": "2026-10-20T10:01:39.000Z"
+   "title": "French PM vows 'massive' police deployment for new demonstrations Saturday",
+   "summary": "French Prime Minister Sebastien Lecornu said Tuesday authorities would mobilise a \"massive\" security presence next weekend, with organisers announcing plans for new protests after riots erupted on the sidelines of nationwide demonstrations. \"The deployment for next Saturday will be massive,\" Lecornu said in parliament, acknowledging that the security operation for the protests last weekend had been \"too static and not mobile enough.\" FRANCE 24's Luke Shrago reports from Place de la République in",
+   "published": "2026-10-20T14:54:15.000Z"
   },
   {
    "region": "World",
    "source": "France 24",
-   "title": "French retailers begin filing insurance claims after weekend of looting",
-   "summary": "Shop owners in France are counting the cost of the weekend's riots as the government works on new measures to help them recover from widespread looting. Also in this edition: Germany welcomes new investments from Nvidia into its tech scene, and energy prices continue to climb after new Houthi attacks in Saudi Arabia.",
-   "published": "2026-10-20T09:57:26.000Z"
-  },
-  {
-   "region": "World",
-   "source": "France 24",
-   "title": "France protests: Govt to impose new curfews where 'situation requires it'",
-   "summary": "Following weekend protests and riots across the country, curfews have been imposed by the government in some parts of Paris and several cities in France. In Paris, the night passed without any disturbance as FRANCE 24's Emerald Maxwell reports. French Prime Minister Sébastien Lecornu said that local authorities can decide to extend curfews if necessary.",
-   "published": "2026-10-20T09:49:26.000Z"
+   "title": "October 17 riots in France: Who's responsible?",
+   "summary": "We take a look at who is responsible for the violence that broke out in France on October 17. We dive into who the casseurs, or lawbreakers, are and how a bill is proposing that they pay for the damage they caused. We also discuss the French government’s mea culpa and the ongoing political blame game, with a budding controversy over whether the vandals were \"ultra-left\" members or not.",
+   "published": "2026-10-20T14:41:07.000Z"
   },
   {
    "region": "World",
    "source": "Africanews",
-   "title": "France: Paris imposes overnight curfew after wave of rioting",
-   "summary": "Earlier on Monday, Prime Minister Sébastien Lecornu called for curfews that would be “very limited” and “localized”, signalling a targeted approach to restoring order.",
-   "published": "2026-10-20T10:51:36.000Z"
+   "title": "Orchestra Baobab keeps Senegal’s musical legacy alive",
+   "summary": "More than 50 years after it formed, Senegalese band Orchestra Baobab is still getting audiences dancing and is now counting on a new generation of musicians to carry on its legacy. The Afro-Cuban and west African fusion group is about to release \"Made in Senegal,\" its first album in nearly ten years",
+   "published": "2026-10-20T15:26:34.000Z"
   },
   {
    "region": "World",
    "source": "Africanews",
-   "title": "Mozambique's Samora Machel honoured 40 years after his death in a plane crash",
-   "summary": "The late president and freedom fighter died when the plane he was travelling in crashed in the then-apartheid South Africa.",
-   "published": "2026-10-20T10:23:03.000Z"
+   "title": "Woman, 65, killed in shark attack at South African beach",
+   "summary": "A 65-year-old woman has died after being attacked by a shark while swimming at a popular beach in South Africa's Eastern Cape province.",
+   "published": "2026-10-20T14:50:46.000Z"
   },
   {
    "region": "World",
    "source": "Africanews",
-   "title": "DR Congo: $700m in Ebola aid unaccounted for as outbreak spreads",
-   "summary": "Africa's top public health agency and Congolese officials have raised concerns over $700 million in Ebola aid that is unaccounted for and called on aid groups to provide more information about their finances.",
-   "published": "2026-10-20T09:31:34.000Z"
+   "title": "Ethiopia PM warns Eritrea of 'severe consequences' if supports enemies",
+   "summary": "Ethiopia's Prime Minister Abiy Ahmed warned Eritrea on Monday that it faces \"severe consequences\" if it continues to support rebels in his country",
+   "published": "2026-10-20T14:14:22.000Z"
   },
   {
    "region": "World",
    "source": "Africanews",
-   "title": "Senegal debt crisis: Sonko warns G20 plan could backfire",
-   "summary": "Sonko says the country’s problem is one of cash flow and repayment timing, not necessarily the amount of debt owed. He has warned that the process could reach a political deadlock if the government fails to take what he considers a more practical approach.",
-   "published": "2026-10-20T09:07:48.000Z"
+   "title": "South Africa's former deputy police chief facing sexual offenses denied bail",
+   "summary": "Shadrack Sibiya faces multiple charges, including the alleged rape of an 18-year-old, human trafficking, and sexually grooming a 16-year-old.",
+   "published": "2026-10-20T13:45:43.000Z"
   },
   {
    "region": "World",
    "source": "Africanews",
-   "title": "Haitian gangs target foreign troops in biggest attack on new force",
-   "summary": "Four soldiers from El Salvador have been missing since Sunday when they were seen fleeing their burning armoured vehicle near Port-au-Prince.",
-   "published": "2026-10-20T08:42:58.000Z"
+   "title": "Egypt road crash leaves 13 dead and 34 injured after a bus collides with a truck",
+   "summary": "State media says a large truck collided with a tour bus on the Cairo-Asyut Western Desert Road, west of Cairo.",
+   "published": "2026-10-20T13:34:50.000Z"
   },
   {
    "region": "World",
    "source": "Africanews",
-   "title": "US raises Kenya travel advisory over Ebola and security concerns",
-   "summary": "US raises Kenya travel advisory over Ebola and security concerns",
-   "published": "2026-10-20T08:34:41.000Z"
+   "title": "Egypt parliament delays debate on possible Saudi military support",
+   "summary": "Egypt's parliament on Monday delayed a debate on President Abdel Fattah al-Sisi's request to authorise military support for Saudi Arabia until next week, state media reported, after an emergency session ended without a decision a day earlier.",
+   "published": "2026-10-20T13:16:14.000Z"
   },
   {
    "region": "World",
    "source": "Africanews",
-   "title": "Rwandan Kagame critic Robert Kabera found beheaded in Uganda",
-   "summary": "A former Rwandan soldier who became a prominent critic of President Paul Kagame has been found beheaded in Uganda, raising fresh concerns about the safety of Rwandan opposition figures living in exile.",
-   "published": "2026-10-20T08:01:58.000Z"
+   "title": "Protesters target Meta office in Brazil over alleged political bias",
+   "summary": "A group protested against tech giant Meta in front of the company’s office in São Paulo on Monday over its alleged interference in Brazil’s elections.",
+   "published": "2026-10-20T12:02:05.000Z"
   },
   {
    "region": "World",
    "source": "Africanews",
-   "title": "Kenya: Relatives welcome guilty verdict in Shakahola starvation cult massacre",
-   "summary": "Kenya’s Director of Public Prosecutions, Renson Ingonga, called the convictions a significant achievement, given the number of charges, accused and witnesses.",
-   "published": "2026-10-20T09:38:05.000Z"
+   "title": "More than 40 civilians killed in Mali attack blamed on Islamic State",
+   "summary": "Community leaders in the north-eastern Menaka region have blamed the killings on the Islamic State Group.",
+   "published": "2026-10-20T12:23:17.000Z"
   }
  ]
 }
