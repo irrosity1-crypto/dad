@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T20:05:55.317Z",
+ "updatedAt": "2026-10-21T23:17:20.983Z",
  "items": [
   {
    "region": "Ghana",
@@ -95,6 +95,27 @@
   {
    "region": "Ghana",
    "source": "3News",
+   "title": "Black Maidens hold Brazil in six-goal thriller to keep World Cup hopes alive",
+   "summary": "Ghana’s Black Maidens came from behind twice to earn a 3-3 draw against Brazil in their second Group C match at the 2026 FIFA U-17 Women’s World Cup, keeping their hopes of reaching the knockout stage alive.",
+   "published": "2026-10-21T20:59:36.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "Work advances on La General Hospital project",
+   "summary": "Three months after 3News’ last visit to the La General Hospital construction site in July, there are visible signs of progress, renewing hope among residents who have waited years for the facility to be completed.",
+   "published": "2026-10-21T20:44:36.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "ECOWAS, AES talks raise prospects of renewed ties",
+   "summary": "The agreement does not signal a decision by the three countries to rejoin the regional bloc but marks a new step towards structured engagement between the two sides.",
+   "published": "2026-10-21T20:18:07.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
    "title": "Ghana, Tanzania deepen mining ties to keep more mineral wealth in Africa",
    "summary": "Ghana and Tanzania are stepping up efforts to strengthen bilateral cooperation in the minerals sector, with both countries calling for a shift from exporting raw materials to building industries that create jobs and deliver lasting benefits to their citizens.",
    "published": "2026-10-21T19:49:05.000Z"
@@ -177,32 +198,18 @@
    "published": "2026-10-21T15:35:56.000Z"
   },
   {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "Asawase MP mourns four schoolchildren killed in Aboabo Extension Junction accident",
-   "summary": "Minister for Interior and Member of Parliament for Asowase, Alhaji Muntaka Mohammed Mubarak, has expressed deep sorrow over an accident at the Aboabo Extension junction that claimed the lives of four learners from Mahad Islamic School at Akotosu.",
-   "published": "2026-10-21T15:21:14.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "Fisheries Ministry, Maritime Authority and Marine Police coordinate search for missing canoe and seven crew",
-   "summary": "The Ministry of Fisheries and Aquaculture has said it is working with the Fisheries Commission, Ghana Navy, Ghana Maritime Authority and Marine Police alongside coastal fishing communities, to locate a missing fishing canoe and its seven crew members.",
-   "published": "2026-10-21T15:15:16.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "Ofankor: 33-year-old man dies after alleged stabbing by girlfriend, 19",
-   "summary": "A 19-year-old girl, Emmanuella Asante has allegedly stabbed her 33-year-old boyfriend, Enoch Abrokwa to death during a misunderstanding at Ofankor Barrier in Accra.",
-   "published": "2026-10-21T15:03:19.000Z"
+   "region": "World",
+   "source": "BBC News",
+   "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+   "summary": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
+   "published": "2026-10-21T21:27:41.000Z"
   },
   {
    "region": "World",
    "source": "BBC News",
-   "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
-   "summary": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.",
-   "published": "2026-10-21T17:42:34.000Z"
+   "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+   "summary": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
+   "published": "2026-10-21T19:58:06.000Z"
   },
   {
    "region": "World",
@@ -214,16 +221,16 @@
   {
    "region": "World",
    "source": "BBC News",
-   "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
-   "summary": "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community.",
-   "published": "2026-10-21T18:10:42.000Z"
+   "title": "Pope does not need further treatment after lung cancer surgery",
+   "summary": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised.",
+   "published": "2026-10-21T20:09:10.000Z"
   },
   {
    "region": "World",
    "source": "BBC News",
-   "title": "Australian MP loses both legs after alleged car attack, husband says",
-   "summary": "Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday.",
-   "published": "2026-10-21T07:56:30.000Z"
+   "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
+   "summary": "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community.",
+   "published": "2026-10-21T18:10:42.000Z"
   },
   {
    "region": "World",
@@ -235,9 +242,9 @@
   {
    "region": "World",
    "source": "BBC News",
-   "title": "Meta fined $25bn for 'lies' over user data privacy",
-   "summary": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
-   "published": "2026-10-21T19:54:16.000Z"
+   "title": "Ex-prosecutor charged with treason in Mexico over US drug raid",
+   "summary": "César Jáuregui Moreno is accused of allowing US agents to join a raid on a suspected drugs lab in April.",
+   "published": "2026-10-21T20:19:51.000Z"
   },
   {
    "region": "World",
@@ -245,13 +252,6 @@
    "title": "Pakistan arrests man wanted by US over $126m postage fraud case",
    "summary": "Faheem Akram allegedly sold more than 5 million fake postage labels for a fixed price of $2 a piece.",
    "published": "2026-10-21T05:46:33.000Z"
-  },
-  {
-   "region": "World",
-   "source": "BBC News",
-   "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
-   "summary": "The wife of a diplomat based in Abuja travelled to Kampala for a vacation.",
-   "published": "2026-10-21T19:29:40.000Z"
   },
   {
    "region": "World",
@@ -277,58 +277,58 @@
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "What happened to Australian politician Helen Haines?",
-   "summary": "Australian Lawmaker Helen Haines has lost both legs after a car rammed into her.",
-   "published": "2026-10-21T19:38:02.000Z"
+   "title": "Canadian publisher cuts ties with best-selling writer Orelien over AI use",
+   "summary": "Publisher Boreal says investigations confirmed the Haitian-Canadian Thelyson Orelien used AI in his breakthrough novel.",
+   "published": "2026-10-21T22:16:50.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Conservative Party suspends ex-candidate filmed in Al Jazeera investigation",
-   "summary": "An undercover investigation by Al Jazeera, launched in 2021, infiltrated Turning Point UK.",
-   "published": "2026-10-21T19:36:54.000Z"
+   "title": "Video shows Israeli settler assaulting Palestinian child",
+   "summary": "An Israeli settler was filmed shouting at and assaulting a Palestinian child during an attack on a family east of Yatta.",
+   "published": "2026-10-21T22:03:54.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "India’s ‘Cockroach’ leaders free after a week in jail",
-   "summary": "Two top leaders of India’s Cockroach Party, Ashutosh Ranka and Saurav Das, have been released after a week in jail.",
-   "published": "2026-10-21T19:17:51.000Z"
+   "title": "Man United captain Fernandes slams Carrick’s tactics after Como hammering",
+   "summary": "Manchester United winless run continues with 4-1 Champions League humbling in Como, and Bruno Fernandes slams tactics.",
+   "published": "2026-10-21T21:50:28.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Tunisia jails opposition politician for four years over social media posts",
-   "summary": "Olfa ⁠Hamdi, a US-Tunisian national, was convicted of 'plotting' and 'inciting' military to disobey orders.",
-   "published": "2026-10-21T19:14:49.000Z"
+   "title": "Tehran displays mock installation of Trump behind bars",
+   "summary": "An Iranian performer in Tehran’s busy Tajrish Square has impersonated US President Donald Trump behind bars.",
+   "published": "2026-10-21T21:43:06.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Russia willing to resume peace talks with Ukraine, US after Witkoff visit",
-   "summary": "Russian President Vladimir Putin has signalled Moscow is willing in principle to resume talks with Ukraine and the US.",
-   "published": "2026-10-21T19:01:05.000Z"
+   "title": "Real Madrid rout RB Leipzig 4-1 to continue perfect Champions League start",
+   "summary": "Kylian Mbappe and Yan Diomande score stunners as Real beat Leipzig to make it three from three in the Champions League.",
+   "published": "2026-10-21T21:36:31.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Steelers and Saints set for historic NFL clash in riot-hit Paris",
-   "summary": "The NFL’s Steelers and Saints will play in Paris on Sunday despite the riots.",
-   "published": "2026-10-21T18:59:37.000Z"
+   "title": "Declan Rice grabs Arsenal draw at Bayern Munich in Champions League",
+   "summary": "Eze gave Arsenal the lead, but Davies levelled and Kane netted a penalty for the hosts before Rice made it 2-2.",
+   "published": "2026-10-21T21:28:34.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Iran determined to keep uranium amid increased war odds, flurry of meetings",
-   "summary": "Tehran had 'nothing new' to tell Washington after latest nuclear proposals reportedly offered by mediators.",
-   "published": "2026-10-21T18:58:29.000Z"
+   "title": "Mexico charges prosecutor with treason over US involvement in drug raid",
+   "summary": "The participation of US agents in an April drug operation has raised questions about whether Mexico's laws were upheld.",
+   "published": "2026-10-21T21:25:21.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Farmers blocked from olive harvest in occ. West Bank, volunteers detained",
-   "summary": "Palestinian farmers are still being blocked from accessing their olive groves by Israeli settlers and the military",
-   "published": "2026-10-21T18:51:07.000Z"
+   "title": "Trump heads to South Carolina to boost Senator Darline Graham in race",
+   "summary": "The race between the sister of late Senator Lindsey Graham and Democrat Annie Andrews has tightened in deep-red state.",
+   "published": "2026-10-21T21:07:43.000Z"
   },
   {
    "region": "World",
@@ -361,30 +361,30 @@
   {
    "region": "World",
    "source": "The Guardian",
+   "title": "Australian politicians say they are paying thousands for their own security upgrades amid rising threats",
+   "summary": "Home and office safety a common concern in Australian federal police and Asio safety briefings with politicians following alleged attack on MP Helen Haines Get our new political email , free app or daily news podcast Security agencies will review safety precautions for MPs’ homes and offices after numerous federal politicians told police and Asio in safety briefings that they were worried about widening threats after the alleged attack on Helen Haines. The Labor government and politicians across",
+   "published": "2026-10-21T23:04:49.000Z"
+  },
+  {
+   "region": "World",
+   "source": "The Guardian",
+   "title": "House prices falling in every Australian capital city for first time in 15 years",
+   "summary": "House prices in Sydney are at a two-year low after falling 4.7% in the September quarter to $1.66m, according to Domain report Get our breaking news email , free app or daily news podcast House prices are falling across every capital city for the first time in 15 years and the second time on record, according to figures from Domain’s September Quarter 2026 House Price report. House prices in Sydney are at a two-year low after falling 4.7% in the September quarter, to $1.66m. Continue reading...",
+   "published": "2026-10-21T21:56:27.000Z"
+  },
+  {
+   "region": "World",
+   "source": "The Guardian",
+   "title": "‘Huge moment’: long-awaited extension to Sydney’s metro line to open next week",
+   "summary": "The south-west metro extension will open on Friday 30 October, more than two years after the former T3 heavy rail line closed Get our breaking news email , free app or daily news podcast A long-awaited extension to Sydney’s metro line will open next week, bringing an end to more than two years of replacement buses for residents in the city’s south-west. In a video shared on Instagram on Thursday morning, the New South Wales premier, Chris Minns, announced that the south-west metro extension woul",
+   "published": "2026-10-21T20:01:54.000Z"
+  },
+  {
+   "region": "World",
+   "source": "The Guardian",
    "title": "NSW passes ‘human compost’ laws with several MPs saying they will utilise practice after they die",
    "summary": "Australia-first laws provide a third legal option other than burial and cremation for the treatment of bodies Get our breaking news email , free app or daily news podcast Several New South Wales MPs say they want their own bodies turned into “human compost” after Australian-first laws were passed allowing the unusual practice. The laws, passed on Wednesday, provide a third legal option other than burial and cremation for the treatment of bodies. Continue reading...",
    "published": "2026-10-21T19:37:00.000Z"
-  },
-  {
-   "region": "World",
-   "source": "The Guardian",
-   "title": "Australian politicians say they are paying thousands for their own security upgrades amid rising threats",
-   "summary": "Home and office safety a common concern in Australian federal police and Asio safety briefings with politicians following alleged attack on MP Helen Haines Get our new political email , free app or daily news podcast Security agencies will review safety precautions for MPs’ homes and offices after numerous federal politicians told police and Asio in safety briefings that they were worried about widening threats after the alleged attack on Helen Haines. The Labor government and politicians across",
-   "published": "2026-10-21T14:00:20.000Z"
-  },
-  {
-   "region": "World",
-   "source": "The Guardian",
-   "title": "Majority of Australians who report penicillin allergy not truly allergic",
-   "summary": "Peak body for immunologists changes guidelines as evidence shows up to 90% of those reporting allergy don’t have one Get our breaking news email , free app or daily news podcast The majority of Australians who report a penicillin allergy are not truly allergic, prompting the peak body for immunologists to change its guidelines in a bid to reduce hospital stays and tackle antimicrobial resistance. Penicillin, one of the most commonly prescribed antibiotics in Australia, was thought to cause aller",
-   "published": "2026-10-21T14:00:20.000Z"
-  },
-  {
-   "region": "World",
-   "source": "The Guardian",
-   "title": "Soft-spoken David Pocock has big ambitions – but first he wants politicians to ‘double down’ on kindness",
-   "summary": "Independent senator’s goals ‘much bigger’ than prime ministership, he reveals in first speech to National Press Club Get our new political email , free app or daily news podcast He’s six foot tall and full of muscle, but David Pocock’s real strength is often sounding like the most sensible, commonsense voice in the room. At his first speech to the National Press Club on Wednesday, he said he wasn’t launching a bid for prime minister – no matter how much some people might like the softly spoken s",
-   "published": "2026-10-21T07:55:23.000Z"
   },
   {
    "region": "World",
@@ -431,6 +431,48 @@
   {
    "region": "World",
    "source": "France 24",
+   "title": "Pope Leo XIV needs no further lung cancer treatment, Vatican says",
+   "summary": "Pope Leo XIV, 71, will require no further treatment for lung cancer after tests confirmed the disease was localised, the Vatican said Wednesday. The pontiff underwent surgery last week to remove part of his right lung after being diagnosed with adenocarcinoma. He was discharged Saturday and will gradually resume activities.",
+   "published": "2026-10-21T21:41:19.000Z"
+  },
+  {
+   "region": "World",
+   "source": "France 24",
+   "title": "In run-up to mass protests and riots, pro-Russian accounts amplified French anger, NGO finds",
+   "summary": "Research carried out by the Alliance4Europe NGO suggests that pro-Russian networks manipulated information online in an effort to exacerbate anger in France ahead of last weekend's massive protests and subsequent unrest. After analysing more than half a million posts across various social media platforms, the group says it was able to track the campaign back to the start of September. FRANCE 24's Sharon Gaffney speaks with Omri Preiss, Managing Director at the Alliance4Europe.",
+   "published": "2026-10-21T21:25:55.000Z"
+  },
+  {
+   "region": "World",
+   "source": "France 24",
+   "title": "In run-up to mass protests and riots, pro-Russian accounts amplified French anger, NGO finds",
+   "summary": "Research carried out by the Alliance4Europe NGO suggests that pro-Russian networks manipulated information online in an effort to exacerbate anger in France ahead of last weekend's massive protests and subsequent unrest. After analysing more than half a million posts across various social media platforms, the group says it was able to track the campaign back to the start of September. FRANCE 24's Sharon Gaffney speaks with Omri Preiss, Managing Director at the Alliance4Europe.",
+   "published": "2026-10-21T21:21:46.000Z"
+  },
+  {
+   "region": "World",
+   "source": "France 24",
+   "title": "Meta fined $25 billion in New Mexico over Cambridge Analytica scandal",
+   "summary": "A New Mexico judge ordered Meta to pay $25 billion after a jury found the company deceived users in a case linked to the Cambridge Analytica scandal, media reported Wednesday. The ruling follows an $18 billion settlement with 48 other states over similar claims. Meta called the penalty “a tax on speech.”",
+   "published": "2026-10-21T21:21:41.000Z"
+  },
+  {
+   "region": "World",
+   "source": "France 24",
+   "title": "French bond yields hit 24-year high after unrest",
+   "summary": "French bond yields have topped 5%, their highest level since 2002, after widespread protests and violence over the weekend. It's a sign that investors are losing confidence in France's finances, as the government grapples with budget and debt problems. Also in the show - chipmaker Nvidia says it's invested $10 billion in European tech firms to boost the 'AI economy,' and the UK approves a controversial natural gas field as PM Andy Burnham faces pressure over energy costs.",
+   "published": "2026-10-21T20:43:53.000Z"
+  },
+  {
+   "region": "World",
+   "source": "France 24",
+   "title": "EU prosecutors search European Parliament offices of far-right group",
+   "summary": "The far-right European Parliament group of French presidential frontrunner Marine Le Pen's party said Wednesday EU prosecutors were searching its offices as part of a graft probe into its now-defunct predecessor. The Patriots for Europe group said the European Public Prosecutor's Office (EPPO) had been searching its administrative offices in Brussels and Strasbourg \"since this morning\". FRANCE 24's Dave Keating reports from Strasbourg.",
+   "published": "2026-10-21T20:21:16.000Z"
+  },
+  {
+   "region": "World",
+   "source": "France 24",
    "title": "Putin agrees to resume three-way talks with Kyiv and Washington",
    "summary": "President ⁠Volodymyr Zelenskiy ​said on Wednesday ​that Ukraine supported a US proposal for ​three-way talks ‌with Russia ⁠and the United ‌States at the level ⁠of negotiators to be held as soon ​as possible, preferably ‌no later than early November. Speaking with FRANCE 24's Mark Owen, Grégoire Roos, Director of the Europe, Russia and Eurasia Programme at Chatham House, says that \"it's not clear whether Putin would meet Trump and Zelensky\", adding that \"meeting Zelensky is the last thing that Pu",
    "published": "2026-10-21T19:32:52.000Z"
@@ -444,52 +486,24 @@
   },
   {
    "region": "World",
-   "source": "France 24",
-   "title": "'Neither the Sudanese military, nor the RSF take any acknowledgement of human life in this war'",
-   "summary": "The death toll from a drone strike Monday on a market in an area disputed between Sudan and South Sudan has risen to 153 and is likely even higher, a local official told AFP on Wednesday. Authorities in Abyei district said the strike on the Amiet market involved the use of multiple munitions and was carried out by the Sudanese army. FRANCE 24's Mark Owen speaks with Jan Pospisil, Sudan Affairs Analyst at the Peace and Conflict Resolution Evidence Platform. He says that for a long time the Sudane",
-   "published": "2026-10-21T19:28:21.000Z"
+   "source": "Africanews",
+   "title": "Yemen: Tanks fire as fighting erupts on the outskirts of Taiz",
+   "summary": "Tanks and gunfire mark renewed clashes on the outskirts of Taiz. Inside the Yemeni city, mounting rubbish and blocked roads are raising concerns about public health.",
+   "published": "2026-10-21T22:01:01.000Z"
   },
   {
    "region": "World",
-   "source": "France 24",
-   "title": "Le Pen sees polls boost amid mass protests, riots",
-   "summary": "Marine Le Pen is set to officially launch her presidential campaign this weekend at the National Rally two-day party congress in Orléans. The latest Ifop poll, carried out in the wake of the mass protests and riots in France, suggests the far right leader would win the first round of the presidential election by a wide margin, and far-left candidate Jean-Luc Melenchon emerged as her most likely opponent in the runoff. FRANCE 24's Emerald Maxwell reports.",
-   "published": "2026-10-21T18:56:02.000Z"
-  },
-  {
-   "region": "World",
-   "source": "France 24",
-   "title": "Trump faces fresh questions over ties to 'humanitarian' Putin",
-   "summary": "US President Donald Trump's pivot away from Ukraine has triggered fresh questions about his attachment to Russian leader Vladimir Putin, the man a top American envoy flattered on Wednesday as a \"humanitarian. Trump has cast his dealings with Putin as part of a mega-deal that has secured the release of American detainee Stephen Hubbard -- and which Trump says will end Russia's war on Ukraine. FRANCE 24's Gulliver Cragg reports from Kharkiv.",
-   "published": "2026-10-21T18:53:28.000Z"
-  },
-  {
-   "region": "World",
-   "source": "France 24",
-   "title": "Canadian publisher drops author Orelien after confirming he used AI in debut novel",
-   "summary": "The Canadian publisher representing Thélyson Orélien on Wednesday said it had dropped the prize-nominated writer over new information indicating that he did use artificial intelligence to write his acclaimed debut.",
-   "published": "2026-10-21T17:32:54.000Z"
-  },
-  {
-   "region": "World",
-   "source": "France 24",
-   "title": "Macron visits Riyadh to show solidarity amid Houthi attacks, ease tensions at home via fuel deal",
-   "summary": "French President Emmanuel Macron on Wednesday paid an unannounced visit to Riyadh in a bid to underscore French support for the kingdom amid intensified attacks by Houthi rebels and an attempt to ease tensions at home by securing oil and diesel imports.",
-   "published": "2026-10-21T17:09:37.000Z"
-  },
-  {
-   "region": "World",
-   "source": "France 24",
-   "title": "Greece: Protesters draw inspiration from demonstrations in France",
-   "summary": "Inspired by protests in France and other parts of Europe, thousands of Greek students on Wednesday demonstrated around the country.",
-   "published": "2026-10-21T16:31:49.000Z"
+   "source": "Africanews",
+   "title": "Greece: Thousands flood Athens streets in education protest",
+   "summary": "Thousands of protesters marched through Athens on Wednesday 21 October, demanding greater investment in education. Crowds filled the streets of the capital, waving banners, chanting slogans and beating drums as they made their way past the Greek parliament.",
+   "published": "2026-10-21T21:02:08.000Z"
   },
   {
    "region": "World",
    "source": "Africanews",
    "title": "Tshuma court proceedings delayed pending mental health evaluation",
    "summary": "A mental health evaluation has delayed two court appearances for Ndodana Mkhanyisi Tshuma, wanted by British police over the killings of his wife and two daughters.",
-   "published": "2026-10-21T19:45:55.000Z"
+   "published": "2026-10-21T19:59:12.000Z"
   },
   {
    "region": "World",
@@ -525,20 +539,6 @@
    "title": "Yemen: 75 new recruits killed in Houthi missile strike laid to rest",
    "summary": "A mass funeral was held Wednesday for 75 new recruits killed earlier this week in a Houthi missile strike in southern Yemen that was the deadliest attack since the resurgence of fighting in the Yemen civil war over the summer.",
    "published": "2026-10-21T15:28:01.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Africanews",
-   "title": "French tourism sector concerned about impact as more protests planned",
-   "summary": "Images of the riots, which began as peaceful student protests before getting out of control, were posted and broadcast around the world.",
-   "published": "2026-10-21T15:09:10.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Africanews",
-   "title": "Pix of the Day, 21st October, 2026 - Across the world",
-   "summary": "Pix of the Day, 21st October, 2026 - Across the world",
-   "published": "2026-10-21T14:43:20.000Z"
   }
  ]
 }
