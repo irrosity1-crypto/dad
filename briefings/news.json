@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-23T19:08:29.499Z",
+ "updatedAt": "2026-10-23T23:05:46.864Z",
  "items": [
   {
    "region": "Ghana",
@@ -74,7 +74,28 @@
   {
    "region": "Ghana",
    "source": "3News",
-   "title": "Martin Karikari fires Hearts of Oak past Basake Holy Stars to go top with third straight win",
+   "title": "Dr. George Preprah: Why CPR training in corporate institutions could save lives",
+   "summary": "The sudden demise of veteran actor Kwame Dzokoto has renewed conversations about emergency preparedness and the importance of equipping corporate institutions with the skills to respond to life-threatening medical emergencies",
+   "published": "2026-10-23T21:16:35.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "GoldCoast GRC: Offshore reconnaissance not commercial mining",
+   "summary": "GoldCoast GRC Ghana Limited has stated that its proposed non-invasive scientific reconnaissance activities should not be confused with commercial offshore gold mining, which would require separate regulatory approvals.",
+   "published": "2026-10-23T20:24:51.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "National PTA Council commends GES for steps to reopen Obuasi SHTS",
+   "summary": "The National Council of Parents Teachers Association (PTA) of Ghana has expressed appreciation to the Ghana Education Service (GES) for taking steps towards reopening Obuasi Senior High Technical School (SHTS).",
+   "published": "2026-10-23T19:15:36.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "Martin Karikari fires Hearts of Oak past Basake Holy Stars into top spot with third straight win",
    "summary": "Martin Karikari scored a stunning 82nd-minute winner as Hearts of Oak beat Basake Holy Stars 1-0 at the University of Ghana Stadium to move top of the Ghana Premier League after Friday’s Matchday 8 encounter.",
    "published": "2026-10-23T19:07:22.000Z"
   },
@@ -156,39 +177,25 @@
    "published": "2026-10-23T16:39:19.000Z"
   },
   {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "Creatives Connect Afrika returns to Accra for second edition, putting entertainment at the heart of Africa’s Tourism Growth",
-   "summary": "The AfCFTA Tourism, Creatives and Cultural Industries Forum and Festival returns to Accra to explore how music, film, sport, fashion, gaming, wellness and digital content can unlock tourism and trade across Africa",
-   "published": "2026-10-23T16:26:20.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "No family should be crushed by the cost of chronic illness - GMTF Boss",
-   "summary": "The Ghana Medical Trust Fund (GMTF), popularly known as Mahama Cares, is set to extend its regional sensitisation tour to the Northern and Upper East Regions following earlier engagements in the Western, Central, Greater Accra and Volta regions.",
-   "published": "2026-10-23T16:15:33.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "Vincent Kompany reportedly hospitalised after collapsing at Bayern training ground",
-   "summary": "Bayern Munich head coach Vincent Kompany has reportedly been taken to a hospital in Munich after collapsing at the club’s training ground on Friday, October 23, according to German media outlets Bild and Sky.",
-   "published": "2026-10-23T16:09:52.000Z"
-  },
-  {
    "region": "World",
    "source": "BBC News",
    "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
    "summary": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
-   "published": "2026-10-23T18:56:06.000Z"
+   "published": "2026-10-23T19:42:08.000Z"
   },
   {
    "region": "World",
    "source": "BBC News",
    "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
    "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
-   "published": "2026-10-23T18:10:56.000Z"
+   "published": "2026-10-23T19:46:30.000Z"
+  },
+  {
+   "region": "World",
+   "source": "BBC News",
+   "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
+   "summary": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.",
+   "published": "2026-10-23T20:18:13.000Z"
   },
   {
    "region": "World",
@@ -200,16 +207,16 @@
   {
    "region": "World",
    "source": "BBC News",
-   "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+   "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
    "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
-   "published": "2026-10-23T16:59:51.000Z"
+   "published": "2026-10-23T19:30:19.000Z"
   },
   {
    "region": "World",
    "source": "BBC News",
-   "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-   "summary": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\".",
-   "published": "2026-10-23T18:52:17.000Z"
+   "title": "Argentina drops investigation into President Milei over crypto fraud",
+   "summary": "Javier Milei had denied acting fraudulently when a cryptocurrency nosedived after he deleted a social media post about it.",
+   "published": "2026-10-23T20:59:39.000Z"
   },
   {
    "region": "World",
@@ -221,16 +228,9 @@
   {
    "region": "World",
    "source": "BBC News",
-   "title": "Denmark to ban mink farming in government U-turn",
-   "summary": "Once the world's largest producer of mink pelts, the nation's industry has declined in recent years.",
-   "published": "2026-10-23T12:17:45.000Z"
-  },
-  {
-   "region": "World",
-   "source": "BBC News",
-   "title": "PSG v Lyon moved as Paris prepares for more protests",
-   "summary": "Paris St-Germain's Ligue 1 match against Lyon at the Parc des Princes is pushed back 24 hours as the French capital prepares for another weekend of protests.",
-   "published": "2026-10-23T14:18:41.000Z"
+   "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+   "summary": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\".",
+   "published": "2026-10-23T18:52:17.000Z"
   },
   {
    "region": "World",
@@ -263,58 +263,58 @@
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Aston Villa vs Manchester City: Premier League – teams, prediction, lineups",
-   "summary": "Man City are the only team with a perfect Premier League record, but face a Villa side determined to climb the table.",
-   "published": "2026-10-23T18:55:18.000Z"
+   "title": "Kenya announces second Ebola death, says ‘no evidence’ of community spread",
+   "summary": "The Ebola outbreak has now spread to four countries across eastern, central ⁠⁠and western Africa.",
+   "published": "2026-10-23T22:33:48.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Israel locks down occupied West Bank after Hebron shooting",
-   "summary": "Israel has imposed a lockdown across the occupied West Bank after a shooting near Hebron killed two Israeli soldiers.",
-   "published": "2026-10-23T18:38:26.000Z"
+   "title": "Why is Israel increasing its presence in the Balkans?",
+   "summary": "In the Balkans, leaders are deepening ties with Israel through defence, surveillance, and political backing. But why?",
+   "published": "2026-10-23T22:01:52.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Former FBI officials charged in connection with Hunter Biden laptop probe",
-   "summary": "Lawyers for two accused officials say Department of Justice seeking to revive scandal in the run-up to midterm vote.",
-   "published": "2026-10-23T18:22:51.000Z"
+   "title": "Masked gunmen kill seven in attack on church funeral in Jordan",
+   "summary": "At least seven people were killed and 34 wounded after two masked gunmen opened fire at a church in Karak, Jordan.",
+   "published": "2026-10-23T21:27:32.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Trump administration sues to block possible Democratic win in Alaska",
-   "summary": "President Donald Trump took credit for the action amid growing concerns the US government could meddle in midterm races.",
-   "published": "2026-10-23T17:57:54.000Z"
+   "title": "‘Generation Right’: Israeli youth show strong support for the right",
+   "summary": "Some three quarters of Jewish first-time voters identify as right or centre-right, higher than rest of Israeli society.",
+   "published": "2026-10-23T20:52:32.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Many feared trapped after multistorey building collapses in Kenya",
-   "summary": "Officials say building in Nairobi's Eastleigh area had no occupation certificate, but ground floor was in use.",
-   "published": "2026-10-23T17:49:04.000Z"
+   "title": "FCC Democrat warns broadcasters to resist Trump’s media pressure tactics",
+   "summary": "Democrat Anna Gomez warns broadcasters against yielding to the Trump-era FCC's claims of fake polls and news distortions.",
+   "published": "2026-10-23T20:44:14.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Yamal, Mbappe in El Clasico spotlight as 40 cameras dedicated to coverage",
-   "summary": "The coverage includes ultra-high-definition filming, slow-motion replays, and individual player tracking techniques.",
-   "published": "2026-10-23T17:47:20.000Z"
+   "title": "Time ‘running out’ to reach Yemen’s Taiz amid deepening crisis, UN says",
+   "summary": "More than 800,000 people have been cut off from aid since the Houthis encircled Taiz city in early October.",
+   "published": "2026-10-23T20:44:02.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Bayern coach Kompany taken to hospital after collapsing during training",
-   "summary": "The Belgian had been ​nursing a virus in recent days and had ⁠missed some of his team's training sessions.",
-   "published": "2026-10-23T17:44:05.000Z"
+   "title": "Why is the UK at the forefront of AI-driven job cuts?",
+   "summary": "AI-linked job losses in the UK are running at twice the rate of US and Germany.",
+   "published": "2026-10-23T20:43:47.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Jerusalem Daily: Israel to ‘lock down’ occupied West Bank",
-   "summary": "Israeli Prime Minister Benjamin Netanyahu orders a “full lockdown” of the occupied West Bank following a shooting.",
-   "published": "2026-10-23T17:30:51.000Z"
+   "title": "Why is Trump questioning Ilhan Omar’s name?",
+   "summary": "A Justice Department filing listed a different name for her, prompting Trump to call for her resignation.",
+   "published": "2026-10-23T20:37:19.000Z"
   },
   {
    "region": "World",
@@ -322,13 +322,6 @@
    "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
    "summary": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda Health officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became infected, amid fears ​the outbreak could spread further after reaching a fourth African country. The Swiss foreign ministry said on Friday the patient in Nigeria, the Ugandan-born wife of a Swiss diplomat based in Abuja, had not travelled to the Democratic Republi",
    "published": "2026-10-23T13:57:11.000Z"
-  },
-  {
-   "region": "World",
-   "source": "The Guardian",
-   "title": "Brazil’s election and the battle for the Amazon – podcast",
-   "summary": "Our Latin America correspondent, Tom Phillips, heads to Roraima to hear what’s at stake for the rainforest and the communities that live there in the Brazilian presidential runoff on Sunday. Send your comments and questions to tif.questions@theguardian.com For the Amazon and the communities who live there, the stakes in Sunday’s Brazilian presidential election runoff could scarcely be higher. Our Latin America correspondent, Tom Phillips heads to Roraima, the country’s most northern state, to he",
-   "published": "2026-10-23T02:00:56.000Z"
   },
   {
    "region": "World",
@@ -349,28 +342,42 @@
    "source": "The Guardian",
    "title": "Jordon Steele-John’s position remains in limbo as Greens prepare for moment in spotlight",
    "summary": "David Shoebridge’s newly-minted leadership under pressure over handling of misconduct allegations as Senate estimates looms Get our new political email , free app or daily news podcast More than a week after allegations that Greens senator Jordon Steele-John had behaved inappropriately towards women made headlines, his position in the party remains in limbo and its new leader’s handling of the issue in question. David Shoebridge ’s first major challenge at the helm of the federal Greens came ear",
-   "published": "2026-10-23T06:22:10.000Z"
+   "published": "2026-10-23T22:41:46.000Z"
   },
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "Jim Chalmers faces a world of hard choices where the solution to one problem makes the other worse",
-   "summary": "High inflation, low growth and rising unemployment can be added to the federal treasurer’s wall of worries Get our new political email , free app or daily news podcast Jim Chalmers in a speech last week offered the scant encouragement that the economy would be “a bit better” in a year’s time. Fast forward to Friday morning, and the treasurer revealed that his officials were busy downgrading their forecasts ahead of December’s mid-year budget update to show slower growth and higher unemployment. ",
-   "published": "2026-10-23T04:54:47.000Z"
+   "title": "Macron condemns racism after one killed in ‘terrorist’ shooting near Paris",
+   "summary": "Gunman opens fire from car in Trappes and Verrière, killing one and injuring five others, including a 12-year-old girl Emmanuel Macron has condemned racism in French society after a gunman opened fire from a car west of Paris on Friday, killing one person, wounding a 12-year-old girl and injuring four others in what the president called a “racist terrorist attack”. Macron arrived at the scene of the drive-by shooting in Trappes on Friday night, saying he was deeply saddened by what he called the",
+   "published": "2026-10-23T21:44:50.000Z"
   },
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "Nationals leader Matt Canavan eyes move to lower house as pollster warns of One Nation wipeout",
-   "summary": "Michelle Landry announces she will not recontest her Queensland seat of Capricornia at the next election Get our new political email , free app or daily news podcast Matt Canavan could attempt a switch to the House of Representatives after a colleague announced her looming retirement, as a leading pollster said the Nationals leader had a “zero per cent” chance of holding his Senate seat if the One Nation polling surge remains unchanged. Veteran National MP Michelle Landry on Friday announced she",
-   "published": "2026-10-23T03:59:41.000Z"
+   "title": "Melania Trump has helped broker ceasefire in Russian-occupied Ukrainian town, says White House – as it happened",
+   "summary": "Residents in Oleshky have been enduring a worsening humanitarian crisis due to the lack of food, electricity and other resources The French prime minister Sébastien Lecornu has just issued a statement on a shooting in a town west of Paris this morning where one person was killed and four others injured. Police said a gunman had opened fire in Trappes, in the Yvelines, and neighbouring La Verriere. The gunman was later arrested in nearby Coignieres. Continue reading...",
+   "published": "2026-10-23T19:51:21.000Z"
   },
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "Mother sought advice from Alan Jones after broadcaster’s alleged indecent assault of her son, court hears",
-   "summary": "Jones, 85, has pleaded not guilty to 21 charges of indecent assault and sexual touching Listen to the podcast Alan Jones on Trial The mother of the youngest alleged victim of Alan Jones continued to seek advice from the broadcaster after the teenager was allegedly indecently assaulted at Jones’s Fitzroy Falls farm, a Sydney court has heard. The divorced mother told the Downing Centre court she had developed a pattern of not trusting herself and she continued her correspondence with Jones because",
-   "published": "2026-10-23T03:24:01.000Z"
+   "title": "US and Israel are warned against launching fresh strikes on Iran",
+   "summary": "Multinational ‘anti-war bloc’ uses Istanbul summit to call for a diplomatic solution to Middle East crisis Foreign ministers at a summit of eight European and Middle Eastern countries have urged the US and Israel not to renews their attacks on Iran, warning a fresh outbreak of fighting would spread conflict and push oil prices even higher. The development of a new multinational “anti-war bloc” represents a challenge to the increasingly open plans by the US and Israel to relaunch strikes on Iran ",
+   "published": "2026-10-23T17:18:34.000Z"
+  },
+  {
+   "region": "World",
+   "source": "The Guardian",
+   "title": "Opposition deepfake video sparks outrage in Spain ahead of election",
+   "summary": "Video shows AI likenesses of people linked to Pedro Sánchez’s Socialist party appearing to admit to wrongdoing A political ad from Spain’s main opposition party that used a deepfake video of the prime minister’s wife has sparked outrage and set off a wider debate on AI, as the deeply polarised country gears up for general elections next month. Launched this week across the social media channels of the conservative People’s party (PP), the video used artificial intelligence to manipulate the like",
+   "published": "2026-10-23T16:35:48.000Z"
+  },
+  {
+   "region": "World",
+   "source": "DW",
+   "title": "Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like",
+   "summary": "Russia's attacks on the Ukrainian capital are hitting harder and more frequently, making 2026 one of the long war's bloodiest years for Kyiv. DW asked people on the ground what life is like.",
+   "published": "2026-10-23T19:08:00.000Z"
   },
   {
    "region": "World",
@@ -417,6 +424,27 @@
   {
    "region": "World",
    "source": "France 24",
+   "title": "Trump says US may launch ‘another little Epic Fury’ attack on Iran",
+   "summary": "US President Donald Trump on Friday said his country may launch “another little Epic Fury” on Iran, referring to the joint Israeli-American military operation that sparked the war with Iran at the end of February.",
+   "published": "2026-10-23T20:50:51.000Z"
+  },
+  {
+   "region": "World",
+   "source": "France 24",
+   "title": "Building collapse in Nairobi search for survivors under way",
+   "summary": "In tonight's programme, scramble to get through rubble to trapped survivors after a more than 10 storeys building being built in Nairobi goes down. Also, Kenya says that there's been a second Ebola death. Earlier this week it had logged 9 cases so far, all traced back to its first Ebola patient who died earlier this month. And in finally the 11th edition of the iconic contemporary art festival Also known as Africa taking place in Paris, we speak to Cape Verde's artist Amadeo Carvalho.",
+   "published": "2026-10-23T20:31:50.000Z"
+  },
+  {
+   "region": "World",
+   "source": "France 24",
+   "title": "After French Riots, Curfews & Calm .. is a new Storm Brewing ? Plus Ukraine & Israel",
+   "summary": "It's been a week that’s seen mass protests hijacked by violent rioters across France. The looting of shops, trashing of public buildings, the burning of Lyon’s Tourist Information and the iconic Limoges City Hall. After the riots, came the curfews, and the contemplation, who did what and why weren’t they stopped. Seditious groups, ultra left anarchists and opportunist criminals said President Macron, with a qualified mea culpa: failures in anticipation and authorities dropped the ball in intelli",
+   "published": "2026-10-23T18:48:11.000Z"
+  },
+  {
+   "region": "World",
+   "source": "France 24",
    "title": "Netanyahu weighs West Bank operation ahead of elections: ‘Politically, it will not help anybody’",
    "summary": "As Israel approaches a consequential parliamentary election amid renewed violence in the occupied West Bank, Yedioth Ahronoth Senior Journalist Ben-Dror Yemini offers a critical assessment of Benjamin Netanyahu's political prospects, the limits of military escalation and the shifting relationship between national security and electoral legitimacy. Since October 7, 2023 \"Netanyahu is not popular anymore,\" Yemini argues, identifying the Hamas-led attacks as a decisive turning point in the Israeli ",
    "published": "2026-10-23T18:26:35.000Z"
@@ -451,24 +479,24 @@
   },
   {
    "region": "World",
-   "source": "France 24",
-   "title": "🔴 Live: French student groups call for protests to continue after meeting with Macron",
-   "summary": "",
-   "published": "2026-10-23T16:31:44.000Z"
+   "source": "Africanews",
+   "title": "Hungary: 70 years after Soviet crackdown, leaders honour uprising victims",
+   "summary": "Seventy years after Hungary's 1956 uprising against Soviet rule, Prime Minister Péter Magyar paid tribute to its victims as Ursula von der Leyen highlighted the importance of freedom and democracy.",
+   "published": "2026-10-23T22:07:09.000Z"
   },
   {
    "region": "World",
-   "source": "France 24",
-   "title": "West Bank: Extensive military operation 'on the way', Netanyahu says",
-   "summary": "Israeli Prime Minister Benjamin Netanyahu on Friday warned of an imminent large-scale military operation in the West Bank and vowed to displace some residents of Hebron after Palestinian gunmen killed two soldiers in an attack.",
-   "published": "2026-10-23T15:56:28.000Z"
+   "source": "Africanews",
+   "title": "Johannesburg men run in purple briefs to raise prostate cancer awareness",
+   "summary": "A sea of purple briefs takes over Johannesburg. Men hit the streets on Friday for the Hollard Daredevil Run, raising awareness about prostate cancer, now the most commonly diagnosed cancer in South Africa.",
+   "published": "2026-10-23T20:47:12.000Z"
   },
   {
    "region": "World",
-   "source": "France 24",
-   "title": "Yes, Israeli settlers are ripping up West Bank olive trees – but this video is fake",
-   "summary": "Israeli settlers and soldiers have made a habit of destroying olive trees grown by Palestinian farmers in the West Bank and, in recent days, a video showing some trees being ripped up has circulated online. Just one problem: this particular video was generated by artificial intelligence.",
-   "published": "2026-10-23T15:56:19.000Z"
+   "source": "Africanews",
+   "title": "Portugal’s last circus elephant begins a new life at wildlife sanctuary",
+   "summary": "A new beginning for Julie, Portugal’s last circus elephant, as she settles into life at a wildlife sanctuary in Alentejo, southern Portugal.",
+   "published": "2026-10-23T19:52:59.000Z"
   },
   {
    "region": "World",
@@ -504,27 +532,6 @@
    "title": "Kenya: huge piles of rubble after high-rise building collapses",
    "summary": "A multi-storey building under construction has collapsed in Nairobi, leaving a vast pile of rubble. Red Cross workers have arrived at the scene, where excavators are being used among the debris.",
    "published": "2026-10-23T14:15:32.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Africanews",
-   "title": "One person killed in deadly shooting in Paris suburbs",
-   "summary": "One person was killed and four others were seriously wounded when gunshots were fired from a vehicle in a Parisian suburb on Friday, French authorities said.",
-   "published": "2026-10-23T13:48:46.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Africanews",
-   "title": "Pix of the Day, 23rd October, 2026 - Across the world",
-   "summary": "Pix of the Day, 23rd October, 2026 - Across the world",
-   "published": "2026-10-23T13:43:42.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Africanews",
-   "title": "France deploys 70,000 police, shuts Paris museums ahead of protests",
-   "summary": "Some 70,000 law enforcement officers will be deployed across France on Saturday while the Louvre and several other major Paris museums will be closed as authorities seek to prevent renewed violence during planned protests.",
-   "published": "2026-10-23T13:25:51.000Z"
   }
  ]
 }
