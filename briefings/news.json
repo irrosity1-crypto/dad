@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-10-27T21:16:32.005Z",
+ "updatedAt": "2026-10-28T01:16:05.422Z",
  "items": [
+  {
+   "region": "Ghana",
+   "source": "MyJoyOnline",
+   "title": "Money politics is pushing women and youth out – Inusah Fuseini",
+   "summary": "Former NDC MP for Tamale Central, Inusah Fuseini, has warned that the rising cost of politics is shutting women and young people out of public life.",
+   "published": "2026-10-27T23:34:00.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "MyJoyOnline",
+   "title": "Make TESCON NPP’s intellectual powerhouse — Asenso-Boakye",
+   "summary": "The New Patriotic Party’s (NPP) student wing must evolve into a centre for policy thinking and leadership training if it is to make a lasting contribution to the party and Ghana’s development, the founding President of the Tertiary Students Confederacy (TESCON), Francis Asenso-Boakye, has said.",
+   "published": "2026-10-27T23:32:13.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "MyJoyOnline",
+   "title": "NDC constitution lacks mechanism to punish electoral inducement – Inusah Fuseini",
+   "summary": "Former Tamale Central MP, Inusah Fuseini, says the National Democratic Congress (NDC) lacks a clear constitutional mechanism to punish electoral inducement, leaving disciplinary action open to challenge.",
+   "published": "2026-10-27T23:15:00.000Z"
+  },
   {
    "region": "Ghana",
    "source": "MyJoyOnline",
@@ -49,6 +70,13 @@
    "title": "South Africa Evacuation: Full probe necessary to solve financial discrepancies – Vitus Azeem",
    "summary": "Anti-graft campaigner calls for probe into GH¢16.4m gaps in South Africa evacuation spending",
    "published": "2026-10-27T12:56:44.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "Cassava processing facility that will end post-harvest losses in Ahanta West commissioned",
+   "summary": "The plant will process fresh cassava into dough and gari, providing a market for farmers who struggle to find buyers during bumper harvests.",
+   "published": "2026-10-27T21:25:32.000Z"
   },
   {
    "region": "Ghana",
@@ -150,10 +178,10 @@
   },
   {
    "region": "Ghana",
-   "source": "3News",
-   "title": "GMB 2026 winner Nana Konadu presents citation to 3Group management",
-   "summary": "GMB 2026 champion Nana Konadu pays a courtesy call on Media General and 3Group leadership, presenting a citation to honor her platform and supporters.",
-   "published": "2026-10-27T17:54:56.000Z"
+   "source": "The Ghana Report",
+   "title": "John Boadu brought NPP to power in 2016 and he’ll do same in 2028 — Bawumia",
+   "summary": "The flagbearer of the opposition New Patriotic Party (NPP), Dr. Mahamudu Bawumia, has expressed confidence in the party’s leadership, predicting a return to power in the 2028 general elections. He said John Boadu’s tenure as General Secretary helped the NPP win power in 2016 and expressed optimism that he could help the party achieve a […] The post John Boadu brought NPP to power in 2016 and he’ll do same in 2028 — Bawumia appeared first on The Ghana Report .",
+   "published": "2026-10-27T07:17:36.000Z"
   },
   {
    "region": "World",
@@ -167,7 +195,7 @@
    "source": "BBC News",
    "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
    "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
-   "published": "2026-10-27T20:19:53.000Z"
+   "published": "2026-10-27T22:11:08.000Z"
   },
   {
    "region": "World",
@@ -179,7 +207,7 @@
   {
    "region": "World",
    "source": "BBC News",
-   "title": "Dutch zookeeper dies after being mauled in leopard enclosure",
+   "title": "Dutch zookeeper dies after being mauled by leopard",
    "summary": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
    "published": "2026-10-27T19:30:37.000Z"
   },
@@ -193,9 +221,9 @@
   {
    "region": "World",
    "source": "BBC News",
-   "title": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case",
-   "summary": "The three brothers were found guilty of drugging and raping several women over the course of decades.",
-   "published": "2026-10-27T21:12:39.000Z"
+   "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+   "summary": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
+   "published": "2026-10-27T23:41:23.000Z"
   },
   {
    "region": "World",
@@ -270,72 +298,86 @@
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "US says it killed five people in strike on alleged drug boat",
-   "summary": "Latest strike brings death toll of campaign decried as extrajudicial killings to 243 people since September 2025.",
-   "published": "2026-10-27T20:54:38.000Z"
+   "title": "Arab parties could win 18 Israeli parliament seats",
+   "summary": "Record-breaking voter turnout among Palestinian citizens of Israel hits around 80 percent, early indications show.",
+   "published": "2026-10-28T00:43:56.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Netanyahu rallies Likud voters with megaphone in shopping mall",
-   "summary": "Israeli Prime Minister Benjamin Netanyahu has urged voters to back his Likud party minutes before polls close.",
-   "published": "2026-10-27T20:38:17.000Z"
+   "title": "Exit polls trigger heated debate across Israeli political divide",
+   "summary": "Despite narrower exit poll figures, opposition leaders insisted the result was a defeat for the government.",
+   "published": "2026-10-28T00:43:02.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Lebanese and Syrians expect no change in Israeli policy after election",
-   "summary": "Residents in Lebanon and Syria expect little change in Israeli policy after the election.",
-   "published": "2026-10-27T20:34:44.000Z"
+   "title": "Israel’s Eisenkot says country voted for change",
+   "summary": "Israeli opposition leader Gadi Eisenkot says millions of Israelis voted for change, tired of Netanyahu’s ‘lies’.",
+   "published": "2026-10-28T00:30:22.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Exit polls following Israeli elections indicate no clear winner",
-   "summary": "The official results are due to be published on November 4, more than a week after the vote.",
-   "published": "2026-10-27T20:18:18.000Z"
+   "title": "‘This is America’: US envoy scolds Cuban diplomat at UN",
+   "summary": "US envoy Mike Waltz repeatedly told Cuba’s UN team, ‘This is America’, during a heated clash at UN headquarters",
+   "published": "2026-10-28T00:25:08.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Tanzania’s jailed opposition leader Tundu Lissu ends brief hunger strike",
-   "summary": "Lissu, who faces treason charge carrying a possible death sentence, refused food after being denied access to lawyers.",
-   "published": "2026-10-27T20:00:46.000Z"
+   "title": "Gaza’s women filmmakers turn pain into cinema as new academy launches",
+   "summary": "Gaza film festival highlights women's resilience through stories of war, loss and survival.",
+   "published": "2026-10-27T23:35:51.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Qatar’s Emir and Putin call for diplomacy amid US-Iran conflict",
-   "summary": "Russian President Vladimir Putin and Qatar’s Emir, Sheikh Tamim bin Hamad Al Thani, met in Moscow.",
-   "published": "2026-10-27T19:36:01.000Z"
+   "title": "President Lula calls Bolsonaro’s Brazil exit ‘shameful’",
+   "summary": "President Lula da Silva criticised Flavio Bolsonaro for leaving Brazil amid reports he was headed to the US.",
+   "published": "2026-10-27T23:23:42.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Israel election results live: Eisenkot bloc ‘ahead’ of Netanyahu camp",
-   "summary": "High turnout in vote widely described as the most consequential in Israel's history.",
-   "published": "2026-10-27T19:28:12.000Z"
+   "title": "A bad day for Ben-Gvir as he addresses his supporters",
+   "summary": "Itamar Ben Gvir was defiant after polls show his Otzma Yehudit party has lost seats in the Israeli election.",
+   "published": "2026-10-27T23:16:38.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "US’s RFK Jr claims Arabs ‘don’t produce science’: Why he’s very, very wrong",
-   "summary": "US Health Secretary Robert F Kennedy Jr has claimed Arabs have not made contributions to math, science or literature.",
-   "published": "2026-10-27T19:12:35.000Z"
+   "title": "No clear mandate projected in Israel election: What’s next?",
+   "summary": "President Isaac Herzog will task the candidate he deems best placed to form a government once results are in.",
+   "published": "2026-10-27T23:06:47.000Z"
   },
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "Olivia Chow elected as Toronto mayor for second term in victory for progressives",
-   "summary": "Tightly fought election saw record turnout as incumbent mayor ran against her rival Brad Bradford The mayor of Toronto, Olivia Chow, promised more rental housing, free school lunches and reduce fares for frequent transit riders after she was elected to a decisive second term as mayor in a wave of support for progressives councillors. The tightly fought election saw record turnout but Chow ultimately turned in a dominant 13 percentage point win over her rival, Brad Bradford, receiving 54% of the ",
-   "published": "2026-10-27T20:23:46.000Z"
+   "title": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
+   "summary": "Royal tour of Caribbean comes as Commonwealth nations renew calls for Britain to engage in reparation talks King Charles has confirmed he will discuss the legacy of slavery at a summit with Commonwealth leaders as he begins his Caribbean tour. The king arrived in the Bahamas to a ceremonial welcome and attended a youth rally at Clifford Park, the site where the country officially gained its independence from British colonial rule in 1973. Continue reading...",
+   "published": "2026-10-28T00:07:22.000Z"
+  },
+  {
+   "region": "World",
+   "source": "The Guardian",
+   "title": "Trump shows off tanker with ‘1m barrels of oil’ and floats Venezuela as 51st state",
+   "summary": "President at Texas campaign rally hails deal struck with post-Maduro government as ‘greatest oil victory in history’ Donald Trump suggested Venezuela would become the 51st state of the United States on Tuesday as the president showed off a tanker he claimed had “one million barrels of oil on it” from the country, nine months after deposing its president. At a campaign rally in Corpus Christ, Texas, Trump touted a US oil deal with Venezuela, which the US attacked in January, capturing its long-se",
+   "published": "2026-10-27T23:07:06.000Z"
   },
   {
    "region": "World",
    "source": "The Guardian",
    "title": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
-   "summary": "Far-right senator on plane to US after missing deadline to hand over his passport since loss to Lula The far-right senator Flávio Bolsonaro has reportedly fled Brazil and is on his way to the United States after losing Sunday’s presidential election to the leftwing incumbent, Luiz Inácio Lula da Silva. A report by the news website Metrópoles , citing people close to the politician’s family, said he was en route to the US. “The plane is in flight,” Metrópoles reported, without making clear where ",
-   "published": "2026-10-27T18:27:32.000Z"
+   "summary": "Far-right senator en route to US after missing deadline to hand over his passport since loss to Lula The far-right senator Flávio Bolsonaro has reportedly fled Brazil and is on his way to the United States after losing Sunday’s presidential election to the leftwing incumbent, Luiz Inácio Lula da Silva, who called the act “shameful”. A report by the news website Metrópoles , citing people close to the politician’s family, said he was en route to the US. “The plane is in flight,” Metrópoles report",
+   "published": "2026-10-27T22:03:00.000Z"
+  },
+  {
+   "region": "World",
+   "source": "The Guardian",
+   "title": "Olivia Chow elected as Toronto mayor for second term in victory for progressives",
+   "summary": "Tightly fought election saw record turnout as incumbent mayor ran against her rival Brad Bradford The mayor of Toronto, Olivia Chow, promised more rental housing, free school lunches and reduce fares for frequent transit riders after she was elected to a decisive second term as mayor in a wave of support for progressive councillors. The tightly fought election saw record turnout but Chow ultimately turned in a dominant 13-percentage-point win over her rival, Brad Bradford, receiving 54% of the v",
+   "published": "2026-10-27T20:23:46.000Z"
   },
   {
    "region": "World",
@@ -347,37 +389,23 @@
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "‘Will Lula’s win end Latin America’s far right turn?’: Our correspondent in Brazil answered your questions",
-   "summary": "Having lost the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva spectacularly triumphed in the second. The Guardian’s Latin America corrrespondent Tom Phillips answered your questions on what’s next for Brazil. Jeremy Hurley asks: Why did the Brazil stock market tank after the election result, and will it recover? Tom: Basically, because the markets had been convinced that Flávio Bolsonaro was going to win and that after taki",
-   "published": "2026-10-27T16:46:23.000Z"
-  },
-  {
-   "region": "World",
-   "source": "The Guardian",
-   "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
-   "summary": "Lack of profits and the threat posed by western countries are raising concern about the sustainability of Beijing’s AI boom Trillions of dollars have been wiped from China’s stock markets in recent months amid increasing anxiety about the future of artificial intelligence, as Beijing races against the United States for dominance in the sector. The STAR 50 Index, which tracks technology and innovation companies on the Shanghai stock exchange, has plunged 40% since June. Other indexes of major com",
-   "published": "2026-10-27T04:42:50.000Z"
-  },
-  {
-   "region": "World",
-   "source": "The Guardian",
-   "title": "Politics live: Greens propose tax change to save Australians $1,000 a year; eSafety says social media akin to gladiator arena",
+   "title": "Politics live: Hanson calls Chalmers and staff ‘hypocrites’; RBA governor says more pain needed to control inflation",
    "summary": "Get our breaking news email , free app or daily news podcast Online hate is spilling into the real world, AFP warns AFP Commissioner Krissy Barrett began her late-night appearance at the Senate estimates hearing noting “a heaviness that hangs across Australia” after the alleged attack on independent MP Helen Haines . Lone actors are being motivated by a convergence of personal grievances, mental health vulnerabilities and ideological concerns … What helped keep us safe in recent times, such as o",
-   "published": "2026-10-27T21:07:52.000Z"
+   "published": "2026-10-28T00:57:26.000Z"
   },
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "Coalition MP calls for rethink of pre-poll voting amid heightened security concerns in wake of Haines incident",
-   "summary": "Queensland MP Garth Hamilton says he has ‘witnessed three interactions between cars and people at pre-poll, two accidental’ Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news podcast A Coalition MP has called for a rethink of pre-poll voting at federal elections, including potentially shortening the amount of time booths are open, amid concerns of threats to voters and volunteers. Security risks to politicians and their staff have b",
-   "published": "2026-10-27T14:00:36.000Z"
+   "title": "‘I use disposable cups’: Chris Minns backflips on takeaway coffee cups after media and business backlash",
+   "summary": "Legislation requiring mugs to be offered when people drink at cafes, to be scrapped with environment minister stating ‘we need to clear this up’ Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news podcast The New South Wales government has backflipped on its plan to force cafes to offer customers who dine in the option of mugs and glasses instead of takeaway cups. The Chris Minns government will also ditch a law that would have requi",
+   "published": "2026-10-28T00:38:27.000Z"
   },
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "Greens push for human override in aged care assessment after ombudsman’s scathing report into algorithm tool",
-   "summary": "Investigation recommends government changes legislation so staff assessing people for home support packages can correct the outcome Follow our Australian politics live blog for latest updates Get our breaking news email , free app or daily news podcast The Greens leader, David Shoebridge, has used a scathing report from the commonwealth ombudsman to press the government to use the last two sitting weeks of parliament to restore human override to its “unfair” aged care assessment tool. The 104-pa",
-   "published": "2026-10-27T14:00:36.000Z"
+   "title": "Australia’s inflation rate rises to 4.3%, fuelling fears of fifth interest rate hike this year",
+   "summary": "CPI release comes ahead of Reserve Bank decision next week as the Middle East conflict intensifies the cost of living crisis Australia’s headline inflation rate has accelerated to 4.3%, with a key gauge that strips out volatile prices also elevated, sharpening expectations of another interest rate rise next week. The Reserve Bank of Australia’s preferred measure of consumer prices, called underlying inflation, came in at an annual 3.6% to September. Continue reading...",
+   "published": "2026-10-28T00:36:39.000Z"
   },
   {
    "region": "World",
@@ -392,6 +420,34 @@
    "title": "Will elections in Israel change its Iran approach?",
    "summary": "As Israelis head to the polls, the country's conflict with Iran casts a long shadow over the ballot box. But any leadership changes in Israel may not be enough to shake up its grand strategy on Tehran.",
    "published": "2026-10-27T13:31:00.000Z"
+  },
+  {
+   "region": "World",
+   "source": "France 24",
+   "title": "King Charles confronts calls for slavery apology during Caribbean tour",
+   "summary": "King Charles III began a Caribbean tour in the Bahamas on Tuesday, acknowledging “the great suffering of the past” amid calls for an apology over slavery. The 77-year-old monarch, undergoing cancer treatment, will also visit Guyana and Antigua and Barbuda, highlighting climate threats and attending a Commonwealth summit with Queen Camilla.",
+   "published": "2026-10-27T23:14:34.000Z"
+  },
+  {
+   "region": "World",
+   "source": "France 24",
+   "title": "Israel election: Record turnout as Netanyahu and Eisenkot remain deadlocked",
+   "summary": "Israel's election remained deadlocked on Tuesday, exit polls showed, with opposition leader Gadi Eisenkot's bloc narrowly ahead of Prime Minister Benjamin Netanyahu's camp by 52 seats to 50. Neither side had a clear path to forming a government. Voter turnout reached 77.7%, the highest in more than two decades.",
+   "published": "2026-10-27T22:58:53.000Z"
+  },
+  {
+   "region": "World",
+   "source": "France 24",
+   "title": "Israel: First exit polls show no clear winner, Arab parties make gains",
+   "summary": "Exit polls on Tuesday showed that the opposition bloc led by Israeli opposition candidate Gadi Eisenkot gained a narrow edge over Prime Minister Benjamin Netanyahu's Likud bloc in the Knesset. Likud, however, was projected to be the largest single party in the Israeli parliament.",
+   "published": "2026-10-27T21:41:42.000Z"
+  },
+  {
+   "region": "World",
+   "source": "France 24",
+   "title": "Bibi's moment of truth: Israel votes in first general election since October 7",
+   "summary": "The turnout tells the tale. Israelis casting ballots in their largest numbers in decades in the first general election since the October Seventh attacks of 2023. A referendum on the bloodiest day in the nation’s history? Definitely that. And more: What kind of Israel do citizens want?",
+   "published": "2026-10-27T21:26:10.000Z"
   },
   {
    "region": "World",
@@ -423,31 +479,24 @@
   },
   {
    "region": "World",
-   "source": "France 24",
-   "title": "How student assemblies brought down the Serbian government",
-   "summary": "A list of academics, engineers, artists and activists chosen by Serbia’s student assemblies defeated long-ruling president Aleksandar Vucic's right-wing Serbian Progressive Party Sunday. The shock victory comes after nearly two years of student-led anti-corruption protests – and may serve as a model for other movements hoping to turn street demonstrations into concrete political change.",
-   "published": "2026-10-27T18:58:25.000Z"
+   "source": "Africanews",
+   "title": "Israel: opposition supporters celebrate narrow lead in exit polls",
+   "summary": "Supporters of Gadi Eisenkot celebrated in Tel Aviv as exit polls gave Israel's opposition bloc a narrow lead over Benjamin Netanyahu's camp, but no outright parliamentary majority.",
+   "published": "2026-10-27T23:53:03.000Z"
   },
   {
    "region": "World",
-   "source": "France 24",
-   "title": "Israeli elections a 'referendum' on Netanyahu, security and whether Israel will 'remain a democracy'",
-   "summary": "Erin Ogunkeye is pleased to welcome Ron Gerlitz, CEO of aChord Center at Hebrew University, an Israeli organization specialising in the social psychology of intergroup relations. “The main issue in this election is the fight for Israeli democracy,” explains Gerlitz. And beneath the struggle over democratic institutions lies the erosion of Benjamin Netanyahu's longstanding association with national security. Gerlitz also examines the psychological foundations of Netanyahu's enduring support, the ",
-   "published": "2026-10-27T18:34:19.000Z"
+   "source": "Africanews",
+   "title": "Portugal: Lisbon housing crisis sparks protest outside parliament",
+   "summary": "Demonstrators gathered outside Portugal's parliament to protest against the housing crisis and police violence during recent camp clearances. The president has called for dialogue while defending police actions.",
+   "published": "2026-10-27T23:12:53.000Z"
   },
   {
    "region": "World",
-   "source": "France 24",
-   "title": "🔴Live: Israeli election committee refuses Netanyahu's request to extend voting hours",
-   "summary": "",
-   "published": "2026-10-27T18:30:47.000Z"
-  },
-  {
-   "region": "World",
-   "source": "France 24",
-   "title": "Rights groups say proposed French law to make rioters pay for damage is anti-democratic",
-   "summary": "Critics have said that a proposed French law that would make rioters liable to pay thousands of euros for any damage they cause is anti-democratic, as it could undermine the legitimate right to protest. The government put forward the law in a bid to quell looting and vandalism on the fringes of ongoing national protests over poor conditions in French schools and the high cost of living.",
-   "published": "2026-10-27T18:27:15.000Z"
+   "source": "Africanews",
+   "title": "Mbappe apologises for Mao Zedong comment after Chinese sponsors drop him",
+   "summary": "Football superstar Kylian Mbappé has apologised after a video appearing to show him joking about Chinese leader Mao Zedong sparked outrage in China.",
+   "published": "2026-10-27T21:21:19.000Z"
   },
   {
    "region": "World",
@@ -483,27 +532,6 @@
    "title": "Myanmar: spectacular lantern festival lights up ancient temples in Bagan",
    "summary": "Hundreds of glowing lanterns floated into the night sky above Bagan's ancient pagodas. Thousands gathered to celebrate Thadingyut, Myanmar's Festival of Lights marking the end of Buddhist Lent.",
    "published": "2026-10-27T15:57:57.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Africanews",
-   "title": "DRC's former leader Kabila is Rwandan 'proxy,' Tshisekedi tells lawmakers",
-   "summary": "DR Congo's former president, Joseph Kabila, is a Rwandan stooge, his successor Felix Tshisekedi told lawmakers on Tuesday. Kabila this month joined forces with the Kigali-backed M23 armed group that's been leading an insurgency in eastern DRC for more than a decade.",
-   "published": "2026-10-27T15:39:05.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Africanews",
-   "title": "Kylian Mbappé faces China backlash as major brands cut ties over Mao meme controversy",
-   "summary": "Football superstar Kylian Mbappé is a familiar face across China but that could soon change. The Real Madrid forward has reportedly been dropped by two major Chinese brands after a video circulated online in which he appeared to joke about former Chinese leader Mao Zedong.",
-   "published": "2026-10-27T15:01:55.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Africanews",
-   "title": "Egypt detains journalist Lina Attalah after court ruling",
-   "summary": "Egyptian journalist Lina Attalah, editor-in-chief of the country's leading independent news outlet Mada Masr, was detained by security forces after being fined in a swift trial on Tuesday, the publication said.",
-   "published": "2026-10-27T14:48:52.000Z"
   }
  ]
 }
