@@ -1,6 +1,13 @@
 {
- "updatedAt": "2026-10-29T20:14:45.760Z",
+ "updatedAt": "2026-10-30T00:53:30.891Z",
  "items": [
+  {
+   "region": "Ghana",
+   "source": "MyJoyOnline",
+   "title": "Dr. Bawumia confers with KAS Secretary-General; discusses Ghana’s future and NPP reorganisation",
+   "summary": "Former Vice President and NPP Presidential Candidate, Dr. Mahamudu Bawumia, has held high-level talks with the Secretary-General of the Konrad-Adenauer-Stiftung (KAS), Dr. Mark Speich, in Accra on Thursday. KAS is one of Germany's leading political foundations and is internationally affiliated with the NPP.",
+   "published": "2026-10-29T22:35:33.000Z"
+  },
   {
    "region": "Ghana",
    "source": "MyJoyOnline",
@@ -52,10 +59,10 @@
   },
   {
    "region": "Ghana",
-   "source": "MyJoyOnline",
-   "title": "Ghana’s 2020/2022 debt crisis: Can Akufo-Addo administration be held solely responsible?",
-   "summary": "I have consistently explained the economic circumstances that culminated in Ghana’s debt crisis, which became particularly acute in 2020. Following substantial debt relief under the Highly Indebted Poor Countries (HIPC) Initiative, Ghana’s debt position improved considerably, becoming more sustainable from 2005 through 2013 before deteriorating again. Using the ECOWAS convergence criterion of a debt-to-GDP ratio of 70% as a benchmark, Ghana’s debt ratio exceeded this threshold in 2014, 2015 and ",
-   "published": "2026-10-29T06:50:19.000Z"
+   "source": "Graphic Online",
+   "title": "Talensi Assembly on why it spent cash payments of GH¢181,170 on refreshments for meetings",
+   "summary": "The Talensi District Assembly has explained that cash payments by the assembly totaling GH¢181,170 which the Auditor-General questioned in its 2024 audit report on Metropolitan, Municipal and District Assemblies (MMDAs) were payments for refreshments and other food expenses during the year. Explaining, when the issue came up at a hearing of Parliament’s Select Committee on Local Government and Rural Development on Thursday (Oct 29, 2026), an official from the assembly said that they had to resor",
+   "published": "2026-10-29T14:18:34.000Z"
   },
   {
    "region": "Ghana",
@@ -87,13 +94,6 @@
   },
   {
    "region": "Ghana",
-   "source": "Graphic Online",
-   "title": "Asenso-Boakye urges TESCON to focus on policy research, leadership development",
-   "summary": "The Founding President of the Tertiary Students Confederacy (TESCON), Francis Asenso-Boakye, has urged the organisation’s newly appointed national executives to strengthen its role as a centre for policy research, intellectual engagement and leadership development within the New Patriotic Party (NPP). He said TESCON’s contribution to the party should go beyond campus political activities to include research, policy formulation and constructive discussions on national development challenges. “TES",
-   "published": "2026-10-29T06:07:19.000Z"
-  },
-  {
-   "region": "Ghana",
    "source": "Starr FM",
    "title": "NPP opens 10-day declaration of intent window for 2028 parliamentary aspirants, sets GH¢5,000 fee",
    "summary": "The party has set November 1–10, 2026, for applications and announced vetting and training for prospective candidates.",
@@ -105,6 +105,27 @@
    "title": "NPP Ashanti executives petition National Steering Committee to cancel COKA’s appointments over alleged unconstitutionality",
    "summary": "Elected regional executives want the NPP’s national leadership to cancel four appointments and supervise a fresh selection process.",
    "published": "2026-10-29T15:23:56.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "2 Ghanaians plead guilty for romance scam in New York",
+   "summary": "BOATENG pled guilty today, and AHMED pled guilty on October 27, 2026. Both defendants pled guilty to conspiracy to commit wire fraud before U.S. District Judge Arun Subramanian.",
+   "published": "2026-10-29T21:19:46.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "Ghana Gas supports Breast Cancer care and PPE supply at Effia Nkwanta Hospital with GHC100k",
+   "summary": "Speaking at the presentation ceremony, Judith Adjoba Blay, Chief Executive Officer of Ghana Gas, emphasized that the company's focus extends beyond awareness campaigns to ensuring patients can access confirmatory tests.",
+   "published": "2026-10-29T21:05:23.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "Over 11,000 Russians visit Ghana Kente Exhibition organised by GEPA in Moscow",
+   "summary": "Speaking at the exhibition, President John Mahama commended the organisers and hosts for promoting cultural understanding between the two nations.",
+   "published": "2026-10-29T20:43:03.000Z"
   },
   {
    "region": "Ghana",
@@ -192,27 +213,6 @@
   },
   {
    "region": "Ghana",
-   "source": "3News",
-   "title": "Ajax open talks with Wolves to sign Tolu Arokodare permanently",
-   "summary": "Ajax Amsterdam have entered negotiations with Wolverhampton Wanderers over a permanent transfer for Nigerian striker Tolu Arokodare, with a fee of about €25m.",
-   "published": "2026-10-29T16:53:19.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "Ghana takes lead in testing global climate adaptation measures as experts demand results",
-   "summary": "The exercise is expected to identify what Ghana can already measure, where information is lacking and whether the indicators adequately reflect the country’s adaptation objectives.",
-   "published": "2026-10-29T16:49:44.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "France eyes joint bid to host World Cup, with 2038 in focus",
-   "summary": "France is exploring the possibility of hosting a future Fifa World Cup, with French Football Federation (FFF) president Philippe Diallo indicating that a joint bid with other countries could be considered.",
-   "published": "2026-10-29T16:42:21.000Z"
-  },
-  {
-   "region": "Ghana",
    "source": "The Ghana Report",
    "title": "NPP asks Supreme Court to clarify two-term limit for presidents",
    "summary": "The New Patriotic Party (NPP) has asked the Supreme Court to explain whether the constitutional limit of two presidential terms applies to a person’s total time in office, even if the terms are not consecutive. In a case filed against the Attorney-General, the party is asking the court to interpret Articles 58(2) and 66(1), (2) […] The post NPP asks Supreme Court to clarify two-term limit for presidents appeared first on The Ghana Report .",
@@ -221,9 +221,23 @@
   {
    "region": "World",
    "source": "BBC News",
+   "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+   "summary": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
+   "published": "2026-10-29T20:21:54.000Z"
+  },
+  {
+   "region": "World",
+   "source": "BBC News",
    "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
    "summary": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.",
    "published": "2026-10-29T11:07:35.000Z"
+  },
+  {
+   "region": "World",
+   "source": "BBC News",
+   "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
+   "summary": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.",
+   "published": "2026-10-29T20:05:57.000Z"
   },
   {
    "region": "World",
@@ -249,23 +263,9 @@
   {
    "region": "World",
    "source": "BBC News",
-   "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
-   "summary": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.",
-   "published": "2026-10-29T20:05:57.000Z"
-  },
-  {
-   "region": "World",
-   "source": "BBC News",
    "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
    "summary": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany.",
    "published": "2026-10-29T17:02:59.000Z"
-  },
-  {
-   "region": "World",
-   "source": "BBC News",
-   "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-   "summary": "With 99% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-   "published": "2026-10-29T15:47:20.000Z"
   },
   {
    "region": "World",
@@ -319,58 +319,58 @@
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Man targeted Muslims, Africans and North Africans, French prosecutors say",
-   "summary": "Prosecutor Olivier Christen said suspect admitted that he chose the location because it was 'a hotbed for Islamists'.",
-   "published": "2026-10-29T20:00:26.000Z"
+   "title": "Armenian parliament turns into a boxing ring, third time in a month",
+   "summary": "Armenia’s parliament descended into fisticuffs after a ruling-party MP mocked the opposition leader’s family.",
+   "published": "2026-10-30T00:36:03.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Cornell begins no confidence vote over handling of alleged gang rape",
-   "summary": "Faculty vote will continue until next Friday and could send message that school's president has lost their confidence.",
-   "published": "2026-10-29T19:23:33.000Z"
+   "title": "Binance says $2.54bn in crypto funds frozen amid ‘potential security issue’",
+   "summary": "Binance founder says world's largest crypto exchange appears to have been hacked.",
+   "published": "2026-10-30T00:29:24.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Trump says won’t ‘take sides’ in Brazil election, but calls it a ‘disgrace’",
-   "summary": "Comments come after Trump ally Flavio Bolsonaro fled to Miami in US and claimed, without evidence, that vote was stolen.",
-   "published": "2026-10-29T19:21:19.000Z"
+   "title": "Houthi forces claim six attacks on Saudi airports, oil facilities",
+   "summary": "The announcement comes despite talks between Iran and the Mecca pact countries in Tehran earlier this week.",
+   "published": "2026-10-30T00:11:20.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Netanyahu attacks Palestinian-Israeli parties as he falls short of majority",
-   "summary": "With all votes now counted, opposition parties could join forces with Palestinian-Israeli parties to unseat Netanyahu.",
-   "published": "2026-10-29T19:06:00.000Z"
+   "title": "What does bourbon have to do with the US midterms?",
+   "summary": "The US-Canada trade war is hurting Kentucky’s bourbon industry, which generates billions of dollars annually.",
+   "published": "2026-10-30T00:08:50.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "‘Arab voice doesn’t count’: Jewish Israeli blocs reject Palestinian support",
-   "summary": "Palestinian voters could decide Israel’s future, but its political class refuses to accept their mandate",
-   "published": "2026-10-29T19:02:33.000Z"
+   "title": "Iran war live: IRGC says four tankers struck mines in Strait of Hormuz",
+   "summary": "Iran's IRGC says four tankers have struck naval mines after using \"unauthorised\" Strait of Hormuz routes.",
+   "published": "2026-10-30T00:00:00.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Pentagon fires general it says leaked classified information to media",
-   "summary": "Army Lieutenant General Brett Sylvia was subject of investigation into leaking information about Iran and Ukraine.",
-   "published": "2026-10-29T19:02:19.000Z"
+   "title": "France braces for ‘very high risk’ of disorder at Halloween protests",
+   "summary": "Authorities vow firm action against violence as yellow vest and student movements announce widespread demonstrations.",
+   "published": "2026-10-29T23:52:30.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Texas Republican group seeks to block certification of state’s election",
-   "summary": "Republicans in a Texas county have filed a lawsuit asking for ballots in the state's midterm races to be hand-counted.",
-   "published": "2026-10-29T18:40:01.000Z"
+   "title": "Patrick Stewart, ‘Star Trek’ Captain Picard and ‘X-Men’ actor, dies at 86",
+   "summary": "Stewart died in Los Angeles after living with Alzheimer's disease and Lewy body dementia.",
+   "published": "2026-10-29T22:36:06.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "US Muslims concerned but resilient as ‘hate’ attacks target Abdul El-Sayed",
-   "summary": "Muslim advocates say the best way to respond to hate is to elect the Democratic candidate in Michigan to US Senate.",
-   "published": "2026-10-29T18:30:04.000Z"
+   "title": "Trump administration attempts to take down leak of ICE personnel data",
+   "summary": "An Icelandic web company, FlokiNET, has defended the data's publication as satisfying a 'legitimate' public interest.",
+   "published": "2026-10-29T22:16:51.000Z"
   },
   {
    "region": "World",
@@ -396,8 +396,8 @@
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "Nvidia CEO reportedly targeted by Chinese spy",
-   "summary": "Jensen Huang reported to have had close relationship with tech company executive suspected of passing intel to China US intelligence agencies believe the Nvidia chief executive, Jensen Huang, has been targeted by a Chinese spy who had done business with him, according to a new report by the New York Times. Alice Huang or Huang Le, of no relation to the Nvidia CEO, is an executive at a Singapore-based datacenter company called Megaspeed. She had previously been suspected of smuggling Nvidia chips",
+   "title": "Nvidia CEO reportedly targeted by an alleged Chinese spy",
+   "summary": "Jensen Huang reported to have had close relationship with tech company executive suspected of passing intel to China US intelligence agencies believe the Nvidia chief executive, Jensen Huang, has been targeted by an alleged Chinese spy who had done business with him, according to a new report by the New York Times. Alice Huang or Huang Le, of no relation to the Nvidia CEO, is an executive at a Singapore-based datacenter company called Megaspeed. She had previously been suspected of smuggling Nvi",
    "published": "2026-10-29T15:23:48.000Z"
   },
   {
@@ -410,23 +410,23 @@
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "Cambodian police and soldiers helped guard abusive scam compounds, Amnesty alleges",
-   "summary": "Survivors tell rights group that serving officers who worked as guards administered electric shocks and beatings Cambodian police and military officers worked as private security guards in scam compounds where thousands were forced to work in the online fraud industry, according to a report by Amnesty International. The global rights group alleged they worked for security companies as part of a system that enabled slavery and rape in the compounds, with some guards using electric batons to keep ",
-   "published": "2026-10-29T06:00:26.000Z"
+   "title": "Erin Patterson to die in prison after losing appeal against mushroom murder convictions",
+   "summary": "Victorian court of appeal rules Patterson should be jailed for life with no parole over deadly beef wellington lunch that killed three people Erin Patterson mushroom murders appeal – live updates Get our breaking news email , free app or daily news podcast Erin Patterson has lost her bid to overturn her convictions and been resentenced to life behind bars with no chance of release, as Victoria’s highest court handed down its decision on two appeals regarding her triple murder case . The court of",
+   "published": "2026-10-30T00:48:00.000Z"
   },
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "Outcry after Call of Duty maker uses real footage of deadly Seoul crowd crush in new video game",
-   "summary": "Bereaved families have urged the publisher of Call of Duty: Modern Warfare 4 to remove a clip from the game that shows a figure performing CPR and bodies lying in the street Bereaved families in South Korea have demanded that the makers of Call of Duty remove harrowing footage of the deadly 2022 Seoul crowd crush from the latest instalment of the video game. The clips , which are seconds-long, appear in the opening moments of Call of Duty: Modern Warfare 4 , and are used to represent a scenario ",
-   "published": "2026-10-29T04:41:41.000Z"
+   "title": "Antisemitism envoy proposes ‘external ombudsman’ to monitor ABC and SBS coverage of Israel and Middle East",
+   "summary": "Jillian Segal says perception of link between coverage of conflicts and hostility towards Jewish Australians ‘is itself a matter of public importance’ Get our breaking news email , free app or daily news podcast The federal government’s anti-semitism envoy has proposed an “external independent ombudsman” to monitor ABC and SBS coverage of the war in Gaza, as well as codes for arts organisations to limit “personal political or ideological activism”. In an updated plan released on Friday , Jillian",
+   "published": "2026-10-30T00:37:36.000Z"
   },
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "Study of 100,000 Australians seeks causes of mental health disorders and early onset cancer",
-   "summary": "Sax Institute is recruiting for 18 and Up, an intergenerational study of wellbeing and ageing that follows its landmark 45 and Up study Get our breaking news email , free app or daily news podcast Researchers hope to better understand the drivers of major health challenges facing younger people, such as mental illness and rising cancer rates, through the recruitment of 100,000 people for Australia’s largest intergenerational study of wellbeing and ageing. The independent and not-for-profit resea",
-   "published": "2026-10-29T14:00:48.000Z"
+   "title": "Erin Patterson loses bid to overturn triple-murder convictions – as it happened",
+   "summary": "This blog is now closed. Read our full report here: Erin Patterson loses appeal as harsher sentence imposed Patterson showed no emotion on the video feed as McLeish outlined why her appeal had failed, and how the director of public prosecutions had succeeded in seeking a longer sentence. Patterson’s actions mean it is ‘inappropriate’ to fix non-parole period, justice says The applicant’s murderous intent dated back to the invitations to lunch, it persisted through the lunch that the poison was a",
+   "published": "2026-10-30T00:27:58.000Z"
   },
   {
    "region": "World",
@@ -473,58 +473,72 @@
   {
    "region": "World",
    "source": "France 24",
-   "title": "'Deeply regressive': How the French government plans to make protesters pay for riots and looting",
-   "summary": "As France continues to pick up the pieces after riots and looting broke out on the fringes of nationwide peaceful demonstrations on October 17, the government is pushing forward a bill that would make protesters have to pay up to €10,000 in reparations for damage caused during public unrest – even if they were not directly responsible for the vandalism.",
-   "published": "2026-10-29T18:15:38.000Z"
+   "title": "North Korea tests attack drones as Kim calls for 'absolute superiority'",
+   "summary": "North Korea has tested attack drones, cruise missiles and rocket launchers at a weapons demonstration, state media reported Friday, as Kim Jong Un called for faster development of military drone and artificial intelligence technology. The tests follow a series of weapons trials and rising tensions with South Korea.",
+   "published": "2026-10-30T00:22:55.000Z"
   },
   {
    "region": "World",
    "source": "France 24",
-   "title": "Lt. Gen. Ben Hodges accuses Hegseth of 'getting rid of people who may have the courage to push back'",
-   "summary": "Erin Ogunkeye welcomes Lt. General (ret.) Ben Hodges, former commander of US Army Europe and NATO Allied Land Command. The dismissal of senior military officers without public explanation raises fundamental questions about institutional trust and the relationship between civilian authority and military leadership. For General Hodges, the reported firing of Lt. General Brett Sylvia reflects a potentially troubling pattern within the Pentagon under Defense Secretary Pete Hegseth. Equally striking ",
-   "published": "2026-10-29T18:09:28.000Z"
+   "title": "Tunisians drawn into Russia's war in Ukraine",
+   "summary": "In tonight's edition, concern is growing in Tunisia as the families of several men who travelled to Russia for work or study are still searching for an answer about the fate of their loved ones forcibly conscripted to the war in Ukraine. Also, a year after Tanzania's controversial election, the fear hasn't faded. And Dakar is ready to make history, as the first Olympic event ever held on African soil gets underway this weekend.",
+   "published": "2026-10-29T21:48:35.000Z"
   },
   {
    "region": "World",
    "source": "France 24",
-   "title": "'An absurdity' to blame human error: Spain's deadly train crash 'should never' have happened",
-   "summary": "Following Spain's deadly high-speed train crash, Delano D'Souza is joined by Francisco Badea, Director of FEM Expert Engineering, Railway Structural & PRM Certification Expert. Batea challenges explanations that reduce railway disasters to isolated human mistakes. “It is basically an absurdity to say that it depended on one person and one human mistake,” he argues, emphasizing that modern railway networks operate through multiple layers of protection, including automated safeguards, train-detect",
-   "published": "2026-10-29T17:15:50.000Z"
+   "title": "Across Africa: Real estate scams growing in Ivory Coast",
+   "summary": "This week in Across Africa: in Ivory Coast, severe housing shortage has fueled demand for land, creating opportunities for fraudsters selling fake properties and non-existent plots. Also, Kenya’s women are changing the game. From the track to the boxing ring, female athletes are delivering some of the country’s biggest sporting successes. And Addis Ababa pushes ahead with ambitious plans to become East Africa’s clean-energy powerhouse.",
+   "published": "2026-10-29T21:43:05.000Z"
   },
   {
    "region": "World",
    "source": "France 24",
-   "title": "DR Congo: A centre celebrates the discharge of last Ebola patients",
-   "summary": "Medical staff and residents at a treatment centre in Ituri danced and sang to celebrate a first since May: the centre is no longer treating any confirmed Ebola cases.",
-   "published": "2026-10-29T17:13:52.000Z"
+   "title": "ECB President Lagarde steps down in order to speak out",
+   "summary": "European Central Bank President Christine Lagarde will step down from her post several months early, in order to have more \"freedom to engage on matters that are not monetary policy.\" The comments will fuel speculation about her future plans, ahead of a presidential election in her native France. The resignation also sparks a succession race, as Europe faces a turbulent fiscal future. Also in the show - oil giant TotalEnergies reports record profits as the EU warns on household energy bills.",
+   "published": "2026-10-29T21:01:37.000Z"
   },
   {
    "region": "World",
    "source": "France 24",
-   "title": "Ireland becomes refuge for anti-Trump Americans",
-   "summary": "They have left everything behind to get away from US President Donald Trump's America. Entrepreneurs, academics, scientists and students: tens of thousands of US citizens have moved to Ireland in recent years. Last year alone, some 10,000 Americans settled there and nearly 100 even applied for asylum – citing political, racial or gender persecution.",
-   "published": "2026-10-29T17:08:46.000Z"
+   "title": "Patrick Stewart, star of 'Star Trek' and 'X men', dies at 86",
+   "summary": "The British actor Patrick Stewart has died at 86, a statement released on Thursday said. Stewart was an acclaimed actor in Britain with the Royal Shakespeare Company before he starred in the beloved sci-fi TV show \"Star Trek\" in the 80s and later in the \"X-Men\" franchise.",
+   "published": "2026-10-29T20:21:52.000Z"
   },
   {
    "region": "World",
    "source": "France 24",
-   "title": "Ian McEwan speculates on 'What We Can Know' in the 22nd century",
-   "summary": "Booker Prize-winning author Ian McEwan sits down with Olivia Salazar-Winspear to discuss the 22nd century society he created in \"What We Can Know\", as his latest novel is translated into French. While his characters grapple with the aftermath of the great \"derangement\", in a world where many of the 21st century's capital cities have been submerged, we discuss our upcoming reckoning with the climate crisis.",
-   "published": "2026-10-29T16:29:20.000Z"
+   "title": "'Extremist right-wing ideologies' an increasing threat in France & 'across much of democratic world'",
+   "summary": "François Picard is pleased to welcome Dr Joseph Downing, Senior Lecturer in International Relations and Politics at Aston University. In modern France, the politics of insecurity increasingly extends beyond questions of crime and public order to encompass deeper struggles over national identity, disappearance of the political centre and erosion of democratic values. The emergence of far-right extremist violence, alongside the persistent stigmatization of ethnically diverse working-class suburbs,",
+   "published": "2026-10-29T20:06:36.000Z"
   },
   {
    "region": "World",
    "source": "France 24",
-   "title": "Flavio Bolsonaro’s great escape: Is this the beginning of the end for ‘Bolsonarism’?",
-   "summary": "The Brazilian election results had barely been announced before the defeated presidential candidate, Flavio Bolsonaro, packed his bags and fled with his family to the United States. The move may have dealt a serious blow to the already tarnished family brand, but does it spell the end for “Bolsonarism”?",
-   "published": "2026-10-29T16:19:17.000Z"
+   "title": "'Extremist right-wing ideologies' an increasing threat in France & 'across much of democratic world'",
+   "summary": "François Picard is pleased to welcome Dr Joseph Downing, Senior Lecturer in International Relations and Politics at Aston University. In modern France, the politics of insecurity increasingly extends beyond questions of crime and public order to encompass deeper struggles over national identity, disappearance of the political centre and erosion of democratic values. The emergence of far-right extremist violence, alongside the persistent stigmatization of ethnically diverse working-class suburbs,",
+   "published": "2026-10-29T20:02:03.000Z"
   },
   {
    "region": "World",
    "source": "France 24",
-   "title": "Aid mission set to enter Ukraine's Oleshky as localised ceasefire holds for third day",
-   "summary": "A humanitarian aid mission is set to enter the Ukrainian town of Oleshky, a Ukrainian official said on Thuirsday, as a localised truce between Kyiv and Moscow, brokered by US first lady Melania Trump, held for a third day. Some 2,000 residents in the Russian occupied city have been cut off from essential supplies amid reports that many are starving.",
-   "published": "2026-10-29T16:19:14.000Z"
+   "title": "Michigan's El-Sayed targeted by Republicans in Midterms race: Will the religion card work?",
+   "summary": "What in the name of political free speech is off-limits? Can you say whatever you want on the campaign trail, no matter how false or racist?",
+   "published": "2026-10-29T19:31:10.000Z"
+  },
+  {
+   "region": "World",
+   "source": "Africanews",
+   "title": "Ukraine: Russian strike kills two teenage girls in Chernihiv",
+   "summary": "A Russian strike on Chernihiv killed two 15-year-old girls and injured 25 people, local officials say. Meanwhile, a US-brokered ceasefire in southern Ukraine is allowing demining work aimed at opening humanitarian routes.",
+   "published": "2026-10-29T23:15:11.000Z"
+  },
+  {
+   "region": "World",
+   "source": "Africanews",
+   "title": "Spain: minute of silence for train crash victims as king visits hospital",
+   "summary": "Spain is mourning 69 people killed in a high-speed train collision near Toledo. As King Felipe VI visits a hospital treating the injured, rescuers continue searching the wreckage and a minute of silence is held at the crash site.",
+   "published": "2026-10-29T22:48:06.000Z"
   },
   {
    "region": "World",
@@ -567,20 +581,6 @@
    "title": "Putin hails 'natural allies' at Russia-Africa summit in Moscow",
    "summary": "President Putin welcomed nearly two dozen African leaders to the Kremlin on Wednesday for a two-day Russia-Africa summit.",
    "published": "2026-10-29T15:42:27.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Africanews",
-   "title": "Vatican: Century of Mercedes-Benz popemobiles goes on display",
-   "summary": "From silk-lined limousines to vehicles fitted with bulletproof glass, eight historic popemobiles go on display at the Vatican Museums. The exhibition traces how papal transport has evolved over nearly a century.",
-   "published": "2026-10-29T15:40:13.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Africanews",
-   "title": "French music producer awaits trial six years after police beating",
-   "summary": "Six years after being violently beaten by three police officers, Michel Zecler is awaiting the opening of their trial on 9 November in Paris. The music producer says he remains deeply scarred and angry over police violence.",
-   "published": "2026-10-29T15:45:59.000Z"
   }
  ]
 }
