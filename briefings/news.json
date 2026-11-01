@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-31T21:27:46.847Z",
+ "updatedAt": "2026-11-01T01:04:24.894Z",
  "items": [
   {
    "region": "Ghana",
@@ -7,20 +7,6 @@
    "title": "Inusah Fuseini says NPP’s suit on presidential term limit is needless",
    "summary": "Former Tamale Central MP, Inusah Fuseini, says the New Patriotic Party (NPP) does not need to seek a Supreme Court interpretation of the constitutional provisions governing presidential term limits, arguing that the 1992 Constitution already provides a clear restriction.",
    "published": "2026-10-31T15:30:31.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "MyJoyOnline",
-   "title": "NDC cannot preach accountability and resist scrutiny — Afenyo-Markin",
-   "summary": "Minority Leader Alexander Afenyo-Markin has accused the governing National Democratic Congress (NDC) of adopting double standards on accountability, insisting that the party must accept the same scrutiny it demanded of the previous New Patriotic Party (NPP) administration.",
-   "published": "2026-10-31T04:51:24.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "MyJoyOnline",
-   "title": "NDC must accept the same scrutiny demanded under Akufo-Addo—Afenyo-Markin",
-   "summary": "Minority Leader Alexander Afenyo-Markin has challenged the governing National Democratic Congress (NDC) to uphold the accountability standards it championed during its eight years in opposition, insisting that a change of government must not shield public officials from scrutiny.",
-   "published": "2026-10-31T04:04:10.000Z"
   },
   {
    "region": "Ghana",
@@ -60,9 +46,23 @@
   {
    "region": "Ghana",
    "source": "3News",
+   "title": "Who among the 6 top rated Supreme Court judges is likely to succeed Chief Justice Baffoe-Bonnie",
+   "summary": "Baffoe-Bonnie was sworn into office on November 17, 2025, meaning his substantive tenure is expected to end after barely thirteen months.",
+   "published": "2026-10-31T21:27:54.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
    "title": "MIIF, Forestry Commission embark on 50-hectare forest restoration project in Sekyere Krobo",
    "summary": "The project, commissioned on October 29, 2026, forms part of MIIF’s Environmental, Social and Governance (ESG) Biodiversity Reforestation Project, which seeks to promote environmental sustainability and strengthen biodiversity conservation in Ghana’s mining regions.",
    "published": "2026-10-31T20:38:26.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "Yahu Blackwell seeks NYC talks after Ghanaian teen shot dead",
+   "summary": "Yahu Blackwell, king of the Osu Monarchy, asks Mayor Mamdani and Governor Hochul to meet on immigrant safety after Ghanaian teen Javits Frimpong was shot dead.",
+   "published": "2026-10-31T20:30:00.000Z"
   },
   {
    "region": "Ghana",
@@ -149,20 +149,6 @@
    "published": "2026-10-31T11:34:20.000Z"
   },
   {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "President Mahama has said he is not interested in a third term - Kwakye Ofosu",
-   "summary": "The President, on many occasions, has said that he is not interested in a third term. So what is the farce about these whole scare-mongering tactics of the NPP?",
-   "published": "2026-10-31T10:47:20.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "'Write it on the wall, Supreme Court will dismiss term limit suits' – Senyo Hosi",
-   "summary": "Mr. Hosi argued that the court has no basis to entertain the suits because Article 66(2) of the 1992 Constitution is clear on its face, and the attempt to create ambiguity where none exists should not be encouraged.",
-   "published": "2026-10-31T10:45:45.000Z"
-  },
-  {
    "region": "World",
    "source": "BBC News",
    "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
@@ -179,23 +165,30 @@
   {
    "region": "World",
    "source": "BBC News",
-   "title": "Clashes erupt between police and protesters in Paris",
-   "summary": "Over 320,000 people protested around France in a third weekend of demonstrations against the rising cost of living and poor public services.",
-   "published": "2026-10-31T19:37:43.000Z"
+   "title": "Thousands demonstrate in Paris as protests spread across Europe",
+   "summary": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
+   "published": "2026-10-31T21:29:01.000Z"
   },
   {
    "region": "World",
    "source": "BBC News",
    "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-   "summary": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.",
-   "published": "2026-10-31T16:32:08.000Z"
+   "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+   "published": "2026-10-31T22:11:45.000Z"
   },
   {
    "region": "World",
    "source": "BBC News",
-   "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
-   "summary": "Government data shows that more than 10,000 people have contracted the rare virus.",
-   "published": "2026-10-31T15:16:20.000Z"
+   "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+   "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+   "published": "2026-11-01T00:12:07.000Z"
+  },
+  {
+   "region": "World",
+   "source": "BBC News",
+   "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+   "summary": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
+   "published": "2026-11-01T00:55:06.000Z"
   },
   {
    "region": "World",
@@ -207,16 +200,9 @@
   {
    "region": "World",
    "source": "BBC News",
-   "title": "Spain train disaster clouds Sánchez chances of re-election",
-   "summary": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
-   "published": "2026-10-31T05:44:21.000Z"
-  },
-  {
-   "region": "World",
-   "source": "BBC News",
-   "title": "Emotional reunions with loved ones for Oleshky evacuees",
-   "summary": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents arrived in buses and ambulances following a temporary ceasefire.",
-   "published": "2026-10-31T16:55:47.000Z"
+   "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+   "summary": "Government data shows that more than 10,000 people have contracted the rare virus.",
+   "published": "2026-10-31T15:16:20.000Z"
   },
   {
    "region": "World",
@@ -228,13 +214,6 @@
   {
    "region": "World",
    "source": "BBC News Africa",
-   "title": "Suited and booted: How Joseph Kabila went from president to rebel leader",
-   "summary": "What does Joseph Kabila launching a new rebel movement mean for DR Congo?",
-   "published": "2026-10-31T04:32:07.000Z"
-  },
-  {
-   "region": "World",
-   "source": "BBC News Africa",
    "title": "Ethiopian PM puts ministers through military training",
    "summary": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
    "published": "2026-10-31T14:28:15.000Z"
@@ -242,58 +221,58 @@
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Fiery confrontations between protestors and police in Albania",
-   "summary": "Fiery confrontations between protestors and police in Albania",
-   "published": "2026-10-31T21:12:46.000Z"
+   "title": "Polish president holds crisis talks in court standoff",
+   "summary": "A dispute over the politicisation of Poland's constitutional court is deepening, with no side appearing to back down.",
+   "published": "2026-11-01T00:30:59.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Health authorities probe two suspected Ebola cases in northeast Nigeria",
-   "summary": "The two individuals have been isolated while officials carry out contact tracing and laboratory testing.",
-   "published": "2026-10-31T21:01:19.000Z"
+   "title": "Gen Z-led protests in Germany turn violent",
+   "summary": "Protesters clashed with police as thousands took to the streets across 34 cities in Germany.",
+   "published": "2026-11-01T00:27:20.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "District of Columbia and Virginia sue to block Trump’s triumphal arch plans",
-   "summary": "The monument has sparked fierce opposition from local governments fearing disruption to traffic and historic views.",
-   "published": "2026-10-31T20:30:35.000Z"
+   "title": "Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz",
+   "summary": "Top diplomat says Iran and Qatar have reached a plan to reopen Hormuz in two days if the US meets Tehran's conditions.",
+   "published": "2026-11-01T00:00:51.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Israel’s allegations of Qatari election interference rejected",
-   "summary": "Israel’s allegations of Qatari election interference rejected",
-   "published": "2026-10-31T20:24:58.000Z"
+   "title": "ICE agent’s violent shove propels woman through the air",
+   "summary": "A witness has captured video of an ICE agent violently shoving a teacher who was blocking his car in Chicago.",
+   "published": "2026-10-31T23:45:36.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "What is ranked-choice voting and how does it work in US elections?",
-   "summary": "Ranked-choice voting in Alaska could shape a key 2026 race, amid a US lawsuit involving two candidates named Dan Sullivan.",
-   "published": "2026-10-31T20:11:37.000Z"
+   "title": "Dutch authorities rescue 38 people adrift in rubber boat",
+   "summary": "Migrant boats are rarely found in Dutch waters, and authorities are still trying to establish where this one came from.",
+   "published": "2026-10-31T22:38:03.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks",
-   "summary": "Turkish president hosts Zelenskyy in Istanbul as the two leaders agree to work on a new Black Sea grain corridor.",
-   "published": "2026-10-31T20:09:18.000Z"
+   "title": "Trump loses legal battle over Epstein-linked Wall Street Journal case",
+   "summary": "Judge permanently drops Trump's $10bn WSJ lawsuit, ruling he failed to prove actual malice in the newspaper's reporting.",
+   "published": "2026-10-31T22:36:41.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "How vulnerable are cryptocurrency platforms?",
-   "summary": "Hackers have targeted Binance, the world’s largest exchange.",
-   "published": "2026-10-31T19:19:29.000Z"
+   "title": "Palestine Action supporters arrested outside US embassy in London",
+   "summary": "Hundreds of protesters gathered outside the US Embassy in London to oppose the UK government's ban on Palestine Action.",
+   "published": "2026-10-31T22:10:53.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Palestinians ‘Stealing their own olives’",
-   "summary": "In the occupied West Bank, Israeli settlers have turned olive harvesting into a deadly activity for Palestinians.",
-   "published": "2026-10-31T19:18:32.000Z"
+   "title": "Legal filing questions Trump’s claims of non-citizen voting in California",
+   "summary": "Data scientists find that many 'likely non-citizens' identified by the Trump administration were erroneously flagged.",
+   "published": "2026-10-31T21:38:54.000Z"
   },
   {
    "region": "World",
@@ -305,9 +284,9 @@
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "Storm warnings for Melbourne, Canberra, Sydney and Brisbane as cold front ‘packs a punch’",
-   "summary": "BoM predicts hail, damaging winds and possible flash flooding across Victoria, NSW and parts of Queensland into Sunday Get our breaking news email , free app or daily news podcast Storm warnings are in place for multiple capital cities across Australia’s east and south-east as a severe weather front sweeps across the country. Heavy rain, winds and thunderstorms are forecast to hit Melbourne and eastern Victoria throughout Saturday afternoon as a cold front meets warm, humid air. Continue reading",
-   "published": "2026-10-31T06:05:20.000Z"
+   "title": "Tusk defends overhaul of Poland’s constitutional court despite protests",
+   "summary": "Prime minister says shake-up is vital to restore tribunal crippled by years of political disputes Poland’s prime minister, Donald Tusk, has vowed to see through a contested overhaul of the country’s constitutional court, declaring that “in certain matters, there can be no compromise”. In a prime-time television address on Saturday night , Tusk was defiant, despite overnight protests that saw riot police drafted to protect the court’s building, saying the shake-up was vital to restore a tribunal ",
+   "published": "2026-10-31T22:43:09.000Z"
   },
   {
    "region": "World",
@@ -340,16 +319,16 @@
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "Cost of living protests to spread to Germany and reignite in France on Halloween",
-   "summary": "Activists call for people to make their anger known over poor public services including education and housing Street protests sweeping Europe are expected to spread to Germany and reignite in France on Saturday, with police mobilised to stop potential looting and rioting on the fringes of what organisers hope will be peaceful rallies. Weeks of, at times violent, student demonstrations have rocked Italy, Spain, Portugal, Albania and France, where activists on Halloween have again called for peopl",
-   "published": "2026-10-31T09:13:22.000Z"
+   "title": "Man in Belfast charged with possessing explosives and firearms",
+   "summary": "The 35-year-old was charged after police searched properties in Shankill Road and Edwina Street areas A man has been charged under the Explosives Act and Firearms Order after police searched properties in Belfast. The 35-year-old was charged with offences including two counts of possessing explosives under suspicious circumstances, and possession of a prohibited weapon (discharge of electricity or noxious gas). Continue reading...",
+   "published": "2026-10-31T20:21:08.000Z"
   },
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "Man in Belfast charged with possessing explosives and firearms",
-   "summary": "The 35-year-old was charged after police searched properties in Shankill Road and Edwina Street areas A man has been charged under the Explosives Act and Firearms Order after police searched properties in Belfast. The 35-year-old was charged with offences including two counts of possessing explosives under suspicious circumstances, and possession of a prohibited weapon (discharge of electricity or noxious gas). Continue reading...",
-   "published": "2026-10-31T20:21:08.000Z"
+   "title": "Almost 140 arrested at protest against Palestine Action ban outside US embassy in London",
+   "summary": "Met alleges demonstrators ‘meeting to purposefully commit a crime’ in largest such gathering under Burnham Almost 140 people have been arrested at the largest mass demonstrations under Andy Burnham’s premiership opposing the proscription of Palestine Action. Hundreds of people gathered outside the US embassy in Battersea, south London, holding signs that read: “I oppose genocide, I support Palestine Action.” Demonstrators also held a vigil in support of the group outside the US consulate in Edin",
+   "published": "2026-10-31T18:28:30.000Z"
   },
   {
    "region": "World",
@@ -364,6 +343,13 @@
    "title": "Bollywood and the underworld — together in the spotlight?",
    "summary": "A wave of shootings and extortion threats has rattled India's film industry. This time, those claiming responsibility are very different from the Mumbai underworld that had Bollywood in its grip back in the 1990s.",
    "published": "2026-10-31T07:26:00.000Z"
+  },
+  {
+   "region": "World",
+   "source": "France 24",
+   "title": "Some 320,000 demonstrators take part in largely peaceful protests across France",
+   "summary": "Around 320,000 protesters took part in a third mass protest over living costs across France on Saturday, the interior ministry estimated, while organizers counted nearly half a million. Tensions flared ​at the end of marches in ​some cities but authorities reported that most demonstrations were largely peaceful.",
+   "published": "2026-10-31T21:34:15.000Z"
   },
   {
    "region": "World",
@@ -413,13 +399,6 @@
    "title": "UK PM Burnham says 'open' to slavery apology but rules out financial reparations",
    "summary": "British Prime Minister Andy Burnham said Saturday he was \"open\" to the UK apologising for the first time for its role in the transatlantic slave trade but rejected calls for financial reparations. Issues around Britain's colonial history have loomed large over King Charles' ongoing visit to three Caribbean nations ahead of Commonwealth summit.",
    "published": "2026-10-31T12:31:49.000Z"
-  },
-  {
-   "region": "World",
-   "source": "France 24",
-   "title": "Binance hit by 6.3 billion dollar crypto theft",
-   "summary": "Binance executives are scrambling to recover billions of dollars after the crypto platform was hit by what is being described as the biggest heist in cryptocurrency history. Hackers reportedly stole $6.3 billion from users, with analysts pointing the finger at North Korea. The attack far surpasses the previous record set in February 2025, when hackers stole $1.5 billion from crypto exchange Bybit.",
-   "published": "2026-10-31T11:16:54.000Z"
   },
   {
    "region": "World",
