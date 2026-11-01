@@ -1,6 +1,55 @@
 {
- "updatedAt": "2026-11-01T15:01:16.224Z",
+ "updatedAt": "2026-11-01T23:32:16.770Z",
  "items": [
+  {
+   "region": "Ghana",
+   "source": "MyJoyOnline",
+   "title": "NPP opens applications for 2028 parliamentary primaries, sets GH¢5,000 fee",
+   "summary": "The New Patriotic Party (NPP) has opened applications for prospective parliamentary candidates seeking to contest its parliamentary primaries ahead of the 2028 General Elections.",
+   "published": "2026-11-01T20:05:37.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "Relief for elderly and pregnant worshippers as five priests fund GH¢1.6m chapel for four Koforidua communities",
+   "summary": "Five Catholic priests in the Catholic Diocese of Koforidua have funded the construction of a new Catholic church to bring worship closer to residents of four communities in the New Juaben South Municipality of the Eastern Region.",
+   "published": "2026-11-01T20:33:34.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "Atwima Mponua DCE, Deputy CEO of GIADEC discuss $17.5b bauxite deposits in Nyinahin with investors",
+   "summary": "Nyinahin, the district capital, is estimated to hold bauxite deposits valued at about $17.5 billion, with the potential to create close to 98,000 jobs.",
+   "published": "2026-11-01T20:18:11.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "NACOC hunts Ghana accomplices of Syrian caught in Beirut with cocaine from Accra",
+   "summary": "The Narcotics Control Commission says the Syrian national arrested at Beirut airport on Saturday was caught in a controlled delivery run with Lebanese authorities. It is now working to arrest the people who helped him in Ghana.",
+   "published": "2026-11-01T19:09:50.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "Yellow fever outbreak has been curtailed after four confirmed cases - GHS",
+   "summary": "The Ghana Health Service (GHS) says it has curtailed a yellow fever outbreak recorded between September and the first half of October, following the confirmation of four cases.",
+   "published": "2026-11-01T15:52:30.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "GHS Director-General cautions health staff against announcing unconfirmed disease outbreaks",
+   "summary": "The Director-General of the Ghana Health Service (GHS), Dr Samuel Kaba Akoriyea, has cautioned health workers against publicly announcing suspected disease outbreaks without the necessary authorisation and confirmation.",
+   "published": "2026-11-01T15:33:25.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "Yellow fever tests in Ghana to be soon recognised internationally as WHO evaluates Public Health Reference Laboratory",
+   "summary": "The World Health Organisation (WHO) has evaluated Ghana's Public Health Reference Laboratory as part of efforts to enable yellow fever test results conducted in the country to gain international recognition and be certified.",
+   "published": "2026-11-01T15:06:26.000Z"
+  },
   {
    "region": "Ghana",
    "source": "3News",
@@ -14,6 +63,13 @@
    "title": "Tema Port launches container-based shea nut loading system",
    "summary": "Honeyworld and GPHA have begun loading shea nut exports at Tema Port with sealed containers that discharge straight into ships, avoiding the quay apron.",
    "published": "2026-11-01T14:06:18.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "Kumawood actress Sandra Ababio joins Tebi Paints",
+   "summary": "Kumawood actress and influencer Sandra Ababio has joined Ghanaian-owned Tebi Paints to promote its products, but the terms of the deal have not been disclosed.",
+   "published": "2026-11-01T13:30:00.000Z"
   },
   {
    "region": "Ghana",
@@ -58,53 +114,25 @@
    "published": "2026-11-01T09:38:17.000Z"
   },
   {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "Gen Z protests turn violent in Germany, spread across Europe",
-   "summary": "Rioters looted Frankfurt shops and clashed with police in Berlin, Cologne, and Hamburg after largely peaceful Gen Z cost-of-living protests across Germany.",
-   "published": "2026-11-01T09:19:12.000Z"
+   "region": "World",
+   "source": "BBC News",
+   "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+   "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+   "published": "2026-11-01T21:55:01.000Z"
   },
   {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "GTEC cautions universities: Don’t admit more PhD students than you can supervise",
-   "summary": "GTEC has warned universities against admitting more PhD students than they can support, saying growth in numbers must never outpace capacity or weaken quality.",
-   "published": "2026-11-01T09:03:39.000Z"
+   "region": "World",
+   "source": "BBC News",
+   "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+   "summary": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
+   "published": "2026-11-01T17:06:32.000Z"
   },
   {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "Apaak directs GTEC to meet striking Savannah College staff",
-   "summary": "Deputy Education Minister Dr Clement Abas Apaak has directed GTEC to meet striking Savannah College of Education staff on 3 November and urged a return to work.",
-   "published": "2026-11-01T08:47:24.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "Slain Ghanaian teen’s mother to travel to New York at Ghana’s expense - Ablakwa",
-   "summary": "Ghana will pay for the US trip of Javits Frimpong’s mother after Mayor Mamdani said President Trump agreed to grant her a visa so she can mourn her slain son.",
-   "published": "2026-11-01T08:42:17.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "3 key speed limits to obey as TraffiTech-GH comes into force",
-   "summary": "As TraffiTech-GH takes effect, drivers must obey 50km/h in towns, 90km/h on highways, and 100km/h on motorways or risk an electronic violation notice.",
-   "published": "2026-11-01T08:18:32.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "TraffiTech-GH rolls out today: MTTD begins digital speed enforcement",
-   "summary": "The MTTD has launched TraffiTech-GH today, using cameras to catch speeding drivers and sending e-notices with video evidence to vehicle owners’ phones.",
-   "published": "2026-11-01T08:12:59.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "Haruna Iddrisu swears in CIB Ghana Council, urges action on cybercrime",
-   "summary": "Education Minister Haruna Iddrisu has sworn in the new CIB Ghana Governing Council, urging members to tackle AI-driven fraud, cybercrime, and rising NPLs.",
-   "published": "2026-11-01T08:00:50.000Z"
+   "region": "World",
+   "source": "BBC News",
+   "title": "University of Cambridge scientist among those who died in Spanish train crash",
+   "summary": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
+   "published": "2026-11-01T17:05:18.000Z"
   },
   {
    "region": "World",
@@ -116,9 +144,16 @@
   {
    "region": "World",
    "source": "BBC News",
-   "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-   "summary": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
-   "published": "2026-11-01T00:41:24.000Z"
+   "title": "Armed police start patrols in Sydney after Bondi Beach attack",
+   "summary": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
+   "published": "2026-11-01T17:56:47.000Z"
+  },
+  {
+   "region": "World",
+   "source": "BBC News",
+   "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+   "summary": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
+   "published": "2026-11-01T21:16:45.000Z"
   },
   {
    "region": "World",
@@ -136,87 +171,66 @@
   },
   {
    "region": "World",
-   "source": "BBC News",
-   "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
-   "summary": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
-   "published": "2026-11-01T00:55:06.000Z"
-  },
-  {
-   "region": "World",
-   "source": "BBC News",
-   "title": "Judge orders Trump administration to stop threatening US election officials",
-   "summary": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters.",
-   "published": "2026-11-01T00:27:33.000Z"
-  },
-  {
-   "region": "World",
-   "source": "BBC News",
-   "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-   "summary": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
-   "published": "2026-11-01T00:46:12.000Z"
-  },
-  {
-   "region": "World",
-   "source": "BBC News",
-   "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
-   "summary": "The supermodel and TV host provided a gory new shock at her New York event.",
-   "published": "2026-11-01T05:26:02.000Z"
+   "source": "Al Jazeera",
+   "title": "Why governors’ races are important in the 2026 US midterms",
+   "summary": "Historic turnover in this election will allow dozens of states to vote on significant changes in leadership.",
+   "published": "2026-11-01T23:24:56.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Photos: Thousands join India’s opposition rally against election chief",
-   "summary": "Protesters march in New Delhi demanding the election chief quit over voter roll changes seen as favouring Modi’s party.",
-   "published": "2026-11-01T14:46:03.000Z"
+   "title": "UN warns of security risks in Western Sahara as peacekeeping mission ends",
+   "summary": "The mission, known as MINURSO, has been in place in the disputed region since a ceasefire in 1991.",
+   "published": "2026-11-01T23:19:51.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Why is Morocco celebrating the defeat of a UN resolution on Western Sahara?",
-   "summary": "Mandate expires for UN mission tasked to monitor 1991 truce and hold a referendum in the disputed territory.",
-   "published": "2026-11-01T14:26:43.000Z"
+   "title": "High-ranking US Democratic senator suffers stroke",
+   "summary": "Senator Chris Murphy, a fierce Trump critic who is not up for re-election in the midterms, is 'alert' after a stroke.",
+   "published": "2026-11-01T22:32:54.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Israel election: When will government be formed, who will lead it?",
-   "summary": "President Herzog must tap candidate to form new government by November 11, with fraught negotiations likely to follow.",
-   "published": "2026-11-01T14:16:14.000Z"
+   "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
+   "summary": "Moscow and Kyiv continue strikes elsewhere, but no reported violations in Kherson region during the six-day ceasefire.",
+   "published": "2026-11-01T22:15:14.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Israeli attacks on Gaza kill at least nine people",
-   "summary": "Israeli attacks on Gaza City and Khan Younis killed at least nine people on Sunday.",
-   "published": "2026-11-01T14:10:59.000Z"
+   "title": "Democrat Haley Stevens heckled as she backs El-Sayed rival",
+   "summary": "US Democrat Haley Stevens from Michigan was heckled as a ‘traitor’, after endorsing Republican Mike Rogers.",
+   "published": "2026-11-01T21:29:43.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Macklemore concludes ‘Free Palestine’ tour with solidarity message",
-   "summary": "Macklemore’s ‘Free Palestine’ tour ended with a sold-out show in London.",
-   "published": "2026-11-01T13:47:53.000Z"
+   "title": "Thousands displaced from Hebron as Israel carries on siege",
+   "summary": "Almost 5,000 people have been displaced as a result of Israel’s military siege on the city of Hebron in the West Bank.",
+   "published": "2026-11-01T21:28:47.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Ireland’s European athletics champion Ciara Mageean dies aged 34",
-   "summary": "Mageean, runner who competed at two Olympic Games, lost her battle with cancer a year after revealing her diagnosis.",
-   "published": "2026-11-01T13:43:57.000Z"
+   "title": "Carney signals progress on Canada-US trade deal talks as midterms loom",
+   "summary": "Canadian PM Mark Carney announces progress in Canada-US trade deal talks ahead of Tuesday's US midterm elections.",
+   "published": "2026-11-01T21:01:33.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "US midterms live: Trump, Democrats in last-ditch efforts before polls",
-   "summary": "All 435 seats in the House of Representatives and 35 of the Senate’s 100 seats are being contested on Tuesday.",
-   "published": "2026-11-01T13:42:25.000Z"
+   "title": "Why did Democrat Haley Stevens just endorse a Republican for US Senate?",
+   "summary": "Stevens’s endorsement of Mike Rogers comes after a bitter dispute with Democratic nominee Abdul El-Sayed.",
+   "published": "2026-11-01T21:00:52.000Z"
   },
   {
    "region": "World",
-   "source": "Al Jazeera",
-   "title": "At least eight Palestinians killed in Israeli attacks across Gaza",
-   "summary": "Four-year-old among eight Palestinians killed in Israeli drone attacks across the Gaza Strip.",
-   "published": "2026-11-01T13:36:16.000Z"
+   "source": "The Guardian",
+   "title": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
+   "summary": "British prime minister has now agreed to structured dialogue on reparatory justice but issue remains off formal Chogm agenda British officials reportedly insisted that discussions of reparations for slavery should not be on the agenda of the Commonwealth leaders’ summit in Antigua and Barbuda – and even warned that Andy Burnham would not attend the meeting if the subject was formally included, according to a leading Caribbean political figure. Ralph Gonsalves, a former prime minister of St Vince",
+   "published": "2026-11-01T22:26:11.000Z"
   },
   {
    "region": "World",
@@ -235,8 +249,22 @@
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "Home values fall for seventh consecutive month as interest rates dent demand",
-   "summary": "Centre of downturn shifts away from Sydney and Melbourne, but after such strong growth most homeowners still sit on sizeable gains Get our breaking news email , free app or daily news podcast Australian home values have dropped for a seventh consecutive month, with prices in the capital cities now falling at the fastest pace in 40 years as rising mortgage rates scare off buyers. Cotality data shows the centre of the downturn is also shifting away from Sydney and Melbourne toward the mid-sized st",
+   "title": "Nationals leader Matt Canavan to run for lower house seat in possible showdown with One Nation’s James Ashby",
+   "summary": "Tilt comes after Michelle Landry announced she will not recontest her Queensland seat of Capricornia Get our daily political email , free app or daily news podcast The Nationals leader, Matt Canavan, will run in a lower house Queensland seat at the next federal election, in a move that may see him face off with Pauline Hanson’s national director. The announcement follows the retirement of the Capricornia MP Michelle Landry, and could result in a contest against James Ashby in a major battle for ",
+   "published": "2026-11-01T23:05:05.000Z"
+  },
+  {
+   "region": "World",
+   "source": "The Guardian",
+   "title": "Northern Territory water plan condemned as ‘blatant and shameless’ attack on nature",
+   "summary": "Exclusive : Move to scrap legal requirement to set aside water for environment is ‘extreme even for the NT CLP government’, green group says Get our breaking news email , free app or daily news podcast The Northern Territory government has been accused of making a “blatant and shameless” attack on nature by planning to delete a legal requirement that water must be allocated to the environment. In what has been described as the latest in a series of attacks on the environment by the NT’s Country ",
+   "published": "2026-11-01T20:02:57.000Z"
+  },
+  {
+   "region": "World",
+   "source": "The Guardian",
+   "title": "House prices fall for seventh consecutive month as interest rates dent demand",
+   "summary": "Centre of downturn shifts away from Sydney and Melbourne, but after such strong growth most homeowners still sit on sizeable gains Get our breaking news email , free app or daily news podcast Australian home values have dropped for a seventh consecutive month, with prices in the capital cities now falling at the fastest pace in 40 years as rising mortgage rates scare off buyers. Cotality data shows the centre of the downturn is also shifting away from Sydney and Melbourne towards the mid-sized s",
    "published": "2026-11-01T14:00:18.000Z"
   },
   {
@@ -249,30 +277,30 @@
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "Northern Territory water plan condemned as ‘blatant and shameless’ attack on nature",
-   "summary": "Exclusive : Move to scrap legal requirement to set aside water for environment is ‘extreme even for the NT CLP government’, green group says Get our breaking news email , free app or daily news podcast The Northern Territory government has been accused of making a “blatant and shameless” attack on nature by planning to delete a legal requirement that water must be allocated to the environment. In what has been described as the latest in a series of attacks on the environment by the NT’s Country ",
-   "published": "2026-11-01T14:00:13.000Z"
-  },
-  {
-   "region": "World",
-   "source": "The Guardian",
    "title": "AI is stealing Indigenous Australian art and churning out ‘Temu slop’, artist says",
-   "summary": "Chair of National Gallery’s First Nations advisory group says the technology is undermining artists’ agency and the authenticity of their work Get our breaking news email , free app or daily news podcast AI is taking First Nations art and turning it into “Temu slop”, the Pitjantjatjara artist Sally Scales has said. Scales, the chair of the National Gallery of Australia’s First Nations advisory group, said the technology is undermining the agency of First Nations artists and the authenticity of t",
+   "summary": "Chair of National Gallery’s First Nations advisory group says the technology is undermining artists’ agency and the authenticity of their work Get our breaking news email , free app or daily news podcast AI is taking First Nations art and turning it into “Temu slop”, the Pitjantjatjara artist Sally Scales has said. Scales, the chair of the National Gallery of Australia’s First Nations advisory group, says the technology is undermining the agency of First Nations artists and the authenticity of t",
    "published": "2026-11-01T14:00:13.000Z"
   },
   {
    "region": "World",
-   "source": "The Guardian",
-   "title": "Jacinda Ardern in Sydney Opera House talk advises politicians to ‘rebuild trust by building financial security’",
-   "summary": "Former New Zealand prime minister has moved to Australia and is lecturing at University of Sydney – and from stage of city’s famous landmark Jacinda Ardern, who now calls Sydney home, has delivered a message to Australian politicians from the stage of the city’s Opera House. Politicians, the former New Zealand prime minister turned academic told the audience on Sunday, were exacerbating the problem of polarisation within society and needed to be better. Continue reading...",
-   "published": "2026-11-01T06:53:22.000Z"
+   "source": "DW",
+   "title": "Russia's giant new radar in Kaliningrad raises alarm in NATO",
+   "summary": "Russia is nearing completion of what experts think is a giant radar complex in Kaliningrad, capable of monitoring much of Europe. Experts warn the project could intensify the military standoff between Moscow and NATO.",
+   "published": "2026-11-01T20:34:00.000Z"
   },
   {
    "region": "World",
-   "source": "The Guardian",
-   "title": "Rachel Reeves says UK’s future is in EU as she backs Andy Burnham on Brexit",
-   "summary": "Former chancellor says leaving European Union has made Britain ‘poorer, weaker and less secure’ The former chancellor Rachel Reeves has argued Britain’s future should be back in the European Union, saying Brexit has made the UK “poorer, weaker and less secure”. In her first major intervention since leaving the Treasury when Andy Burnham took office, she said those forging a path back towards EU membership had to make compelling arguments to the public. Continue reading...",
-   "published": "2026-11-01T09:55:20.000Z"
+   "source": "DW",
+   "title": "Ethnic Germans in Kazakhstan face legacy of the Soviet Union",
+   "summary": "Kazakhstan is struggling to deal with the legacy of the Soviet dictatorship. Some 85 years ago, Stalin deported hundreds of thousands of people: Some 400,000 ethnic Germans living in the USSR were sent to Kazakhstan.",
+   "published": "2026-11-01T13:00:00.000Z"
+  },
+  {
+   "region": "World",
+   "source": "DW",
+   "title": "Biological weapons: The weaponization of disease",
+   "summary": "Biological weapons are prohibited under international law. But new developments in biotech and AI are a cause for concern. DW addresses some of the most important questions about their history, risks, and control.",
+   "published": "2026-11-01T12:25:00.000Z"
   },
   {
    "region": "World",
@@ -291,65 +319,72 @@
   {
    "region": "World",
    "source": "France 24",
-   "title": "French high school blockades to restart on Monday, student unions say",
-   "summary": "The head of a student union said Sunday that high school blockades throughout France would restart on Monday. French President Emmanuel Macron has called for classes to resume after the government announced new measures to address the ongoing education crisis which student groups found insufficient.",
-   "published": "2026-11-01T14:31:49.000Z"
+   "title": "French presidential candidate Édouard Philippe rejects centre-right primary",
+   "summary": "French presidential candidate and former Prime Minister Édouard Philippe ruled out competing in a primary Sunday, following a proposal made last week by his rival Gabriel Attal to organize a vote to select a single centre-right candidate.",
+   "published": "2026-11-01T21:51:36.000Z"
   },
   {
    "region": "World",
    "source": "France 24",
-   "title": "US Midterms: Democrats face leftward surge",
-   "summary": "As Democrats seek to regain control of Congress, divisions within the party are emerging over its future direction. A new wave of progressive candidates is pushing to shift priorities further to the left, challenging corporate money in politics and calling for universal healthcare, climate action and an end to police violence. Monte Francis reports.",
-   "published": "2026-11-01T13:56:18.000Z"
+   "title": "UN’s peacekeeping mission in disputed Western Sahara ends after 35 years",
+   "summary": "The 35-year-old UN peacekeeping mission ⁠in the disputed Western ​Sahara region came to an end Sunday after the Security Council failed to ​renew its mandate. Morocco, which claims the region as its own, welcomed the decision, while its opponents from the Algeria-backed Polisario Front called it \"unacceptable\".",
+   "published": "2026-11-01T20:37:45.000Z"
   },
   {
    "region": "World",
    "source": "France 24",
-   "title": "Poland rocked by Constitutional showdown",
-   "summary": "Poland’s constitutional crisis deepened on Saturday as the European Commission urged President Karol Nawrocki to recognise new judges appointed by Prime Minister Donald Tusk. The standoff comes ahead of next year’s parliamentary election, with polls suggesting a close race between Tusk’s coalition and the nationalist right. Camille Corcoran reports.",
-   "published": "2026-11-01T13:41:40.000Z"
+   "title": "Michigan ‘Betrayal’ & Mid Term Manouvres",
+   "summary": "France 24’s Spotlight Presenter Gavin Lee assesses the last minute campaign dramas and takes an US election overview on the ‘must watch states’ alongside Professor Donald Green, Professor of Political Science at Columbia University and co-author of the definitive book ‘Get Out the Vote’, and foreign affairs analyst Laurie Dundon, who previously served in the U.S. State Department during the Clinton administration.",
+   "published": "2026-11-01T19:37:52.000Z"
   },
   {
    "region": "World",
    "source": "France 24",
-   "title": "France: Route du Rhum fleet ready to depart",
-   "summary": "The Route du Rhum, billed as the world’s biggest solo transatlantic race, is set to depart from Saint-Malo in Brittany. Skippers will sail alone to Guadeloupe, with professionals and amateur sailors competing in the race, held every four years. Selina Sykes reports.",
-   "published": "2026-11-01T13:12:44.000Z"
+   "title": "France: Route du Rhum yacht race sets off",
+   "summary": "The 115 sailors competing in the Route du Rhum set sail from Saint-Malo on Sunday in mild weather, embarking on a solo transatlantic crossing. The race began at 12:02 GMT, with boats heading along the Brittany coast in light winds towards a mandatory checkpoint near Cap Fréhel, where crowds had gathered to watch. One competitor, Nicolas d’Estais, described the conditions as ideal before boarding his yacht, Café Joyeux. Selina Sykes reports from Saint-Malo.",
+   "published": "2026-11-01T17:46:04.000Z"
   },
   {
    "region": "World",
    "source": "France 24",
-   "title": "The week in pictures: Lula's victory, Israeli elections and Spain train crash",
-   "summary": "From Luiz Inacio Lula da Silva's reelection in Brazil's presidential polls, to razor-sharp margins in the Israeli general elections, to a deadly high-speed train collision in Spain, FRANCE 24 looks back at some of the most striking images from the past week.",
-   "published": "2026-11-01T11:14:42.000Z"
+   "title": "Thousands join Indian opposition protest",
+   "summary": "India’s opposition parties staged major protests in New Delhi on Sunday against Prime Minister Narendra Modi’s government and a nationwide voter list review that has fuelled demonstrations since the summer, led by the youth movement Cockroach Janta Party. Eliza Herbert reports.",
+   "published": "2026-11-01T17:45:20.000Z"
   },
   {
    "region": "World",
    "source": "France 24",
-   "title": "A day of celebration in Senegal as the Youth Olympic Games get underway",
-   "summary": "It is a historic day for Africa and Senegal. For the first time ever, an Olympic competition is being held on African soil. The Youth Olympic Games officially got underway in Senegal in the Dakar region on Saturday, with an opening ceremony attended by 30,000 people. The competition, which brings together 2,700 athletes aged between 14 and 17, will take place across three Senegalese cities, with 25 sports on the programme.",
-   "published": "2026-11-01T11:14:31.000Z"
+   "title": "Oleshky: Evacuations during first humanitarian truce of war end",
+   "summary": "A successful evacuation. Residents of the city of Oleshky who had requested to be evacuated were reunited with their loved ones in Ukraine on Saturday, October 31. The city, located on the front line and under Russian occupation, is facing a humanitarian crisis, with civilians lacking even the most basic necessities. A localised ceasefire has been in place since Tuesday. France 24 correspondent Emmanuelle Chaze shares the latest.",
+   "published": "2026-11-01T17:44:51.000Z"
   },
   {
    "region": "World",
    "source": "France 24",
-   "title": "Senegal hosts first Olympic event on African continent",
-   "summary": "Youth Olympics make history with first African Games in over 130 years, opened by Senegal’s president in Dakar. 136 Senegalese athletes are competing, supported by 6,000 local volunteers.",
-   "published": "2026-11-01T09:58:13.000Z"
+   "title": "France reports largely peaceful protests",
+   "summary": "France sees third consecutive weekend of protests over living costs and education, with more than 320,000 people taking to the streets. Most demonstrations remained peaceful, although police used tear gas to disperse clashes. Authorities reported more than 770 arrests nationwide. France24 journalist Jamie Smith-Maillet shares further insights.",
+   "published": "2026-11-01T15:50:06.000Z"
   },
   {
    "region": "World",
    "source": "France 24",
-   "title": "Youth Olympic Games kick off in Dakar",
-   "summary": "The 2026 Youth Olympic Games have officially kicked off in Senegal. Crowds gathered for Saturday's opening ceremony, featuring hundreds of drummers and dancers celebrating Senegalese and wider African culture, in keeping with the Games' motto: “Africa welcomes, Dakar celebrates”. It is the first-ever Olympic sporting event to be held on the African continent, but comes as Senegal faces an economic crisis. The country's president has said he wants to turn sport into an “economic and social engine",
-   "published": "2026-11-01T09:49:04.000Z"
+   "title": "Data centres on the ballot: could the AI infrastructure shape US midterms?",
+   "summary": "Voters from Ohio to Illinois decide dozens of local measures on Tuesday, as opposition to the giant buildings powering AI cuts across party lines.",
+   "published": "2026-11-01T15:11:28.000Z"
+  },
+  {
+   "region": "World",
+   "source": "Africanews",
+   "title": "In Lome, a soviet-era sport celebrates Togo-Russia ties",
+   "summary": "Sambo began in the USSR and takes its name from a Russian expression meaning \"unarmed self-defense\"",
+   "published": "2026-11-01T16:34:18.000Z"
   },
   {
    "region": "World",
    "source": "Africanews",
    "title": "Hundreds march in Johannesburg to celebrate LGBTQ+ pride in South Africa",
    "summary": "Hundreds of people took to the streets of Sandton on Saturday to celebrate South Africa’s Pride parade, one of Africa’s largest annual celebrations of inclusivity",
-   "published": "2026-11-01T14:58:18.000Z"
+   "published": "2026-11-01T15:01:28.000Z"
   },
   {
    "region": "World",
