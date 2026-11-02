@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T23:32:16.770Z",
+ "updatedAt": "2026-11-02T05:54:28.352Z",
  "items": [
   {
    "region": "Ghana",
@@ -72,46 +72,11 @@
    "published": "2026-11-01T13:30:00.000Z"
   },
   {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "Judicial Service appeals to JUSAG members to suspend strike",
-   "summary": "Management of the Judicial Service has appealed to members of the Judicial Service Staff Association of Ghana (JUSAG) to return to work while negotiations continue over the 2026 salary review.",
-   "published": "2026-11-01T11:13:16.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "TV3’s Ibrahim Abubakari Wangara bags double at Upper West GJA awards, takes career tally to four",
-   "summary": "TV3 Upper West Regional Correspondent, Ibrahim Abubakari Wangara, has emerged as one of the biggest winners at the 2nd Upper West Regional Ghana Journalists Association (GJA) Awards, clinching two prestigious awards for his outstanding contributions to journalism.",
-   "published": "2026-11-01T10:55:38.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "JUSAG to honour meeting with government but refuses to compromise on strike demands",
-   "summary": "The Judicial Service Staff Association of Ghana (JUSAG) has said it will honour an invitation to a meeting with government to discuss its ongoing strike, but insists it will not compromise on the demands that prompted the industrial action.",
-   "published": "2026-11-01T09:56:47.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "Techiman SHS teacher-student violent incident referred to GES for urgent investigation - Apaak",
-   "summary": "Deputy Minister for Education, Dr. Clement Abas Apaak has disclosed that the violent incident at Techiman Senior High Technical School (SHTS) involving some teachers and a student has been referred to the Ghana Education Service (GES) for investigation.",
-   "published": "2026-11-01T09:43:53.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "Galamsey fight: NAIMOS boss holds talks with Amenfi West MP to deepen collaboration in tackling illegal mining",
-   "summary": "The Director of Operations of the National Anti-Illegal Mining Operations Secretariat (NAIMOS), Colonel K. S. Appiah, has held talks with the Member of Parliament for Amenfi West, Dr Eric Afful, to deepen stakeholder collaboration in the fight against illegal mining.",
-   "published": "2026-11-01T09:39:12.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "President Mahama sets 5 priorities for reparations talks with UK",
-   "summary": "President Mahama has welcomed UK PM Andy Burnham’s openness to a formal apology and listed five reparations priorities, from restitution to global debt reform.",
-   "published": "2026-11-01T09:38:17.000Z"
+   "region": "World",
+   "source": "BBC News",
+   "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+   "summary": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
+   "published": "2026-11-02T01:18:27.000Z"
   },
   {
    "region": "World",
@@ -123,9 +88,23 @@
   {
    "region": "World",
    "source": "BBC News",
+   "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+   "summary": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
+   "published": "2026-11-02T01:45:42.000Z"
+  },
+  {
+   "region": "World",
+   "source": "BBC News",
    "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
    "summary": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
    "published": "2026-11-01T17:06:32.000Z"
+  },
+  {
+   "region": "World",
+   "source": "BBC News",
+   "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+   "summary": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
+   "published": "2026-11-02T00:15:30.000Z"
   },
   {
    "region": "World",
@@ -137,13 +116,6 @@
   {
    "region": "World",
    "source": "BBC News",
-   "title": "Shops looted as German cost-of-living protests turn violent",
-   "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
-   "published": "2026-11-01T11:57:48.000Z"
-  },
-  {
-   "region": "World",
-   "source": "BBC News",
    "title": "Armed police start patrols in Sydney after Bondi Beach attack",
    "summary": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
    "published": "2026-11-01T17:56:47.000Z"
@@ -151,79 +123,65 @@
   {
    "region": "World",
    "source": "BBC News",
-   "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-   "summary": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
-   "published": "2026-11-01T21:16:45.000Z"
-  },
-  {
-   "region": "World",
-   "source": "BBC News",
-   "title": "India's opposition holds mega rally seeking election chief's resignation",
-   "summary": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
-   "published": "2026-11-01T07:00:55.000Z"
-  },
-  {
-   "region": "World",
-   "source": "BBC News",
-   "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-   "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
-   "published": "2026-11-01T13:11:37.000Z"
+   "title": "Shops looted as German cost-of-living protests turn violent",
+   "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+   "published": "2026-11-01T11:57:48.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Why governors’ races are important in the 2026 US midterms",
-   "summary": "Historic turnover in this election will allow dozens of states to vote on significant changes in leadership.",
-   "published": "2026-11-01T23:24:56.000Z"
+   "title": "Write-In Ralph: South Carolina Republicans challenge Trump’s Senate pick",
+   "summary": "As Trump supports Senator Darline Graham, one conservative group is rallying around someone else.",
+   "published": "2026-11-02T04:31:02.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "UN warns of security risks in Western Sahara as peacekeeping mission ends",
-   "summary": "The mission, known as MINURSO, has been in place in the disputed region since a ceasefire in 1991.",
-   "published": "2026-11-01T23:19:51.000Z"
+   "title": "Bulgaria has its first elected female president",
+   "summary": "Iliana Iotova has won Bulgaria’s presidential runoff, becoming the country’s first elected female president.",
+   "published": "2026-11-02T04:25:56.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "High-ranking US Democratic senator suffers stroke",
-   "summary": "Senator Chris Murphy, a fierce Trump critic who is not up for re-election in the midterms, is 'alert' after a stroke.",
-   "published": "2026-11-01T22:32:54.000Z"
+   "title": "Trump leans into Islamophobia and conspiracy in last-ditch campaign rallies",
+   "summary": "Trump attacks Muslim politicians Abdul El-Sayed and Ilhan Omar in his two last rallies on the campaign trail.",
+   "published": "2026-11-02T04:08:54.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
-   "summary": "Moscow and Kyiv continue strikes elsewhere, but no reported violations in Kherson region during the six-day ceasefire.",
-   "published": "2026-11-01T22:15:14.000Z"
+   "title": "US midterms: What to know about independent voters and candidates",
+   "summary": "Despite a record number of independents, third-party candidates and voters struggle to penetrate the two-party system.",
+   "published": "2026-11-02T03:53:42.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Democrat Haley Stevens heckled as she backs El-Sayed rival",
-   "summary": "US Democrat Haley Stevens from Michigan was heckled as a ‘traitor’, after endorsing Republican Mike Rogers.",
-   "published": "2026-11-01T21:29:43.000Z"
+   "title": "Kimi Antonelli becomes Formula One’s youngest world champion in Mexico City",
+   "summary": "Italian wonderkid wins drivers' championship at 20 years and 68 days, finishing third at the Mexico City Grand Prix.",
+   "published": "2026-11-02T03:51:57.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Thousands displaced from Hebron as Israel carries on siege",
-   "summary": "Almost 5,000 people have been displaced as a result of Israel’s military siege on the city of Hebron in the West Bank.",
-   "published": "2026-11-01T21:28:47.000Z"
+   "title": "Muhammad Ali’s daughter and grandson endorse El-Sayed",
+   "summary": "Daughter of the late champion boxer Muhammad Ali, and her son, have endorsed Abdul El-Sayed’s runs for the US Senate",
+   "published": "2026-11-02T03:17:41.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Carney signals progress on Canada-US trade deal talks as midterms loom",
-   "summary": "Canadian PM Mark Carney announces progress in Canada-US trade deal talks ahead of Tuesday's US midterm elections.",
-   "published": "2026-11-01T21:01:33.000Z"
+   "title": "El-Sayed dismisses Stevens’ backing of Republican Senate candidate",
+   "summary": "El-Sayed dismisses Stevens’ backing of Republican Senate candidate",
+   "published": "2026-11-02T02:41:40.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Why did Democrat Haley Stevens just endorse a Republican for US Senate?",
-   "summary": "Stevens’s endorsement of Mike Rogers comes after a bitter dispute with Democratic nominee Abdul El-Sayed.",
-   "published": "2026-11-01T21:00:52.000Z"
+   "title": "Russia, Ukraine air raid alert apps hit by cyberattacks after truce ends",
+   "summary": "Ukrainian users receive fake warnings of nuclear threats, while Moscow reports 'false information' on its app.",
+   "published": "2026-11-02T01:40:50.000Z"
   },
   {
    "region": "World",
@@ -242,15 +200,29 @@
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "Binance resumes customer withdrawals after record $6.3bn hack",
-   "summary": "Cryptocurrency exchange says 90% of losses covered as FBI blames North Korean state-sponsored group TraderTraitor The cryptocurrency exchange Binance has started to allow its customers to withdraw their funds from the platform, as it recovers from a record $6.3bn (£4.7bn) hack. The exchange was hit by the theft on Thursday, which has since been described as the biggest heist in history, with experts identifying North Korea as the likely culprit. Continue reading...",
-   "published": "2026-11-01T11:54:23.000Z"
+   "title": "‘I want to slap you around a bit, too’: Victorian magistrate reprimanded over language in court",
+   "summary": "Judicial commission finds against Vicky Prapas over a series of comments, including one made when school children were present Get our breaking news email , free app or daily news podcast A magistrate who told a court user “I want to slap you around a bit, too” has come under fire for her offensive and inappropriate language. The remark was one of several made by Victorian magistrate Vicky Prapas that the state’s judicial watchdog has found to be inappropriate. Continue reading...",
+   "published": "2026-11-02T04:05:01.000Z"
   },
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "Nationals leader Matt Canavan to run for lower house seat in possible showdown with One Nation’s James Ashby",
-   "summary": "Tilt comes after Michelle Landry announced she will not recontest her Queensland seat of Capricornia Get our daily political email , free app or daily news podcast The Nationals leader, Matt Canavan, will run in a lower house Queensland seat at the next federal election, in a move that may see him face off with Pauline Hanson’s national director. The announcement follows the retirement of the Capricornia MP Michelle Landry, and could result in a contest against James Ashby in a major battle for ",
+   "title": "Million-dollar fish caught by Darwin man ‘just fishing and talking’ at night with brother",
+   "summary": "‘I’m just happy to catch fish,’ Matthew Maurice says after landing 80cm barramundi as part of Northern Territory competition Get our breaking news email , free app or daily news podcast A Darwin man is $1m richer after angling an 80cm, red-tagged barramundi during a night-time fishing trip with his brother. Matthew Maurice, a 26-year-old from the Northern Territory, had finished football training and decided to take a boat out on Thursday evening with his sibling, who was visiting from overseas.",
+   "published": "2026-11-02T03:45:51.000Z"
+  },
+  {
+   "region": "World",
+   "source": "The Guardian",
+   "title": "Police use facial recognition to scan one million faces in WA trial leading to 122 arrests",
+   "summary": "Deployments of surveillance vans over five months result in nine false alerts and led officers to engage with 146 registered sex offenders Get our breaking news email , free app or daily news podcast More than a million people have had their faces scanned in a trial of real-time facial recognition technology in Western Australia, resulting in 122 arrests and nine incorrect alerts. WA police said under the five-month trial, which concluded on Saturday, the technology scanned 1,380,882 faces after",
+   "published": "2026-11-02T02:02:34.000Z"
+  },
+  {
+   "region": "World",
+   "source": "The Guardian",
+   "title": "Pauline Hanson and James Ashby rule out running against Nationals leader Matt Canavan in Capricornia",
+   "summary": "‘My political career may die,’ senator says after Michelle Landry announced she will not recontest her Queensland seat of Capricornia Get our daily political email , free app or daily news podcast The Nationals leader, Matt Canavan, will run for a lower house Queensland seat at the next federal election but will avoid having to face off against a key One Nation figure. Canavan confirmed his bid following the announcement that Capricornia MP Michelle Landry will retire, leading to speculation it ",
    "published": "2026-11-01T23:05:05.000Z"
   },
   {
@@ -263,23 +235,9 @@
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "House prices fall for seventh consecutive month as interest rates dent demand",
-   "summary": "Centre of downturn shifts away from Sydney and Melbourne, but after such strong growth most homeowners still sit on sizeable gains Get our breaking news email , free app or daily news podcast Australian home values have dropped for a seventh consecutive month, with prices in the capital cities now falling at the fastest pace in 40 years as rising mortgage rates scare off buyers. Cotality data shows the centre of the downturn is also shifting away from Sydney and Melbourne towards the mid-sized s",
-   "published": "2026-11-01T14:00:18.000Z"
-  },
-  {
-   "region": "World",
-   "source": "The Guardian",
-   "title": "Former NSW Liberal leads overhaul of One Nation candidate selection process",
-   "summary": "Exclusive: Mark Jones, once on track for one of the Liberal party’s most powerful roles, is now instrumental in One Nation’s expansion Get our daily political email , free app or daily news podcast In 2023, a young and ambitious Liberal moderate was on the brink of securing one of the most powerful roles in the party: state director of the New South Wales branch. Three years later, he is playing a key role in selecting and vetting One Nation candidates determined to beat his former colleagues. M",
-   "published": "2026-11-01T14:00:15.000Z"
-  },
-  {
-   "region": "World",
-   "source": "The Guardian",
-   "title": "AI is stealing Indigenous Australian art and churning out ‘Temu slop’, artist says",
-   "summary": "Chair of National Gallery’s First Nations advisory group says the technology is undermining artists’ agency and the authenticity of their work Get our breaking news email , free app or daily news podcast AI is taking First Nations art and turning it into “Temu slop”, the Pitjantjatjara artist Sally Scales has said. Scales, the chair of the National Gallery of Australia’s First Nations advisory group, says the technology is undermining the agency of First Nations artists and the authenticity of t",
-   "published": "2026-11-01T14:00:13.000Z"
+   "title": "Spain train crash: US, Japan and Canada citizens among dead, authorities say",
+   "summary": "The train disaster, one of Europe’s deadliest rail incidents this century, killed 69 people, including 54 Spaniards Four US citizens and one each from Canada, Japan, Argentina, Mexico, Tunisia and the Czech Republic were among the 69 killed in last week’s high-speed train collision in Spain, authorities said. Wednesday’s disaster – one of Europe’s deadliest rail accidents this century – has seen victims’ relatives endure an agonising wait as forensics teams identify the dead, sometimes from indi",
+   "published": "2026-11-02T01:06:13.000Z"
   },
   {
    "region": "World",
@@ -304,17 +262,31 @@
   },
   {
    "region": "World",
-   "source": "DW",
-   "title": "Donald Trump loses allies after elections in Serbia and Brazil",
-   "summary": "Flavio Bolsonaro failed to gain power, Aleksandar Vucic was voted out of office, and even Benjamin Netanyahu's position has weakened. An unhappy US President Trump is crying electoral fraud.",
-   "published": "2026-11-01T08:11:00.000Z"
+   "source": "France 24",
+   "title": "Russia and Ukraine accuse each other of hacking emergency alert apps",
+   "summary": "Russia and Ukraine accused each other of hacking their emergency alert applications as a local ceasefire in the war's eastern Kherson region expired on Sunday. The cyberattacks came as both sides warned of renewed fighting and Kyiv signalled it could halt strikes on Russian oil refineries in exchange for US Patriot missiles.",
+   "published": "2026-11-02T01:20:44.000Z"
   },
   {
    "region": "World",
-   "source": "DW",
-   "title": "FBI says North Korea behind $6 billion Binance crypto theft",
-   "summary": "The FBI said the theft was tied to \"malicious cyber activity\" by an entity known as TraderTraitor, the same actors behind a $1.5 billion Bybit hack last year.",
-   "published": "2026-11-01T07:33:00.000Z"
+   "source": "France 24",
+   "title": "Halloween weekend shootings across US leave at least six dead, dozens wounded",
+   "summary": "A spate of shootings in nightlife districts and near university campuses across the United States over Halloween weekend left at least six people dead and dozens wounded, with Dallas recording the highest toll. Police were investigating multiple incidents in several states, while some suspects remained at large.",
+   "published": "2026-11-02T00:49:01.000Z"
+  },
+  {
+   "region": "World",
+   "source": "France 24",
+   "title": "Iran warns renewed war with US could outlast previous conflict",
+   "summary": "Iran warned on Sunday that a renewed war with the United States could last longer than the previous conflict, as President Donald Trump suggested Washington still had targets to strike. Tehran threatened retaliation without geographical limits while diplomatic efforts continued to avert a fresh escalation ahead of Tuesday's US midterm elections.",
+   "published": "2026-11-02T00:23:23.000Z"
+  },
+  {
+   "region": "World",
+   "source": "France 24",
+   "title": "Nine killed as business jet crashes into South Florida neighbourhood",
+   "summary": "A business jet plunged into a South Florida neighbourhood on Sunday, killing all nine people aboard and exploding into a fireball near homes and a busy road. The pilot had reported icing, precipitation and severe turbulence before the Learjet entered a steep dive, according to air traffic control recordings.",
+   "published": "2026-11-01T23:45:08.000Z"
   },
   {
    "region": "World",
@@ -346,31 +318,10 @@
   },
   {
    "region": "World",
-   "source": "France 24",
-   "title": "Thousands join Indian opposition protest",
-   "summary": "India’s opposition parties staged major protests in New Delhi on Sunday against Prime Minister Narendra Modi’s government and a nationwide voter list review that has fuelled demonstrations since the summer, led by the youth movement Cockroach Janta Party. Eliza Herbert reports.",
-   "published": "2026-11-01T17:45:20.000Z"
-  },
-  {
-   "region": "World",
-   "source": "France 24",
-   "title": "Oleshky: Evacuations during first humanitarian truce of war end",
-   "summary": "A successful evacuation. Residents of the city of Oleshky who had requested to be evacuated were reunited with their loved ones in Ukraine on Saturday, October 31. The city, located on the front line and under Russian occupation, is facing a humanitarian crisis, with civilians lacking even the most basic necessities. A localised ceasefire has been in place since Tuesday. France 24 correspondent Emmanuelle Chaze shares the latest.",
-   "published": "2026-11-01T17:44:51.000Z"
-  },
-  {
-   "region": "World",
-   "source": "France 24",
-   "title": "France reports largely peaceful protests",
-   "summary": "France sees third consecutive weekend of protests over living costs and education, with more than 320,000 people taking to the streets. Most demonstrations remained peaceful, although police used tear gas to disperse clashes. Authorities reported more than 770 arrests nationwide. France24 journalist Jamie Smith-Maillet shares further insights.",
-   "published": "2026-11-01T15:50:06.000Z"
-  },
-  {
-   "region": "World",
-   "source": "France 24",
-   "title": "Data centres on the ballot: could the AI infrastructure shape US midterms?",
-   "summary": "Voters from Ohio to Illinois decide dozens of local measures on Tuesday, as opposition to the giant buildings powering AI cuts across party lines.",
-   "published": "2026-11-01T15:11:28.000Z"
+   "source": "Africanews",
+   "title": "Spain’s El Hierro grapples with rising migrant arrivals",
+   "summary": "Nearly 3,000 migrants have reached the island of El Hierro, in Spain’s Canary Islands, since the beginning of October. The small Atlantic island, home to around 11,000 people, is facing a sharp increase in arrivals along the Atlantic migration route.",
+   "published": "2026-11-02T05:40:52.000Z"
   },
   {
    "region": "World",
@@ -392,27 +343,6 @@
    "title": "Africa suffering in 'strongmen' era: governance watchdog Mo Ibrahim",
    "summary": "The Mo Ibrahim Foundation's latest report, finds broad progress on economic opportunity and human development over the past decade, but also steep declines in security, human rights and public participation",
    "published": "2026-11-01T14:02:27.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Africanews",
-   "title": "Migrants find shelter in Cyprus as EU slows admissions",
-   "summary": "Most migrants arrived from Somalia, Sudan, Yemen, Cameroon, Congo, Syria and Burundi, according to center officials",
-   "published": "2026-11-01T11:13:21.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Africanews",
-   "title": "Youth Olympics open in Senegal marking the first Olympic event in Africa",
-   "summary": "The Youth Olympic Games opened in Senegal on Saturday, marking the first Olympic event in Africa as the continent seeks a bigger role in international sports competitions",
-   "published": "2026-11-01T09:55:34.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Africanews",
-   "title": "Cape Verde president rallies supporters as campaigns kick off",
-   "summary": "Hundreds of Supporters of Cape Verde President Jose Maria Neves cheered him on at a rally in Sao Vicente, as campaigning in the country's presidential election kicked off on Saturday",
-   "published": "2026-11-01T08:12:14.000Z"
   }
  ]
 }
