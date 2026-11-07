@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-06T23:03:21.713Z",
+ "updatedAt": "2026-11-07T02:45:10.946Z",
  "items": [
   {
    "region": "Ghana",
@@ -70,6 +70,13 @@
    "title": "Poor roads not an excuse to delay TrafficTech enforcement – Mahama",
    "summary": "Mahama defends TrafficTech rollout, cites UK example amid road condition concerns",
    "published": "2026-11-06T09:17:49.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "PR expert calls for stronger business structures in Ghana's fashion industry",
+   "summary": "The fashion industry development advocate said limited access to affordable financing, inadequate manufacturing capacity and weak business structures continue to restrict the ability of many local fashion businesses to expand.",
+   "published": "2026-11-06T23:54:05.000Z"
   },
   {
    "region": "Ghana",
@@ -170,13 +177,6 @@
    "published": "2026-11-06T17:17:32.000Z"
   },
   {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "Minority demands probe into digital health systems shutdown",
-   "summary": "The Minority in Parliament has demanded an investigation into the shutdown of the Ghana Health Information Management System (GHIMS) and ten servers by Akamai over an outstanding payment of US$64,510.95.",
-   "published": "2026-11-06T17:00:38.000Z"
-  },
-  {
    "region": "World",
    "source": "BBC News",
    "title": "AI stocks climb after trillions wiped from market values",
@@ -249,13 +249,6 @@
   {
    "region": "World",
    "source": "BBC News Africa",
-   "title": "Somalia's top court rejects president's term extension amid political crisis",
-   "summary": "The country's first nationwide elections since 1969 are due next year - a timetable now thrown into doubt.",
-   "published": "2026-11-06T08:18:10.000Z"
-  },
-  {
-   "region": "World",
-   "source": "BBC News Africa",
    "title": "She lost her sight - now she is fighting to make history for Africa",
    "summary": "After losing her sight in 2009, Nigeria’s Rukayat Suleimon has overcome isolation and limited support to make history as the first blind woman to win gold at the World Sambo Cup.",
    "published": "2026-11-06T11:04:00.000Z"
@@ -270,58 +263,58 @@
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Palestinian couples tie the knot in mass wedding in Gaza",
-   "summary": "The event brought 250 couples together to celebrate love and new beginnings despite Israel’s genocidal war on Gaza.",
-   "published": "2026-11-06T21:37:30.000Z"
+   "title": "CDC reports more than 5,000 measles cases, highest number in 35 years",
+   "summary": "Children and teenagers make up almost 60 percent of confirmed cases.",
+   "published": "2026-11-07T01:55:03.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Who is Stephen Miller, Trump’s new White House chief of staff?",
-   "summary": "Miller has been a close confidant of Trump since 2016 and an architect of the president's hardline immigration policies.",
-   "published": "2026-11-06T21:22:57.000Z"
+   "title": "EU prosecutor office investigates fatal train crash in Spain",
+   "summary": "The EU office carries out probes at Spanish rail network administrator, safety agency and state auditors.",
+   "published": "2026-11-07T01:33:39.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Protesters break into Microsoft data centre site in Amsterdam",
-   "summary": "Data centres face protests across Europe due to the massive amounts of computing power and water they use.",
-   "published": "2026-11-06T21:04:40.000Z"
+   "title": "Pope Leo XIV arrives for South American tour after cancer surgery",
+   "summary": "Pope Leo XIV arrives in Uruguay kicking off a 12-day tour of South America after undergoing lung surgery last month.",
+   "published": "2026-11-07T00:55:51.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Trump promotes Stephen Miller to Chief of Staff ‘to run things well’",
-   "summary": "President Donald Trump has promoted long-time aide Stephen Miller to Chief of Staff, replacing Susie Wiles.",
-   "published": "2026-11-06T20:48:25.000Z"
+   "title": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in",
+   "summary": "The sudden leadership change comes as Paraguay reels from the collapse of the Ueno Bank, a popular lender.",
+   "published": "2026-11-07T00:31:41.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Meghan Markle’s father arrested in US over alleged child sex abuse photos",
-   "summary": "US authorities found sexually explicit photos that appeared to show Thomas Markle with prepubescent girls.",
-   "published": "2026-11-06T20:28:07.000Z"
+   "title": "MTG warns Miller-Wiles shakeup will sink Republican chances in 2028",
+   "summary": "Marjorie Taylor Greene says Trump's White House personnel shuffle will sink the party’s next presidential campaign.",
+   "published": "2026-11-07T00:21:49.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Migrants arrive in Spain’s Canary Islands after being rescued at sea",
-   "summary": "More than 3,200 migrants were rescued in the first six days of November in Canary Islands, Spain.",
-   "published": "2026-11-06T20:27:09.000Z"
+   "title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
+   "summary": "Qatar's prime minister urges the US and Iran not to wait for a 'perfect moment' to reach a deal to end the war.",
+   "published": "2026-11-07T00:00:00.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Pope Leo arrives in Uruguay starting 12-day Latin America tour",
-   "summary": "The 71-year-old pontiff is visiting three countries despite undergoing surgery to remove a tumour last month.",
-   "published": "2026-11-06T20:22:22.000Z"
+   "title": "New Zealanders head to polls on final day of voting",
+   "summary": "More than half of New Zealand’s voters cast early ballots in the tightly contested race.",
+   "published": "2026-11-06T23:48:01.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "How ‘Street Medics’ protect French protesters",
-   "summary": "French authorities are investigating more than a hundred cases of alleged police misconduct at cost of living protests.",
-   "published": "2026-11-06T20:17:32.000Z"
+   "title": "EU tells TikTok to fix ‘harmful’ For You feed, threatens fines",
+   "summary": "TikTok's algorithm 'leading users down rabbit holes they cannot easily escape from', European Commission says.",
+   "published": "2026-11-06T23:33:28.000Z"
   },
   {
    "region": "World",
@@ -336,6 +329,13 @@
    "title": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
    "summary": "Former liberation movement’s share of national vote almost 14 percentage points below 2021 result The African National Congress is on course to suffer a bruising defeat in South Africa’s local elections, with the once dominant party of Nelson Mandela falling to under a third of the vote nationally with more than 80% of ballots counted. Wednesday’s fragmented vote marks another stage in the decline of the ANC, which has led national governments since the end of white minority apartheid rule in 19",
    "published": "2026-11-06T12:48:37.000Z"
+  },
+  {
+   "region": "World",
+   "source": "The Guardian",
+   "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
+   "summary": "Santiago Peña was detained minutes after he was impeached by Congress, as protesters took to the streets demanding answers after the suspension of the Ueno bank Paraguay’s rightwing president has been placed under house arrest minutes after he was impeached by Congress, amid a severe crisis that left more than half the country’s population unable to access their bank accounts. Santiago Peña is being investigated about allegations he used his political influence to favour a bank that expanded exp",
+   "published": "2026-11-07T01:55:11.000Z"
   },
   {
    "region": "World",
@@ -361,13 +361,6 @@
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
-   "summary": "Santiago Peña’s rightwing administration had authorised Ueno Bank to drastically expand operations before collapse Paraguay’s rightwing president, Santiago Peña, resigned on Thursday after a political and financial crisis collapsed the South American country’s banking system in recent days. At the centre of the crisis is Ueno Bank, which in just a few years under Peña went from an obscure digital bank to one of the country’s largest lenders, claiming to have about 60% of Paraguay’s adult populat",
-   "published": "2026-11-06T06:16:22.000Z"
-  },
-  {
-   "region": "World",
-   "source": "The Guardian",
    "title": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
    "summary": "Asian and European markets follow US tech rout with many analysts predicting more waves of selling to come European and Asian stock markets fell sharply on Friday after the Democrats’ decisive victory in the midterms triggered a rout in US tech stocks a day earlier. A sell-off on Wall Street on Thursday was followed by sharp falls in Asian stock markets on Friday. The investor sentiment then reached London, where the market was, at one stage, poised for its worst day since March. Continue readin",
    "published": "2026-11-06T21:23:54.000Z"
@@ -375,9 +368,9 @@
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "Anti-fire ant eradication activist convicted after using legal arguments ‘similar to sovereign citizens’",
-   "summary": "Legal expert compares Trevor Hold’s failed defence to ‘tried and tested argument’ used by sovereign citizen movement Get our breaking news email , free app or daily news podcast The Queensland leader of a group opposing the eradication of fire ants in Australia has been convicted of obstructing government officers, after a magistrate threw out his argument that the commonwealth-funded program is illegal. Trevor Hold was fined $1,500 but a conviction was not recorded. Hold has described himself a",
-   "published": "2026-11-06T14:00:46.000Z"
+   "title": "Ben Roberts-Smith collaborates with gym business run by influencer that sold ‘war crimes’ pre-workout supplement",
+   "summary": "Zero Limits supplements is co-owned by rightwing podcaster and fitness coach Chris Katelaris, also known as ‘Big Chocky’ Get our breaking news email , free app or daily news podcast Ben Roberts-Smith has collaborated with a gym supplements company run by a rightwing influencer which recently sold a pre-workout product called “war crimes”. Roberts-Smith, one of Australia’s most decorated living soldiers who is currently awaiting trial on war crimes charges, has recently launched an apparel brand,",
+   "published": "2026-11-07T00:58:11.000Z"
   },
   {
    "region": "World",
