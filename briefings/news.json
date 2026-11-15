@@ -1,6 +1,13 @@
 {
- "updatedAt": "2026-11-14T22:17:20.745Z",
+ "updatedAt": "2026-11-15T02:35:51.578Z",
  "items": [
+  {
+   "region": "Ghana",
+   "source": "MyJoyOnline",
+   "title": "Daniel Niibi Afotey Odai elected NDC Greater Accra Deputy Youth Organiser",
+   "summary": "Daniel Niibi Afotey Odai has been elected Deputy Regional Youth Organiser of the National Democratic Congress (NDC) in the Greater Accra Region after narrowly defeating three other contenders in the party’s regional executive elections. Niibi secured 45 votes in the election held on Saturday, November 14, 2026, edging his closest challenger, Atsu Eric Afeme, who polled 44 votes. Jones Klutse obtained 32 votes, while Rashid Isah secured eight. The result gives Niibi a new role in the party’s regi",
+   "published": "2026-11-14T22:14:41.000Z"
+  },
   {
    "region": "Ghana",
    "source": "MyJoyOnline",
@@ -94,17 +101,10 @@
   },
   {
    "region": "Ghana",
-   "source": "MyJoyOnline",
-   "title": "Asiedu Nketia urges police to act against vote-buying in party elections",
-   "summary": "The National Chairman of the National Democratic Congress (NDC), Johnson Asiedu Nketia, has urged the police and other security agencies to investigate and take appropriate action against anyone found engaging in criminal conduct during internal political party elections.",
-   "published": "2026-11-14T06:07:45.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "MyJoyOnline",
-   "title": "Asiedu Nketia satisfied with NDC legacy as he prepares to exit chairmanship",
-   "summary": "The National Chairman of the National Democratic Congress (NDC), Johnson Asiedu Nketia, says he is leaving the party in a stronger position than he found it when he assumed office in December 2022.",
-   "published": "2026-11-14T05:31:00.000Z"
+   "source": "Graphic Online",
+   "title": "Danso topples Ashie Moore to take NDC Greater Accra chairmanship",
+   "summary": "The National Democratic Congress (NDC) in the Greater Accra Region has a new helmsman. Benjamin Danso, until now the party's Krowor Constituency Chairman, has wrested the regional chairmanship from Emmanuel Nii Ashie Moore, bringing to a close a tenure that began when the latter unseated Joseph Ade Coker. The result, declared after delegates cast their ballots on Saturday, confounded Mr Ashie Moore's pre-voting optimism. Hours before the count, the incumbent had told interviewers he had no doubt",
+   "published": "2026-11-14T22:20:55.000Z"
   },
   {
    "region": "Ghana",
@@ -193,13 +193,6 @@
   {
    "region": "Ghana",
    "source": "Graphic Online",
-   "title": "The prospects of a Dr Bawumia presidency - Dr John Osae-Kwapong writes",
-   "summary": "The 2028 election is about two years away. Dr Bawumia, the former Vice-President, is the New Patriotic Party’s candidate. What remains unsettled is who will face him for the National Democratic Congress (NDC). I expect the NDC to choose its flag bearer by the end of 2027, which will give observers something more concrete against which to weigh Dr Bawumia’s prospects. A September 2026 poll by Global Info Analytics found that two frequently mentioned NDC contenders, Finance Minister Ato Forson and",
-   "published": "2026-11-14T08:21:04.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "Graphic Online",
    "title": "Sam Jonah makes case for revisiting Acheampong's Union Government idea",
    "summary": "Sir Sam Jonah, Chancellor of the University of Cape Coast, has argued that the question behind General Ignatius Kutu Acheampong's controversial Union Government proposal remains one of the most serious unresolved questions in African governance. Delivering a lecture in honour of the former Head of State on Friday, November 13, 2026, Sir Sam Jonah said that while Acheampong's method of pursuing Union Government was deeply flawed, the underlying question about Ghana's winner-takes-all political sy",
    "published": "2026-11-14T09:14:31.000Z"
@@ -231,6 +224,13 @@
    "title": "NDC goes to polls today to elect regional executives",
    "summary": "Incumbent regional chairpersons face challengers as delegates vote to elect executives to lead the party towards the 2028 elections.",
    "published": "2026-11-14T10:46:07.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "2026 Amputee World Cup: We are coming home as world champions despite Angola defeat – Black Challenge coach",
+   "summary": "Ghana's Black Challenge head coach Richard Stephen Obeng remains confident his side can win the 2026 Amputee Football World Cup despite suffering a 2-0 defeat to Angola in their opening Group D encounter in Mexico on Saturday.",
+   "published": "2026-11-15T02:10:36.000Z"
   },
   {
    "region": "Ghana",
@@ -331,13 +331,6 @@
    "published": "2026-11-14T17:52:41.000Z"
   },
   {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "How Ofori-Atta's first two years compare with Ato Forson's, after Kofi Bentil's claim",
-   "summary": "Bank of Ghana and IMF data show how inflation, the cedi, growth, debt and the policy rate moved in each Finance Minister's first two years.",
-   "published": "2026-11-14T17:52:39.000Z"
-  },
-  {
    "region": "World",
    "source": "BBC News",
    "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
@@ -348,8 +341,8 @@
    "region": "World",
    "source": "BBC News",
    "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-   "summary": "The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin.",
-   "published": "2026-11-14T20:41:45.000Z"
+   "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+   "published": "2026-11-14T22:37:25.000Z"
   },
   {
    "region": "World",
@@ -396,6 +389,13 @@
   {
    "region": "World",
    "source": "BBC News Africa",
+   "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+   "summary": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune.",
+   "published": "2026-11-15T00:06:55.000Z"
+  },
+  {
+   "region": "World",
+   "source": "BBC News Africa",
    "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
    "summary": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
    "published": "2026-11-14T15:42:54.000Z"
@@ -403,58 +403,58 @@
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Ronaldo-less Portugal thrashed 4-1 by Denmark in the Nations League",
-   "summary": "Rasmus Hojlund stars with brace on as Denmark close in on a spot in the Nations League quarterfinals.",
-   "published": "2026-11-14T22:00:45.000Z"
+   "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
+   "summary": "Dismissals follow probe that uncovered illegal oil refineries and smuggling in a region run by Kataib Hezbollah.",
+   "published": "2026-11-15T01:54:55.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "US flights resume after ageing technology blamed for outage",
-   "summary": "US flights resume after ageing technology blamed for outage",
-   "published": "2026-11-14T21:36:19.000Z"
+   "title": "Netanyahu sends plea to Eisenkot for unity government",
+   "summary": "Benjamin Netanyahu has issued a public plea to opposition leader Gadi Eisenkot to form a unity government.",
+   "published": "2026-11-15T01:33:11.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
-   "summary": "Europe's direct engagement with Moscow as part of Ukraine-Russia peace talks is edging closer to becoming a reality.",
-   "published": "2026-11-14T21:10:26.000Z"
+   "title": "Thailand’s elderly kept in cages",
+   "summary": "A nursing home in Thailand, has been accused of keeping dozens of senior residents, in metal cages.",
+   "published": "2026-11-15T01:32:08.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "India’s Assam state demolishes homes of 132 Muslim families",
-   "summary": "Authorities in India’s Assam have demolished the homes of 132 Muslim families.",
-   "published": "2026-11-14T20:14:10.000Z"
+   "title": "SpaceX’s Starship nails a smooth return with historic catch",
+   "summary": "SpaceX Starship made a triumphant return to Earth, caught midair by giant mechanical ‘chopsticks’.",
+   "published": "2026-11-15T01:22:01.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Can being ‘non-Western’ cost you your home in Denmark?",
-   "summary": "Denmark’s Supreme Court is set to rule on whether families can be forced from their homes under a law.",
-   "published": "2026-11-14T19:52:49.000Z"
+   "title": "Israeli air strike kills senior Hamas commander in Gaza",
+   "summary": "Hamas confirms the death of Rafah brigade commander Samir Abu Younis in an attack on Khan Younis on Saturday.",
+   "published": "2026-11-15T01:00:42.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Deadly car bomb blast kills two near Syria’s capital",
-   "summary": "At least two people, a man and a girl, have been killed in a car bomb blast in Jaramana, near Syria's capital Damascus.",
-   "published": "2026-11-14T19:46:36.000Z"
+   "title": "Hundreds of men march in Switzerland to protest violence against women",
+   "summary": "Organisers say men must speak out, as Swiss study finds half of men aged 18 to 24 hold restrictive view of masculinity.",
+   "published": "2026-11-15T00:27:14.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "More than 100,000 rally across France in new Yellow Vest protests",
-   "summary": "Protesters chanted against declining affordability, the Macron government, police violence and poor school conditions.",
-   "published": "2026-11-14T19:46:24.000Z"
+   "title": "SpaceX’s Starship captured by launchpad arms in dramatic first",
+   "summary": "SpaceX officials say catch by mechanical arms shows Starship's full reusability, crucial for rapid, low-cost recycling.",
+   "published": "2026-11-15T00:14:22.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Tens of thousands march in latest Portugal housing protests",
-   "summary": "These were the biggest protests against rising housing costs in Portugal since the social movement began weeks ago.",
-   "published": "2026-11-14T19:27:55.000Z"
+   "title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
+   "summary": "Israel has pledged to continue its 'offensive policy' on Gaza, as fighting in Yemen grips the region.",
+   "published": "2026-11-15T00:00:08.000Z"
   },
   {
    "region": "World",
@@ -473,30 +473,37 @@
   {
    "region": "World",
    "source": "The Guardian",
+   "title": "Katherine Deves among four NSW upper house candidates revealed by One Nation",
+   "summary": "Party’s NSW leader Mike Newman says contenders are ‘people from the real world’ and not ‘career politicians’ Get our breaking news email , free app or daily news podcast The failed federal Liberal candidate Katherine Deves, who campaigned to exclude transgender women from women’s sport, will stand for One Nation at next year’s New South Wales election. Deves was among four NSW Legislative Council candidates announced by One Nation’s NSW leader, Mike Newman, on Sunday. Continue reading...",
+   "published": "2026-11-15T02:13:20.000Z"
+  },
+  {
+   "region": "World",
+   "source": "The Guardian",
+   "title": "Thunderstorms, giant hail and powerful winds forecast for NSW as wild weather hits east coast",
+   "summary": "Volatile weather predicted after storms on Saturday, with a man in his 20s struck by lightning while swimming on NSW Central Coast Get our breaking news email , free app or daily news podcast Dangerous and severe “supercell” thunderstorms with the potential for giant hail and destructive winds were forecast for parts of New South Wales on Sunday, as volatile weather continued in the eastern states over the weekend. Storms dumped heavy rain across large parts of northern and eastern NSW and much ",
+   "published": "2026-11-15T01:52:37.000Z"
+  },
+  {
+   "region": "World",
+   "source": "The Guardian",
+   "title": "David Jones’ future looks grim. Is Myer next?",
+   "summary": "With Myer’s profitability battered and share price languishing near all-time lows, DJs’ slide into administration raises an uncomfortable question Get our breaking news email , free app or daily news podcast When the retailer’s doors slide open, shoppers are greeted by rows of slashed price tags, frantic discounting, and all the other hallmarks of a department store closing down. Except this isn’t David Jones, the embattled upmarket retailer that is shutting half its 38 stores . Continue reading",
+   "published": "2026-11-14T23:00:01.000Z"
+  },
+  {
+   "region": "World",
+   "source": "The Guardian",
    "title": "Even Labor MPs are at a loss over the Victorian premier’s ‘tough love’ plan for youth offenders",
-   "summary": "MPs across factional lines share concerns about policy that legal expert says ‘paints the imprisonment of children as therapeutic’ Get our daily political email , free app or daily news podcast Until December last year, Meena Singh was the Victorian commissioner for Aboriginal children and young people, a role that saw her advocating for some of the state’s most vulnerable children. She had held the role since 2022. In all that time, she says, nobody from the Victorian government had approached ",
+   "summary": "Parliamentarians across factional lines share concerns about policy that legal expert says ‘paints the imprisonment of children as therapeutic’ Get our daily political email , free app or daily news podcast Until December last year, Meena Singh was Victoria’s commissioner for Aboriginal children and young people, a role in which she advocated for some of the state’s most vulnerable children. She had held the role since 2022. In all that time, she says, nobody from the Victorian government had ap",
    "published": "2026-11-14T19:00:53.000Z"
   },
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "Art ‘must not be sacrificed on the altar of corporate profit’ Liberal senator says as AI policy debate rages",
-   "summary": "Andrew McLachlan says he chooses ‘real forests over virtual ones’ as he urges Labor government to consider AI’s impact on artists and environment Get our daily political email , free app or daily news podcast Outspoken Liberal senator Andrew McLachlan has raised the alarm about the approach of his party and the Labor government to AI, urging artists’ copyright not be “sacrificed” for investment and that building new datacentres must not be prioritised above environmental concerns. As Labor consi",
+   "title": "Art ‘must not be sacrificed on the altar of corporate profit’, Liberal senator says as AI policy debate rages",
+   "summary": "Andrew McLachlan says he chooses ‘real forests over virtual ones’ as he urges Labor government to consider AI’s impact on artists and environment Get our daily political email , free app or daily news podcast The outspoken Liberal senator Andrew McLachlan has raised the alarm about the approach of his party and the Labor government to AI, saying artists’ copyright must not be “sacrificed” for investment and building new datacentres must not be prioritised above environmental concerns. As Labor c",
    "published": "2026-11-14T19:00:52.000Z"
-  },
-  {
-   "region": "World",
-   "source": "The Guardian",
-   "title": "Microsoft ‘deeply sorry’ for global outage that could have billion-dollar impact on Australia",
-   "summary": "Experts say disruption exposes ‘Australia’s reliance on foreign technology’ as software giant says services being restored Get our breaking news email , free app or daily news podcast The Microsoft outage could be a disaster for the Australian economy that forces some small businesses to close, with costs expected to run into the billions of dollars, experts have warned. The US software company has said it is “deeply sorry” for a widespread outage that caused disruption to millions of users, org",
-   "published": "2026-11-14T06:19:04.000Z"
-  },
-  {
-   "region": "World",
-   "source": "The Guardian",
-   "title": "US-bound flights out of Australia delayed after telecommunications outage grounded American planes",
-   "summary": "Sydney and Melbourne airports say flights were affected by now-lifted ban on departures in US US flight outage – live updates Get our breaking news email , free app or daily news podcast Some US-bound flights from Sydney airport were grounded or delayed on Saturday after American authorities halted departures and delayed landings at all US airports . Flights from Melbourne airport were also affected, with travel for passengers expected to depart for Los Angeles shortly after 10am being delayed b",
-   "published": "2026-11-14T04:56:06.000Z"
   },
   {
    "region": "World",
@@ -504,13 +511,6 @@
    "title": "How a US extradition bid over Hamas allegations put a wealthy activist before a Spanish court",
    "summary": "James ‘Fergie’ Chambers, a Cox Enterprises heir, faced a two-hour hearing about alleged support for Hamas A two-hour hearing in Spain’s high court Friday on the US extradition request of wealthy leftwing activist and philanthropist James “Fergie” Chambers turned out to be a study in contrasts. Chambers’s defense took most of the session to query the US citizen and detail irregularities in the Trump administration’s extradition request – several of which the Guardian has reported on – as well as ",
    "published": "2026-11-14T15:00:47.000Z"
-  },
-  {
-   "region": "World",
-   "source": "The Guardian",
-   "title": "UK-EU breakthrough will allow airport-style checks at Eurotunnel to avoid border ‘chaos’",
-   "summary": "Eurotunnel owner Getlink wants to replicate ‘airport experience’ at Folkestone and Calais, without making people get out of cars Airport-style passport and fingerprinting controls are to be introduced at Eurotunnel in an attempt to prevent “short-term and long-term chaos” in Folkestone and Calais. In a breakthrough for travellers, the European Commission has agreed to a new system in which an “eagle eye” camera system, already used in Rome and Paris airports to supervise fingerprinting and facia",
-   "published": "2026-11-14T07:00:38.000Z"
   },
   {
    "region": "World",
@@ -556,20 +556,6 @@
   },
   {
    "region": "World",
-   "source": "DW",
-   "title": "Sudan: Misery worsens amid plummeting aid for displaced people",
-   "summary": "Sudan's humanitarian crisis is exacerbated by cuts in international aid. Almost 34 million people are in need as war and drone strikes are making it difficult to deliver aid to the population.",
-   "published": "2026-11-14T08:31:00.000Z"
-  },
-  {
-   "region": "World",
-   "source": "DW",
-   "title": "Turkey uses espionage accusations to pressure government critics",
-   "summary": "The arrest of a German foundation's employee in Istanbul this week has put the focus back on pressure tactics used by the Erdogan administration. The arrest is far from the first of its kind.",
-   "published": "2026-11-14T07:31:00.000Z"
-  },
-  {
-   "region": "World",
    "source": "France 24",
    "title": "SpaceX's Starship completes first-ever mid-air catch after return from orbit",
    "summary": "SpaceX's Starship spacecraft made a successful return to Earth on Saturday, completing its first mid-air catch by giant robot arms in Texas, after an aborted recovery attempt.",
@@ -578,7 +564,7 @@
   {
    "region": "World",
    "source": "France 24",
-   "title": "Netanyahu renews call for Israeli government unity as Eisenkot dismisses 'tricks'",
+   "title": "Netanyahu renews call for Israeli unity government as Eisenkot dismisses 'tricks'",
    "summary": "Israeli caretaker Prime Minister Benjamin Netanyahu on Saturday renewed his call for a national unity government with Gadi Eisenkot, who dismissed the appeal as a political ploy. This comes as the incoming premier is in the midst of negotiations to form a new administration.",
    "published": "2026-11-14T20:35:22.000Z"
   },
@@ -588,6 +574,13 @@
    "title": "Macron says limiting Ukraine aid would pave way to 'another war'",
    "summary": "French President Emmanuel Macron on Saturday warned that limiting aid to Ukraine would force Kyiv into an \"unjust peace\" and risk another war. His statement comes as the United States pushes ahead with efforts to negotiate between Ukraine and Moscow.",
    "published": "2026-11-14T20:15:43.000Z"
+  },
+  {
+   "region": "World",
+   "source": "France 24",
+   "title": "'No justice, no peace': Fifth round of protests sweep across France",
+   "summary": "Between 106,000 and 200,000 people took to the streets across France on Saturday for the fifth round of protests, according to figures from the interior ministry and student unions respectively, as turnout fell and some incidents were reported.",
+   "published": "2026-11-14T18:23:25.000Z"
   },
   {
    "region": "World",
@@ -616,13 +609,6 @@
    "title": "Washington divided over how to deal with fallout from the Nvidia case",
    "summary": "After the fall, the fallout. US government agencies are squabbling after AI leader Jensen Huang stepped down from chips giant Nvidia in disgrace. The Treasury says it wanted to blacklist a Singapore company at the heart of the scandal, but the Commerce Department didn't act. Megaspeed was run by suspected Chinese spy Alice Huang, who reportedly had an affair with Jensen Huang. Details by Peter O'Brien.",
    "published": "2026-11-14T17:21:26.000Z"
-  },
-  {
-   "region": "World",
-   "source": "France 24",
-   "title": "US: What exactly caused the longest nationwide ground stop in 25 years?",
-   "summary": "After a nearly five-hour ground stoppage, flights in the US have resumed. However, officials are warning that it will take days to recover from the ongoing delays related to the incident. Transport Secretary Sean Duffy explained the crisis was due to a failure in ageing telecommunications equipment. What exactly happened? Answers with FRANCE 24 international affairs editor Shirli Sitbon.",
-   "published": "2026-11-14T16:35:52.000Z"
   },
   {
    "region": "World",
@@ -658,13 +644,6 @@
    "title": "DR Congo: At least 44 dead in attack by Islamic State-linked gunmen",
    "summary": "The latest raids by the Allied Democratic Forces come just days after the notoriously brutal group killed 66 people in North Kivu.",
    "published": "2026-11-14T08:45:12.000Z"
-  },
-  {
-   "region": "World",
-   "source": "Africanews",
-   "title": "South Sudanese start registering to vote ahead of first national elections",
-   "summary": "The voter registration operation runs until 28 November ahead of the polls which have been postponed several times since independence in 2011.",
-   "published": "2026-11-14T08:03:55.000Z"
   }
  ]
 }
