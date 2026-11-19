@@ -1,34 +1,6 @@
 {
- "updatedAt": "2026-11-18T21:53:21.436Z",
+ "updatedAt": "2026-11-19T03:19:02.991Z",
  "items": [
-  {
-   "region": "Ghana",
-   "source": "MyJoyOnline",
-   "title": "‘There are no winners or losers’ – Julius Fieve calls for unity after NDC youth election",
-   "summary": "Newly elected Deputy Volta Regional Youth Organiser of the National Democratic Congress (NDC), Julius Karl D. Fieve, has called on party members to unite after the elections and focus on building a stronger youth wing ahead of 2028.",
-   "published": "2026-11-18T05:57:00.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "Graphic Online",
-   "title": "Government to evaluate performance of all 261 MMDCEs",
-   "summary": "The government is to undertake a nationwide performance evaluation of all 261 Metropolitan, Municipal and District Chief Executives (MMDCEs). The exercise, being undertaken on the instructions of President John Dramani Mahama, will also assess citizens' perceptions of the chief executives' performance since they assumed office. The Ministry of Local Government, Chieftaincy and Religious Affairs announced this in a press release dated November 17, 2026, stating that the evaluation would begin imm",
-   "published": "2026-11-18T07:54:36.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "Graphic Online",
-   "title": "NDC vows action against vote-buying",
-   "summary": "The National Democratic Congress (NDC) has pledged to take action against any member found to have engaged in vote-buying during its recent regional executive elections. The party, however, said it was yet to receive a formal complaint on the alleged practice. The party's National Director of Elections and IT, Mahdi Gibrill, who said this in an interview with the Daily Graphic said the NDC did not condone the use of money or other inducements to influence delegates, describing the allegations as",
-   "published": "2026-11-18T08:01:36.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "Graphic Online",
-   "title": "Tackle financial barriers to political participation - CSO to CRIC",
-   "summary": "The Gender Centre for Empowering Development (GenCED) has called on the government and the Constitution Review Implementation Committee (CRIC) to prioritise political-finance reforms in Ghana’s constitutional reform agenda to ensure equitable access to political leadership. It said democratic inclusion would remain elusive if participation in politics continued to depend heavily on personal wealth, financial networks and access to patronage. In a statement issued in response to the government’s ",
-   "published": "2026-11-18T07:58:23.000Z"
-  },
   {
    "region": "Ghana",
    "source": "Starr FM",
@@ -98,6 +70,34 @@
    "title": "NPP’s Abdul Baki questions government’s conflicting explanations on 24-Hour Economy",
    "summary": "NPP communicator questions the policy’s progress, citing inconsistent government explanations and concerns over funding.",
    "published": "2026-11-18T11:17:46.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "2026 Amputee World Cup: Ghana beat USA 3-1 to set up quarterfinal clash with Egypt",
+   "summary": "Ghana's national amputee football team, the Black Challenge, have booked a place in the quarterfinals of the 2026 Amputee Football World Cup in Mexico after defeating the United States of America 3-1 in the Round of 16.",
+   "published": "2026-11-19T00:46:14.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "Wassa Professionals Network demands 10% equity, 2% revenue share in Tarkwa lease renewal",
+   "summary": "As part of their demands they want; “10% free-carried equity held through an accountable Wassa Trust Fund, with voting rights and board seats in mining companies.”",
+   "published": "2026-11-18T22:31:45.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "EMY Africa Awards recognises Kojo Antwi's contribution to music and culture",
+   "summary": "The EMY Africa Awards is an annual awards ceremony founded in 2016 to honour distinguished men and notable personalities across Africa and the diaspora for leadership, excellence, and societal impact.",
+   "published": "2026-11-18T22:20:57.000Z"
+  },
+  {
+   "region": "Ghana",
+   "source": "3News",
+   "title": "Arise Ghana expresses concern over cocaine seizures linked to Ghana, demands urgent Gov't action",
+   "summary": "The group says the growing number of cocaine interceptions, both within Ghana and abroad, poses a serious threat to national security, the country's international reputation, and the future of the youth.",
+   "published": "2026-11-18T22:07:26.000Z"
   },
   {
    "region": "Ghana",
@@ -177,34 +177,6 @@
    "published": "2026-11-18T20:50:19.000Z"
   },
   {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "Ghana's banks are solvent, liquid and profitable, Bank of Ghana says",
-   "summary": "Bad loans fell to 13.1 per cent in October from 19.5 per cent a year earlier as bank assets grew to GH¢512.9 billion.",
-   "published": "2026-11-18T20:40:19.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "Mahama opens Ghana's own DNA lab at Noguchi, so samples no longer go to South Africa",
-   "summary": "The human identification lab was built after the August 2025 helicopter crash, when tissue had to be flown abroad for testing. New mRNA vaccine labs opened too.",
-   "published": "2026-11-18T20:30:19.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "Rent Commissioner says UGEL locked him and two police officers inside a Legon hostel",
-   "summary": "Frederick Opoku says UGEL's lawyers warned him a visit would be trespass. He went anyway, found mould and mice, and told the company to go to court.",
-   "published": "2026-11-18T20:20:19.000Z"
-  },
-  {
-   "region": "Ghana",
-   "source": "3News",
-   "title": "NALAG pushes for MMDCEs to be elected, calls for stronger local governance in decentralisation reform",
-   "summary": "\"These reforms are intended to strengthen local governance and ensure that the concerns of local authorities are adequately reflected in the ongoing national constitutional review process.\"",
-   "published": "2026-11-18T19:52:25.000Z"
-  },
-  {
    "region": "World",
    "source": "BBC News",
    "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
@@ -221,44 +193,44 @@
   {
    "region": "World",
    "source": "BBC News",
-   "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-   "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
-   "published": "2026-11-18T16:10:44.000Z"
+   "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+   "summary": "No state has ever been found guilty by an international court of committing genocide.",
+   "published": "2026-11-18T23:04:06.000Z"
+  },
+  {
+   "region": "World",
+   "source": "BBC News",
+   "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+   "summary": "The firm started just five years ago and is now one of the biggest names in artificial intelligence.",
+   "published": "2026-11-19T02:20:15.000Z"
+  },
+  {
+   "region": "World",
+   "source": "BBC News",
+   "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+   "summary": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
+   "published": "2026-11-19T00:49:19.000Z"
+  },
+  {
+   "region": "World",
+   "source": "BBC News",
+   "title": "Crimean Bridge attacked again, Russian official says",
+   "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
+   "published": "2026-11-19T01:05:03.000Z"
   },
   {
    "region": "World",
    "source": "BBC News",
    "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
    "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
-   "published": "2026-11-18T20:14:57.000Z"
+   "published": "2026-11-18T22:34:56.000Z"
   },
   {
    "region": "World",
    "source": "BBC News",
-   "title": "William and Kate meet PM Modi as they wrap up India tour",
-   "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize",
-   "published": "2026-11-18T20:07:08.000Z"
-  },
-  {
-   "region": "World",
-   "source": "BBC News",
-   "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
-   "summary": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.",
-   "published": "2026-11-18T13:04:48.000Z"
-  },
-  {
-   "region": "World",
-   "source": "BBC News",
-   "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-   "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
-   "published": "2026-11-18T17:34:25.000Z"
-  },
-  {
-   "region": "World",
-   "source": "BBC News",
-   "title": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
-   "summary": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.",
-   "published": "2026-11-18T15:39:57.000Z"
+   "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+   "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+   "published": "2026-11-19T02:59:06.000Z"
   },
   {
    "region": "World",
@@ -270,20 +242,6 @@
   {
    "region": "World",
    "source": "BBC News Africa",
-   "title": "Can a US-backed mineral highway bring peace and prosperity to DR Congo?",
-   "summary": "The Lobito Corridor is at the centre of a US-backed effort to secure access to Africa's critical minerals.",
-   "published": "2026-11-18T05:11:42.000Z"
-  },
-  {
-   "region": "World",
-   "source": "BBC News Africa",
-   "title": "Nigeria approves law allowing states to run their own police",
-   "summary": "The push for state police comes amid persistent security crises across the country.",
-   "published": "2026-11-18T07:45:06.000Z"
-  },
-  {
-   "region": "World",
-   "source": "BBC News Africa",
    "title": "Divide and conquer - now maverick Erasmus plans online watchalong",
    "summary": "Rassie Erasmus is a serial offender when it comes to criticising officials, but he retains huge support in South Africa - and has unique plans for following his team's game against Ireland.",
    "published": "2026-11-18T15:02:01.000Z"
@@ -291,58 +249,58 @@
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Floodwaters submerge cars and parking lots in Florida town",
-   "summary": "Floodwaters turned streets and parking lots into rivers in Davie, Florida, leaving drivers facing dangerous conditions.",
-   "published": "2026-11-18T21:08:04.000Z"
+   "title": "Google’s driverless car hits a roadblock",
+   "summary": "Waymo faces fresh scrutiny after a driverless car stalled in San Francisco floodwaters amid other traffic incidents.",
+   "published": "2026-11-19T02:57:56.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "US Defence Secretary Hegseth reveals military partnership on Venezuela trip",
-   "summary": "Pete Hegseth says the agreement will include joint training and intelligence sharing with the Venezuelan military.",
-   "published": "2026-11-18T21:01:05.000Z"
+   "title": "What do Trump, Putin and Xi want from their Shenzhen meeting?",
+   "summary": "The US, Chinese and Russian leaders are to hold their first three-way talks on the sidelines of the APEC summit.",
+   "published": "2026-11-19T02:57:19.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "What does Israel’s new ground offensive mean for Palestinians in Gaza?",
-   "summary": "Israeli tanks advance beyond the 'Yellow Line', forcing Palestinians to flee again in Gaza.",
-   "published": "2026-11-18T20:38:06.000Z"
+   "title": "ICJ to rule on Rohingya genocide case against Myanmar",
+   "summary": "The Gambia accuses Myanmar of genocide following a 2017 military crackdown that displaced at least 730,000 Rohingya.",
+   "published": "2026-11-19T02:10:43.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Pew Research: Islam on track to become world’s largest religion by 2035",
-   "summary": "The report projects steady increases for both Christianity and Islam from 2020 to 2070.",
-   "published": "2026-11-18T20:37:40.000Z"
+   "title": "Hegseth unveils new US-Venezuela military deal",
+   "summary": "Pete Hegseth has unveiled a new military deal with Venezuela in his first visit since the US capture of Nicolas Maduro.",
+   "published": "2026-11-19T01:48:46.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Putin’s nuclear briefcase makes surprise appearance at China summit",
-   "summary": "Russian President Vladimir Putin’s nuclear briefcase was spotted at the APEC summit in China.",
-   "published": "2026-11-18T20:24:50.000Z"
+   "title": "Why a trio of experts alleges Jeffrey Epstein did not die by suicide",
+   "summary": "A new report alleges that injuries on Epstein's body were overlooked by medical examiners during his 2019 autopsy.",
+   "published": "2026-11-19T01:17:08.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "Muslims projected to overtake Christians as world’s largest religious group",
-   "summary": "New Pew Research Center projections point to major changes in the world’s religious landscape by 2070.",
-   "published": "2026-11-18T20:21:34.000Z"
+   "title": "Settler rams into Palestinians at multiple locations in central Israel",
+   "summary": "At least eight Palestinians were injured after a settler driver was caught on camera running them over.",
+   "published": "2026-11-19T01:13:45.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "US loses measles-free status after 26 years in historic setback",
-   "summary": "The US has lost its measles elimination status after 26 years, as its largest outbreak in over three decades continues.",
-   "published": "2026-11-18T20:18:25.000Z"
+   "title": "German FA backs France’s Diallo for FIFA presidency",
+   "summary": "Incumbent Gianni Infantino has resisted repeated calls to resign, citing overwhelming global support.",
+   "published": "2026-11-19T00:44:50.000Z"
   },
   {
    "region": "World",
    "source": "Al Jazeera",
-   "title": "US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal",
-   "summary": "Letter alleges possible conflict of interest in commerce secretary not adding Megaspeed to US trade blacklist.",
-   "published": "2026-11-18T20:14:04.000Z"
+   "title": "Kenya’s milk shortage deepens as drought hits farmers and pushes up prices",
+   "summary": "Farmers are receiving higher payments but are producing far less milk and also face rising prices for hay.",
+   "published": "2026-11-19T00:40:01.000Z"
   },
   {
    "region": "World",
@@ -354,9 +312,9 @@
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
-   "summary": "Leaked documents raise questions about claims Egypt met welfare targets to qualify for €2.5bn in loans The European Commission has been accused of sugarcoating figures to enable it to release funds to Egypt under a landmark pact with the authoritarian government of Abdel Fatah al-Sisi. The charge relates to a €7.4bn deal promised by Ursula von der Leyen , the European Commission president, to al-Sisi on a high-profile visit to Cairo in 2024. The three-year “strategic and comprehensive partnershi",
-   "published": "2026-11-18T05:00:32.000Z"
+   "title": "Florida pastor found guilty over 2021 assassination of Haitian president",
+   "summary": "Christian Emmanuel Sanon faces life in prison after conviction on charges arising from killing of Jovenel Moïse A Florida pastor with dual Haitian-American citizenship was convicted on Wednesday of US charges arising from the 2021 assassination of the Haitian president Jovenel Moïse. Christian Emmanuel Sanon was found guilty on charges including conspiring to kill Moïse after a nearly eight-week trial in federal court in Miami. He had faced a total of eight charges including conspiracy to kidnap",
+   "published": "2026-11-18T22:31:41.000Z"
   },
   {
    "region": "World",
@@ -375,30 +333,37 @@
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "Anthony Albanese defies critics for Apec summit photo with Vladimir Putin",
-   "summary": "Despite pleas from pro-Ukraine Australians, the prime minister accepts wishes of Chinese hosts with group picture Get our daily political email , free app or daily news podcast Anthony Albanese has appeared in a leaders’ photo with Vladimir Putin at the Apec summit in China, despite Australia’s Ukrainian community urging the prime minister to protest against Russia’s war. After arriving in the Chinese tech capital, Shenzhen, on Wednesday, Albanese said he would respect the wishes of China as the",
-   "published": "2026-11-18T15:39:11.000Z"
+   "title": "‘I’ll take the rap for that’: labour hire boss asked for fake invoices for sports club sponsorships, Big Build royal commission hears",
+   "summary": "Invoices, including for junior football and netball sponsorships totalling thousands of dollars, were part of ‘distorted’ payments to CFMEU official, inquiry told Get our breaking news email , free app or daily news podcast A labour hire company distorted payments, including to a former top CFMEU official, by creating fake invoices for sports club sponsorships worth thousands of dollars. BK Labour Hire director Bernard Kearney continued his evidence to the royal commission into alleged corruptio",
+   "published": "2026-11-19T03:01:40.000Z"
   },
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "Business Council of Australia more aligned with fossil fuel industry than its members’ values, analysis finds",
-   "summary": "Research by InfluenceMap raises questions about association’s policies and representation, particularly around advocacy for new gas supplies Get our breaking news email , free app or daily news podcast The Business Council of Australia is lobbying for gas expansion policies that clash with the climate concerns of the majority of its own members, according to new research that raises questions about the sway of a handful of major companies. The business association also does not publicly disclose",
-   "published": "2026-11-18T14:00:02.000Z"
+   "title": "One Nation’s general manager takes leave amid speculation he will be sidelined after leaks and vetting scandals",
+   "summary": "Exclusive: Kelvin Morton was hired in February in appointment heralded as turning point for professionalisation of party Get our daily political email , free app or daily news podcast One Nation’s general manager, Kelvin Morton, has taken leave amid speculation that he will be sidelined from his role after a series of leaks about internal party processes and vetting scandals. Morton’s leave, confirmed by several One Nation sources unauthorised to comment publicly, comes as the federal party fina",
+   "published": "2026-11-19T02:36:37.000Z"
   },
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "‘Phantom forests’ in Australia’s arid outback used to create carbon credits meant to offset emissions, report claims",
-   "summary": "Carbon credit companies reject research that found only small increase in forest and canopy cover in regeneration areas despite wet conditions Get our daily political email , free app or daily news podcast A fight over the legitimacy of Australia’s climate change policy has reignited after researchers claimed “phantom forests” in the semi-arid outback are being used to create offsets that allow fossil fuel companies to keep pumping out pollution. A group of academics, including professors from t",
-   "published": "2026-11-18T09:30:36.000Z"
+   "title": "GTA 6 dazzles gamers in Australia with ‘fully lived-in, breathable world’",
+   "summary": "Players can renovate houses, fix cars, lift weights and follow the story in Grand Theft Auto VI’s Miami-inspired Vice City Tell us: are you playing Grand Theft Auto VI? Gamers across Australia woke up Thursday morning feeling like Christmas had come early, some bleary-eyed from late-night sessions on the PlayStation, others with grand plans for a weekend foray in Vice City when their day jobs let them loose. Grand Theft Auto VI, more than a decade in the making, is here. And the reviews, mere ho",
+   "published": "2026-11-19T02:30:12.000Z"
   },
   {
    "region": "World",
    "source": "The Guardian",
-   "title": "‘I didn’t notice his body being purple’: Byron Bay doula left newborn to inflate a jumping castle, court hears",
-   "summary": "Inquest into deaths of four babies born in free births or at home in northern NSW between 2022 and 2024 hears ‘something was seriously wrong’ Get our breaking news email , free app or daily news podcast Baby DH was born in an inflatable pool, in a candle-lit room in his parents’ home near Byron Bay, with no one medically trained present. There are two very different versions of what happened next. In the parents’ version, the doula reassured them Baby DH was OK, then left to inflate a jumping ca",
-   "published": "2026-11-18T07:58:32.000Z"
+   "title": "General Pants Co enters voluntary administration, putting hundreds of jobs at risk",
+   "summary": "Australian fashion chain becomes latest retailer in trouble after David Jones, Cue and Veronika Maine Get our breaking news email , free app or daily news podcast Youth fashion chain General Pants Co has become the latest major retailer to slide into voluntary administration, putting nearly 500 jobs at risk as Australia’s retail sector continues to struggle with cash-strapped shoppers and online-only competitors. The collapse comes not long after that of upmarket department store David Jones and",
+   "published": "2026-11-19T01:46:21.000Z"
+  },
+  {
+   "region": "World",
+   "source": "DW",
+   "title": "Almost 1 in 4 children live in conflict zones — report",
+   "summary": "Denial of humanitarian access, abductions and sexual violence are among several violations against children that have increased dramtically over the past year, according to a new report by Save the Children.",
+   "published": "2026-11-19T00:34:00.000Z"
   },
   {
    "region": "World",
@@ -437,10 +402,38 @@
   },
   {
    "region": "World",
-   "source": "DW",
-   "title": "APEC summit: What Trump, Xi and Putin want",
-   "summary": "Trump, Xi and Putin will hold their first trilateral meeting on the sidelines of APEC. With different priorities on trade, Ukraine, Iran and arms control, what does each leader hope to gain?",
-   "published": "2026-11-18T05:39:00.000Z"
+   "source": "France 24",
+   "title": "COP31: Vanuatu calls for UN climate summit reform, warns of backsliding",
+   "summary": "Vanuatu's Environment Minister Ralph Regenvanu has called for changes to the UN climate summit process, accusing a small group of countries of blocking progress and warning that COP31 risks reversing previous commitments.",
+   "published": "2026-11-19T02:00:39.000Z"
+  },
+  {
+   "region": "World",
+   "source": "France 24",
+   "title": "Xi-Trump-Putin talks live: China, US and Russia leaders to hold landmark three-way meeting",
+   "summary": "The leaders of China, the US and Russia are set to hold a first-of-its-kind trilateral meeting on Thursday in the Chinese city of Shenzhen, on the sidelines of an APEC summit. The meeting between Xi Jinping, Donald Trump and Vladimir Putin, which Beijing said would involve \"safeguarding world peace\", has raised fears of a carve-up of the globe into \"spheres of influence\". Follow our liveblog for the latest developments.",
+   "published": "2026-11-19T01:47:04.000Z"
+  },
+  {
+   "region": "World",
+   "source": "France 24",
+   "title": "24-month matured Comté crowned world’s best cheese",
+   "summary": "With its nutty flavour and smooth, supple texture, it was aged for two years in a former military fortress in eastern France. Comté, an unpasteurised cow’s milk cheese from the Jura Mountains, has beaten more than five thousand challengers to the top prize at the prestigious annual 'World Cheese Awards'. FRANCE 24's Daniel Whittington has the story.",
+   "published": "2026-11-18T22:32:24.000Z"
+  },
+  {
+   "region": "World",
+   "source": "France 24",
+   "title": "Inside Limoges City Hall devastated by arson attack",
+   "summary": "Work is underway to restore the city hall of Limoges, in central France, which was devastated by an arson attack during riots on October 17. More than €1.7 million has been raised through an online fundraising campaign in the wake of the disaster. Also on the show, the highly anticipated Grand Theft Auto VI has finally been released, with gamers in Oceania among the first to get a taste of the latest instalment in the video game franchise.",
+   "published": "2026-11-18T22:23:48.000Z"
+  },
+  {
+   "region": "World",
+   "source": "France 24",
+   "title": "Crimea bridge strike: Fact-checking fake videos of damage after Ukraine's attack",
+   "summary": "Ukraine struck the Kerch Bridge linking Russia to occupied Crimea, but not all the dramatic footage circulating online is real. Multiple AI-generated videos falsely show the bridge collapsed with extensive damage. Some even used branding resembling a Ukrainian news agency to appear credible. While the bridge was indeed struck and damaged, the viral videos were fabricated using AI, as Vedika Bahl explains.",
+   "published": "2026-11-18T21:51:43.000Z"
   },
   {
    "region": "World",
@@ -462,41 +455,6 @@
    "title": "US Democrats nominate Jeffries to be first Black House speaker",
    "summary": "Hakeem Jeffries is on the cusp of becoming the first Black speaker of the US House of Representatives after Democrats elected him their leader Wednesday following a sweeping midterm election triumph. Jeffries faced no declared challenger, although opposition from some newly elected progressives had exposed divisions over how Democrats should wield their newfound power. FRANCE 24's Fraser Jackson reports from Washington.",
    "published": "2026-11-18T19:58:23.000Z"
-  },
-  {
-   "region": "World",
-   "source": "France 24",
-   "title": "Israeli army launches ground operation in Hamas-controlled area of Gaza",
-   "summary": "The Israeli military said it had launched an operation on Wednesday in a Hamas-controlled area of central Gaza, where an AFP journalist saw Israeli tanks position themselves east of the Nuseirat refugee camp. The rare ground operation comes after inconclusive Israeli elections, with the opposition's Gadi Eisenkot trying to form a government without caretaker prime minister Benjamin Netanyahu, who has built his brand on saying he will ensure Israel's security. FRANCE 24's Daniel Whittington repor",
-   "published": "2026-11-18T19:55:15.000Z"
-  },
-  {
-   "region": "World",
-   "source": "France 24",
-   "title": "'Netanyahu's only 2 tickets are racism or starting a war: He stopped acting as a democratic player'",
-   "summary": "François Picard is pleased to welcome Israeli writer and filmmaker Etgar Keret, author of \"The Seven Good Years\", joining us from Tel Aviv. Keret argues that Netanyahu is seeking to remain in power, at any cost, including delegitimizing Arab parties and prolonging conflict. “For him, it could be a never-ending war as long as he's in power. He has no incentive to stop it,” he warns. Keret also calls for Israelis to examine how the war in Gaza was conducted, arguing that “the media as a whole igno",
-   "published": "2026-11-18T19:45:16.000Z"
-  },
-  {
-   "region": "World",
-   "source": "France 24",
-   "title": "Xi welcomes Trump: Does Nvidia scandal upend US-China AI race?",
-   "summary": "You can strike Jensen Huang from the guest list but good luck steering dinner conversation away from the topic in Shenzhen. The co-founder of the AI computing leader was to accompany the US president to the APEC summit before he was undone by revelations of a dalliance with a Chinese national that happened to coincide with a Singapore client's backdoor skirting of sanctions on its powerful H200 chips.",
-   "published": "2026-11-18T19:42:17.000Z"
-  },
-  {
-   "region": "World",
-   "source": "France 24",
-   "title": "Why Ukraine keeps trying to bring down Russia's bridge to Crimea",
-   "summary": "A Ukrainian drone and missile strike on Monday night brought down a stretch of the bridge linking the annexed Crimean Peninsula to Russia, potentially crippling a route long used by Moscow to move men and materiel into Crimea and the southern front. Here’s why Kyiv keeps testing its strength against an infrastructure project that has become synonymous with Russian President Vladimir Putin’s 2014 seizure of the peninsula.",
-   "published": "2026-11-18T18:17:34.000Z"
-  },
-  {
-   "region": "World",
-   "source": "France 24",
-   "title": "Beijing has supported Moscow but 'China understands that America is way more important than Russia'",
-   "summary": "Following Xi Jinping's very friendly rare tarmac greeting for Donald Trump, Erin Ogunkeye is pleased to welcome Kerry Brown, Professor of Chinese Studies and Director of the Lau China Institute at King's College, London. Brown examines the complex relationship between the world's two largest economies, China's growing diplomatic influence and the competition over artificial intelligence.“China is the diplomatic center of the world,” says Brown, pointing to Beijing's ability to bring together lea",
-   "published": "2026-11-18T17:48:38.000Z"
   },
   {
    "region": "World",
